@@ -85,10 +85,24 @@ header,main {
 
 header {
     margin-top: 20px;
+
+    display: flex;
+    gap: 1em 2em;
+    flex-wrap: wrap;
 }
 
 nav {
     display: inline-block;
+    min-width: fit-content;
+}
+
+.nav-lang {
+    flex: 1;
+    text-align: right;
+}
+
+.nav-lang a {
+    margin: 0;
 }
 
 main {
