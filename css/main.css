@@ -1,23 +1,15 @@
 :root {
     --page-container-width: 64ch;
-    --main-bg-color: #23272b;
-    --main-text-color: #dadce0;
     --main-text-font-size: 20px;
     --main-text-line-height: 1.45em;
     --main-text-alignment: justify;
     --main-text-hyphenation: manual;
-    --main-link-color: #70b1e6;
-    --main-link-visited-color: #275B84;
-    --code-block-background-color: rgba(135, 131, 120, 0.15);
-    --inline-code-background-color: rgba(135, 131, 120, 0.15);
+    --header-height: 2em;
 
     color-scheme: dark light;
 }
 
 html, body {
-    /* background-color: var(--main-bg-color);
-    color: var(--main-text-color); */
-
     font-family: sans-serif;
     font-size: var(--main-text-font-size);
     line-height: var(--main-text-line-height);
@@ -32,10 +24,6 @@ p {
     hyphens: var(--main-text-hyphenation);
 }
 
-nav a {
-    margin: 0 10px;
-}
-
 h1 {
     text-align: center;
     line-height: 1em;
@@ -48,14 +36,6 @@ h2,h3,h4 {
 h3 {
     border-bottom: solid 1px;
 }
-
-/* a {
-    color: var(--main-link-color);
-}
-
-a:visited {
-    color: var(--main-link-visited-color);
-} */
 
 a.anchor-link {
     font-size: 0.5em;
@@ -84,6 +64,7 @@ header,main,footer {
 }
 
 header {
+    min-height: var(--header-height);
     margin-top: 20px;
 
     display: flex;
@@ -91,9 +72,21 @@ header {
     flex-wrap: wrap;
 }
 
+.logo {
+    width: 2em;
+    height: 2em;
+    
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
 nav {
     display: inline-block;
     min-width: fit-content;
+}
+
+nav a {
+    margin: 0 10px;
 }
 
 .nav-lang {
@@ -134,23 +127,6 @@ table th,td,tr {
 
 table th,td,tr {
     padding: 10px;
-}
-
-code {
-    padding: 0.25em;
-    /* background-color: var(--inline-code-background-color); */
-    font-family: monospace;
-}
-
-pre:has(> code) {
-    /* background-color: var(--code-block-background-color); */
-    padding: 20px;
-    overflow-x: auto;
-    overflow-y: auto;
-}
-
-pre > code {
-    /* background-color: rgba(0, 0, 0, 0); */
 }
 
 span[title]:hover:after {
