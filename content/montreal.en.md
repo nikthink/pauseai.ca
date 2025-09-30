@@ -2,6 +2,8 @@
 title: Montreal
 date: 2025-09-30T02:13:38-04:00
 draft: false
+aliases:
+    - /montreal_en.html
 ---
 <!-- <img class="logo pauseaica-logo" src="images/pauseai-ca.png" /> -->
 
@@ -24,5 +26,3 @@ join our [discord server](https://pauseai.ca/mtl/discord),
 or email nik at <nicolas.m.lacombe@gmail.com>.
 
 More content to come. for now see [pauseai.info](https://pauseai.info)
-
-test1nl

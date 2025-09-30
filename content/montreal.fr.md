@@ -2,6 +2,8 @@
 title: Montréal
 date: "2025-09-29T21:00:41-04:00"
 draft: false
+aliases:
+    - /montreal_fr.html
 ---
 <!-- <img class="logo" src="images/pauseai-mtl.png" /> -->
 
