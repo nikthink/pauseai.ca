@@ -1,0 +1,58 @@
+# Documentation: https://gohugo.io/getting-started/configuration
+baseURL: 'https://pauseai.ca/'
+title: pauseai.ca
+theme: hugo-theme-yue
+relativeURLs: true
+uglyURLs: true
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: true
+markup:
+  tableOfContents:
+    ordered: true
+outputs:
+    home:
+        - html
+    page:
+        - html
+    section:
+        - html
+pagination:
+  pagerSize: 100
+
+params:
+  _merge: deep
+  rssFullContent: true
+  sectionPagerSize: 10000
+
+cascade:
+  params:
+    toc: true
+
+frontmatter:
+  lastmod: ['lastmod', ':default']
+
+markup:
+  _merge: deep
+
+languages:
+  en:
+    contentDir: content/en
+    languageCode: en-CA
+    languageDirection: ltr
+    languageName: English
+    title: PauseAI Canada
+    weight: 10
+    menus:
+      main:
+        - name: Home
+          pageRef: /
+          weight: 1
+        - name: Posts
+          pageRef: /posts
+          weight: 2
+        - name: About
+          pageRef: /about
+          weight: 3
+    params:
+      dateFormat: 2006-01-02
+      author: nik lacombe
