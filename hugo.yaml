@@ -36,7 +36,7 @@ languages:
         menus:
             main:
                 - name: Canada
-                  pageRef: /canada
+                  pageRef: /
                   weight: 1
                 - name: Montréal
                   pageRef: /montreal
@@ -52,7 +52,7 @@ languages:
         menus:
             main:
                 - name: Canada
-                  pageRef: /canada
+                  pageRef: /
                   weight: 1
                 - name: Montreal
                   pageRef: /montreal

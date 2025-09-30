@@ -2,6 +2,8 @@
 title: Canada
 date: 2025-09-30T01:53:19-04:00
 draft: false
+aliases:
+    - canada.html
 ---
 
 <!-- <h1><img class="logo" src="images/pauseai-ca.png" /></h1> -->
