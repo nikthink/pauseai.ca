@@ -1,0 +1,10 @@
+  <h1>
+    <img src="/images/pauseai-ca.png" alt="pauseai canada logo" style="height: 1em" />
+    {{ site.Title }}
+  </h1>
+  <nav class="menu language">
+    <ul class="menu__list language__list">
+    {{- partial "header/menu.html" (dict "menuID" "main" "page" .) -}}
+    {{- partial "header/language_selector.html" . -}}
+    </ul>
+  </nav>
