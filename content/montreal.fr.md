@@ -4,9 +4,9 @@ date: "2025-09-29T21:00:41-04:00"
 draft: false
 aliases:
     - /montreal_fr.html
+params:
+    logo: /images/pauseai-mtl.png
 ---
-<!-- <img class="logo" src="images/pauseai-mtl.png" /> -->
-
 Nous sommes une communauté de bénévoles qui visent à mitiger
 les risques de l'IA en convaincant les gouvernements à
 mettre sur pause le développement d'une IA superhumaine.  

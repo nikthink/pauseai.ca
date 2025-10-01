@@ -4,9 +4,9 @@ date: 2025-09-30T02:13:38-04:00
 draft: false
 aliases:
     - /montreal_en.html
+params:
+    logo: /images/pauseai-mtl.png
 ---
-<!-- <img class="logo pauseaica-logo" src="images/pauseai-ca.png" /> -->
-
 We are a community of volunteers that aims to mitigate
 the risks of AI by convincing governments to
 pause the development of superhuman AI.  
