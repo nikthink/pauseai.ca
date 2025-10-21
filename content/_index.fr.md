@@ -6,6 +6,8 @@ draft: false
 
 <!-- <h1><img class="logo" src="images/pauseai-ca.png" /></h1> -->
 
+{{< shared-callout >}}
+
 communauté pauseai locale au canada:
 
 - [Montréal](montreal.html)
