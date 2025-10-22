@@ -10,6 +10,6 @@ communauté pauseai locale au canada:
 
 - [Montréal](montreal.html)
 
-Si vous organizer une communauté pauseai locale au canada
-et vous voulez être ajouté à cette liste,
-svp envoyer in courriel à <nicolas.m.lacombe@gmail.com>.
+Si vous organisez une communauté PauseAI locale au Canada
+et souhaitez être ajouté à cette liste,
+svp envoyer un courriel à <nicolas.m.lacombe@gmail.com>.
