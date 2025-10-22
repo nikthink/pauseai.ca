@@ -8,6 +8,8 @@ aliases:
 
 <!-- <h1><img class="logo" src="images/pauseai-ca.png" /></h1> -->
 
+{{< shared-callout >}}
+
 pauseai local communities in canada:
 
 - [Montreal](montreal.html)
