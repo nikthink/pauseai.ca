@@ -22,7 +22,7 @@ PauseAI informe le public, parle aux décideurs politiques, et organise des év�
 
 Si vous êtes intéressé à vous impliquer ou avez des questions,
 venez à l'une de nos [rencontres](https://luma.com/pauseaimtl),  
-rejoignez notre [serveur discord](https://pauseai.ca/mtl/discord),
+rejoignez notre [serveur discord](../mtl/discord.html),
 ou envoyez un courriel à nik à <nicolas.m.lacombe@gmail.com>.
 
 Plus de contenu à venir, pour l'instant visitez

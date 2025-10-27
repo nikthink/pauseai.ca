@@ -6,7 +6,9 @@ draft: false
 
 <!-- <h1><img class="logo" src="images/pauseai-ca.png" /></h1> -->
 
-communauté pauseai locale au canada:
+Rejoignez notre [serveur discord](../ca/discord.html)
+
+Communauté PauseAI locale au canada:
 
 - [Montréal](montreal.html)
 

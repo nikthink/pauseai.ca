@@ -22,7 +22,7 @@ At pauseai montreal, we:
 
 If you want to get involved or have questions,
 join one of our [meetups](https://luma.com/pauseaimtl),  
-join our [discord server](https://pauseai.ca/mtl/discord),
+join our [discord server](../mtl/discord.html),
 or email nik at <nicolas.m.lacombe@gmail.com>.
 
 More content to come. for now see [pauseai.info](https://pauseai.info)
