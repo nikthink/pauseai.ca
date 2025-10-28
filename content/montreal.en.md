@@ -12,6 +12,9 @@ the risks of AI by convincing governments to
 pause the development of superhuman AI.  
 PauseAI informs the public, talks to policy-makers, and organizes events. 
 
+Join us at one of our [events](https://luma.com/pauseaimtl) !
+Or talk to us on [discord](../mtl/discord.html).
+
 At pauseai montreal, we:
 
 - Find people already concerned about AI at meetups around montreal
@@ -21,7 +24,7 @@ At pauseai montreal, we:
 - ... and more to come!
 
 If you want to get involved or have questions,
-join one of our [meetups](https://luma.com/pauseaimtl),  
+come to one of our [events](https://luma.com/pauseaimtl),  
 join our [discord server](../mtl/discord.html),
 or email nik at <nicolas.m.lacombe@gmail.com>.
 
