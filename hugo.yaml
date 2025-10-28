@@ -7,6 +7,7 @@ defaultContentLanguage: fr
 defaultContentLanguageInSubdir: true
 
 markup:
+    _merge: deep
     tableOfContents:
         ordered: true
 
@@ -23,9 +24,6 @@ cascade:
 
 frontmatter:
     lastmod: ['lastmod', ':default']
-
-markup:
-    _merge: deep
 
 languages:
     fr:

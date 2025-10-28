@@ -15,6 +15,8 @@ PauseAI informs the public, talks to policy-makers, and organizes events.
 Join us at one of our [events](https://luma.com/pauseaimtl) !
 Or talk to us on [discord](/mtl/discord.html).
 
+{{< subscribe-mailing-list >}}
+
 At pauseai montreal, we:
 
 - Find people already concerned about AI at meetups around montreal
