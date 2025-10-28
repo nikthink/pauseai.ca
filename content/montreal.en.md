@@ -26,3 +26,6 @@ join our [discord server](../mtl/discord.html),
 or email nik at <nicolas.m.lacombe@gmail.com>.
 
 More content to come. for now see [pauseai.info](https://pauseai.info)
+
+### Events
+{{< luma-event-embed >}}

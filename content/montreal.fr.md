@@ -28,3 +28,6 @@ ou envoyez un courriel à nik à <nicolas.m.lacombe@gmail.com>.
 Plus de contenu à venir, pour l'instant visitez
 [pauseai.info](https://pauseai.info) (site principale de pauseai en anglais) ou
 [pauseia.fr](https://pauseia.fr) (site de pauseia france en français).
+
+### Événements
+{{< luma-event-embed >}}
