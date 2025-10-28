@@ -13,7 +13,7 @@ pause the development of superhuman AI.
 PauseAI informs the public, talks to policy-makers, and organizes events. 
 
 Join us at one of our [events](https://luma.com/pauseaimtl) !
-Or talk to us on [discord](../mtl/discord.html).
+Or talk to us on [discord](/mtl/discord.html).
 
 At pauseai montreal, we:
 
@@ -25,7 +25,7 @@ At pauseai montreal, we:
 
 If you want to get involved or have questions,
 come to one of our [events](https://luma.com/pauseaimtl),  
-join our [discord server](../mtl/discord.html),
+join our [discord server](/mtl/discord.html),
 or email nik at <nicolas.m.lacombe@gmail.com>.
 
 More content to come. for now see [pauseai.info](https://pauseai.info)

@@ -1,7 +1,7 @@
 {{ define "main" }}
   <h1>
     {{- if .Param "logo" -}}
-      <img src="{{ .Param "logo" }}" alt="page logo" style="height: 1em" />
+      <img src="{{ .Param "logo" }}" alt="page logo" class="h1-logo" />
       &nbsp;
     {{- end -}}
     {{ .Title }}

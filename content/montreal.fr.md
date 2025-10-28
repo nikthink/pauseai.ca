@@ -13,7 +13,7 @@ mettre sur pause le développement d'une IA superhumaine.
 PauseAI informe le public, parle aux décideurs politiques, et organise des événements.
 
 Rejoins-nous à l'un de nos [événements](https://luma.com/pauseaimtl) !
-Ou viens nous parler sur [Discord](../mtl/discord.html).
+Ou viens nous parler sur [Discord](/mtl/discord.html).
 
 À PauseAI Montréal, nous :
 
@@ -25,7 +25,7 @@ Ou viens nous parler sur [Discord](../mtl/discord.html).
 
 Si vous êtes intéressé à vous impliquer ou avez des questions,
 venez à l'une de nos [événements](https://luma.com/pauseaimtl),  
-rejoignez notre [serveur discord](../mtl/discord.html),
+rejoignez notre [serveur discord](/mtl/discord.html),
 ou envoyez un courriel à nik à <nicolas.m.lacombe@gmail.com>.
 
 Plus de contenu à venir, pour l'instant visitez

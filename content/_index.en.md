@@ -8,7 +8,7 @@ aliases:
 
 <!-- <h1><img class="logo" src="images/pauseai-ca.png" /></h1> -->
 
-Join our our [discord server](../ca/discord.html)
+Join our our [discord server](/ca/discord.html)
 
 PauseAI local communities in Canada:
 

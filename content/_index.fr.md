@@ -6,7 +6,7 @@ draft: false
 
 <!-- <h1><img class="logo" src="images/pauseai-ca.png" /></h1> -->
 
-Rejoignez notre [serveur discord](../ca/discord.html)
+Rejoignez notre [serveur discord](/ca/discord.html)
 
 Communauté PauseAI locale au canada:
 
