@@ -6,3 +6,11 @@
     j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;
     f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-KJX8MKSH');
+
+
+window.dataLayer = window.dataLayer || [];
+function gtag() {
+    dataLayer.push(arguments);
+}
+gtag('js', new Date());
+gtag('config', 'G-9DRDDS2M9V');
