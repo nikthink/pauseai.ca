@@ -55,6 +55,9 @@ languages:
                 - name: Montreal
                   pageRef: /montreal
                   weight: 2
+                - name: Action
+                  pageRef: /action-mtl
+                  weight: 3
         params:
             dateFormat: 2006-01-02
             author: nik lacombe
