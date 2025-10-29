@@ -15,6 +15,8 @@ PauseAI informe le public, parle aux décideurs politiques, et organise des év�
 Rejoins-nous à l'un de nos [événements](https://luma.com/pauseaimtl) !
 Ou viens nous parler sur [Discord](/mtl/discord.html).
 
+Pour vous abonner, envoyez un courriel à <pauseai-mtl-subscribe@lists.riseup.net>.
+
 À PauseAI Montréal, nous :
 
 - Trouvons des personnes déjà sensibilisées à propos de l'IA à travers des événements ouverts à toutes et tous
