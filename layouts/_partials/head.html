@@ -1,6 +1,6 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self' script-src  https://www.googletagmanager.com frame-src https://luma.com">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' https://www.googletagmanager.com; script-src 'self' https://www.googletagmanager.com; frame-src https://luma.com; connect-src https://www.googletagmanager.com https://www.google.com https://*.google-analytics.com;">
 
 <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
 
