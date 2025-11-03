@@ -5,6 +5,10 @@ draft: false
 ---
 Here's a list of actions you can do right now to help.
 
+To be notified of new action opportunities,
+subscribe to our mailing list,
+by sending an email to <pauseai-mtl-subscribe@lists.riseup.net>.
+
 ### Quick actions
 - [ ] Read more about pauseai on pauseai’s website
     - Example, fully read https://pauseai.info/proposal
@@ -19,8 +23,7 @@ Here's a list of actions you can do right now to help.
       you agree with and share it, or sharing https://pauseai.info can be a good start.
 
 ### Highlights
-- [ ] Fill out the Government of Canada's survey on AI: https://ised-isde.canada.ca/site/ised/en/public-consultations/help-define-next-chapter-canadas-ai-leadership
-    - Deadline: 2025-10-31 (October 31, 2025)
+Nothing for now.
 
 ### Generic actions
 - [ ] Send email to local politician, saying why you care about AI
