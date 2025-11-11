@@ -7,6 +7,7 @@ defaultContentLanguage: fr
 defaultContentLanguageInSubdir: true
 
 markup:
+    _merge: deep
     tableOfContents:
         ordered: true
 
@@ -23,9 +24,6 @@ cascade:
 
 frontmatter:
     lastmod: ['lastmod', ':default']
-
-markup:
-    _merge: deep
 
 languages:
     fr:
@@ -57,6 +55,9 @@ languages:
                 - name: Montreal
                   pageRef: /montreal
                   weight: 2
+                - name: Action
+                  pageRef: /action-mtl
+                  weight: 3
         params:
             dateFormat: 2006-01-02
             author: nik lacombe

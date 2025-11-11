@@ -8,9 +8,9 @@ aliases:
 
 <!-- <h1><img class="logo" src="images/pauseai-ca.png" /></h1> -->
 
-{{< shared-callout >}}
+Join our our [discord server](/ca/discord.html)
 
-pauseai local communities in canada:
+PauseAI local communities in Canada:
 
 - [Montreal](montreal.html)
 

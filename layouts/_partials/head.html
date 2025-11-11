@@ -1,0 +1,14 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' https://www.googletagmanager.com; script-src 'self' https://www.googletagmanager.com; frame-src https://luma.com; connect-src https://www.googletagmanager.com https://www.google.com https://*.google-analytics.com;">
+
+<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
+
+{{ partial "head/head-start.html" . }}
+{{ partialCached "head/scss.html" . }}
+{{ partial "head/favicon.html" . }}
+{{ partial "head/description.html" . }}
+{{ partial "opengraph.html" . }} {{/* embedded template */}}
+{{ partial "schema.html" . }} {{/* embedded template */}}
+{{ partial "head/rss_link.html" . }}
+{{ partial "head/head-end.html" . }}
