@@ -7,6 +7,8 @@ aliases:
 params:
     logo: /images/pauseai-mtl.png
 ---
+{{< shared-callout >}}
+
 We are a community of volunteers that aims to mitigate
 the risks of AI by convincing governments to
 pause the development of superhuman AI.  

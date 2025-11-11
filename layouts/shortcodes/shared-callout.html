@@ -1,0 +1,41 @@
+{{ $lang := site.Language.Lang }}
+<section class="shared-cta">
+  {{ if eq $lang "fr" }}
+    <h2 class="shared-cta__title">
+      <span class="shared-cta__title-line">Pour garder l'IA sous contrôle,</span>
+      <span class="shared-cta__title-line shared-cta__title-line--highlight">agissons maintenant</span>
+    </h2>
+    <div class="shared-cta__body">
+      <p>
+        L’IA redéfinit déjà nos emplois, nos élections et notre vie quotidienne. Tous les mois, de nouveaux
+        systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité
+        de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à
+        court terme.
+      </p>
+      <p>
+        La fenêtre se referme vite&nbsp;: agissons maintenant.
+      </p>
+    </div>
+    <a class="shared-cta__button" href="https://luma.com/pauseaimtl">
+      Rejoindre
+    </a>
+  {{ else }}
+    <h2 class="shared-cta__title">
+      <span class="shared-cta__title-line">To keep AI under control,</span>
+      <span class="shared-cta__title-line shared-cta__title-line--highlight">let’s act now</span>
+    </h2>
+    <div class="shared-cta__body">
+      <p>
+        AI is already reshaping our jobs, elections, and daily life. Every month, new systems surpass milestones
+        we thought were years away. According to most AI safety experts, continuing the race without guardrails
+        poses a catastrophic, near-term risk to humanity.
+      </p>
+      <p>
+        The window is closing fast—act now.
+      </p>
+    </div>
+    <a class="shared-cta__button" href="https://luma.com/pauseaimtl">
+      Join us
+    </a>
+  {{ end }}
+</section>
