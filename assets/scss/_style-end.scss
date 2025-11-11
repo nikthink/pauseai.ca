@@ -1,145 +1,165 @@
-// Custom styles applied after the theme defaults
+:root {
+  --background-color: #fefefe;
+  --foreground-color: #111111;
+  --accent-color: #ff9416;
+  --accent-color-strong: #ffb347;
+  --hero-overlay: rgba(255, 255, 255, 0.82);
+  --cta-surface: rgba(255, 255, 255, 0.95);
+  --cta-shadow: 0 1.5rem 3rem rgba(15, 15, 15, 0.12);
+  --button-text-color: #101010;
+  --border-color: rgba(0, 0, 0, 0.08);
+}
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --foreground-color: #ffffff;
-    --foreground-color3: #e6e6e6;
-    --accent-color: #ff9416;
-    --background-color: #000000;
-    --background-color1: rgba(0, 0, 0, 0.65);
+    --background-color: #050505;
+    --foreground-color: #f5f5f5;
+    --hero-overlay: rgba(0, 0, 0, 0.7);
+    --cta-surface: rgba(0, 0, 0, 0.58);
+    --cta-shadow: 0 1.5rem 3rem rgba(0, 0, 0, 0.35);
+    --border-color: rgba(255, 255, 255, 0.18);
   }
+}
 
+.body {
+  background-color: var(--background-color);
+  background-image:
+    linear-gradient(var(--hero-overlay), var(--hero-overlay)),
+    url("/images/pauseia-fr-hero.jpeg");
+  background-size: cover;
+  background-position: center;
+  color: var(--foreground-color);
+}
+
+body,
+.body,
+p,
+li,
+.shared-cta__body {
+  color: var(--foreground-color);
+  font-size: clamp(1.05rem, 2.8vw, 1.25rem);
+  line-height: 1.5;
+}
+
+strong {
+  color: var(--accent-color);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--foreground-color);
+}
+
+a {
+  color: var(--accent-color);
+  text-decoration-color: transparent;
+  transition: color 0.2s ease, text-decoration-color 0.2s ease;
+}
+
+a:hover,
+a:focus-visible {
+  color: var(--accent-color-strong);
+  text-decoration-color: currentColor;
+}
+
+.shared-cta {
+  margin: clamp(2rem, 4vw, 3.5rem) auto;
+  padding: clamp(1.75rem, 3vw, 3rem);
+  max-width: 760px;
+  width: 100%;
+  text-align: center;
+  background-color: var(--cta-surface);
+  border-radius: 1rem;
+  box-shadow: var(--cta-shadow);
+}
+
+.shared-cta__title {
+  margin-bottom: clamp(1rem, 2vw, 1.5rem);
+  font-size: clamp(2rem, 6vw, 3.2rem);
+  font-weight: 700;
+  line-height: 1.1;
+  color: var(--foreground-color);
+}
+
+.shared-cta__title-line {
+  display: block;
+}
+
+.shared-cta__title-line--highlight {
+  color: var(--accent-color);
+}
+
+.shared-cta__body {
+  margin-bottom: clamp(1.5rem, 3vw, 2rem);
+  font-weight: 400;
+}
+
+.shared-cta__button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0.9rem 2.75rem;
+  font-size: 1.05rem;
+  font-weight: 700;
+  background-color: var(--accent-color);
+  color: var(--button-text-color);
+  border-radius: 999px;
+  text-decoration: none;
+  box-shadow: 0 1rem 2.5rem rgba(0, 0, 0, 0.18);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
+}
+
+.shared-cta__button:hover,
+.shared-cta__button:focus-visible {
+  background-color: var(--accent-color-strong);
+  transform: translateY(-2px);
+  box-shadow: 0 1.35rem 3rem rgba(0, 0, 0, 0.25);
+}
+
+.shared-cta__button:focus-visible {
+  outline: 3px solid rgba(255, 148, 22, 0.45);
+  outline-offset: 4px;
+}
+
+@media (prefers-reduced-motion: reduce) {
   .body {
-    background-image:
-      linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-      url("/images/pauseia-fr-hero.jpeg");
-  }
-
-  .shared-cta {
-    background-color: rgba(0, 0, 0, 0.6);
+    background-attachment: scroll;
   }
 
   .shared-cta__button {
-    color: #0f0f0f;
-    box-shadow: 0 1rem 2.5rem rgba(0, 0, 0, 0.45);
+    transition: none;
   }
+}
 
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    color: #ffffff;
-  }
+.button-primary {
+  background-color: var(--accent-color);
+  color: var(--button-text-color);
+  border-radius: 8px;
+  font-weight: 700;
+  padding: 8px 14px;
+  border: 0;
+}
 
-  a {
-    color: var(--accent-color);
-  }
+.h1-logo {
+  height: 1em;
+}
 
-  a:hover {
-    color: lighten(#ff9416, 8%);
-  }
+.luma-iframe {
+  border: 1px solid var(--border-color);
+  border-radius: 4px;
+}
 
-  .shared-cta {
-    margin: clamp(2rem, 4vw, 3.5rem) auto;
-    padding: clamp(1.75rem, 3vw, 3rem);
-    max-width: 760px;
-    width: 100%;
-    text-align: center;
-    background-color: rgba(0, 0, 0, 0.55);
-    border-radius: 1rem;
-    box-shadow: 0 1.5rem 3rem rgba(0, 0, 0, 0.35);
-  }
+.mailing-list-subscribe {
+  display: flex;
+  gap: 10px;
 
-  .shared-cta__title {
-    margin-bottom: clamp(1rem, 2vw, 1.5rem);
-    font-size: clamp(2rem, 6vw, 3.2rem);
-    font-weight: 700;
-    line-height: 1.1;
-  }
-
-  .shared-cta__title-line {
-    display: block;
-  }
-
-  .shared-cta__title-line--highlight {
-    color: var(--accent-color);
-  }
-
-  .shared-cta__body {
-    margin-bottom: clamp(1.5rem, 3vw, 2rem);
-    font-size: clamp(1.05rem, 2.8vw, 1.25rem);
-    color: var(--foreground-color);
-  }
-
-  .shared-cta__body strong {
-    color: var(--accent-color);
-  }
-
-  .shared-cta__button {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    gap: 0.5rem;
-    padding: 0.9rem 2.75rem;
-    font-size: 1.05rem;
-    font-weight: 700;
-    background-color: var(--accent-color);
-    color: #101010;
-    border-radius: 999px;
-    text-decoration: none;
-    box-shadow: 0 1rem 2.5rem rgba(0, 0, 0, 0.3);
-    transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
-  }
-
-  .shared-cta__button:hover,
-  .shared-cta__button:focus {
-    background-color: lighten(#ff9416, 12%);
-    transform: translateY(-2px);
-    box-shadow: 0 1.35rem 3rem rgba(0, 0, 0, 0.4);
-  }
-
-  .shared-cta__button:focus-visible {
-    outline: 3px solid rgba(255, 148, 22, 0.5);
-    outline-offset: 4px;
-  }
-
-  @media (prefers-reduced-motion: reduce) {
-    .body {
-      background-attachment: scroll;
-    }
-
-    .shared-cta__button {
-      transition: none;
-    }
-  }
-
-  .button-primary {
-      background-color: var(--accent-color);
-      color: var(--background-color);
-      border-radius: 8px;
-      font-weight: bold;
-      padding: 8px;
-      border: 0;
-  }
-
-  .h1-logo {
-      height: 1em;
-  }
-
-  .luma-iframe {
-      border: 1px solid #bfcbda88;
-      border-radius: 4px;
-  }
-
-  .mailing-list-subscribe {
-      display: flex;
-      gap: 10px;
-
-      [name="email"] {
-          flex-grow: 1;
-          max-width: 30ch;
-      }
+  [name="email"] {
+    flex-grow: 1;
+    max-width: 30ch;
   }
 }
