@@ -1,6 +1,7 @@
 :root {
   --background-color: #fefefe;
   --foreground-color: #111111;
+  --secondary-color: #111111;
   --accent-color: #ff9416;
   --accent-color-strong: #ffb347;
   --hero-overlay: rgba(255, 255, 255, 0.82);
@@ -14,6 +15,7 @@
   :root {
     --background-color: #050505;
     --foreground-color: #f5f5f5;
+    --secondary-color: #f5f5f5;
     --hero-overlay: rgba(0, 0, 0, 0.7);
     --cta-surface: rgba(0, 0, 0, 0.58);
     --cta-shadow: 0 1.5rem 3rem rgba(0, 0, 0, 0.35);
@@ -21,7 +23,7 @@
   }
 }
 
-.body {
+body {
   background-color: var(--background-color);
   background-image:
     linear-gradient(var(--hero-overlay), var(--hero-overlay)),
@@ -32,9 +34,6 @@
 }
 
 body,
-.body,
-p,
-li,
 .shared-cta__body {
   color: var(--foreground-color);
   font-size: clamp(1.05rem, 2.8vw, 1.25rem);
@@ -43,15 +42,6 @@ li,
 
 strong {
   color: var(--accent-color);
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  color: var(--foreground-color);
 }
 
 a {
@@ -116,6 +106,7 @@ a:focus-visible {
 
 .shared-cta__button:hover,
 .shared-cta__button:focus-visible {
+  color: var(--button-text-color);
   background-color: var(--accent-color-strong);
   transform: translateY(-2px);
   box-shadow: 0 1.35rem 3rem rgba(0, 0, 0, 0.25);
@@ -124,6 +115,11 @@ a:focus-visible {
 .shared-cta__button:focus-visible {
   outline: 3px solid rgba(255, 148, 22, 0.45);
   outline-offset: 4px;
+}
+
+.shared-cta__button-secondary {
+    color: var(--background-color);
+    background-color: var(--secondary-color);
 }
 
 @media (prefers-reduced-motion: reduce) {
