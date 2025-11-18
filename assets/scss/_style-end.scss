@@ -136,6 +136,10 @@ a:focus-visible {
   }
 }
 
+.language__item {
+    margin-left: auto;
+}
+
 .button-primary {
   background-color: var(--accent-color);
   color: var(--button-text-color);
