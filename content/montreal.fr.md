@@ -27,14 +27,9 @@ Pour vous abonner, envoyez un courriel à <pauseai-mtl-subscribe@lists.riseup.ne
 - Entrons en contact et parlons aux décideurs politiques afin de les pousser à légiférer pour rendre l'IA plus sûre
 - ... et plus à venir!
 
-Si vous êtes intéressé à vous impliquer ou avez des questions,
-venez à l'une de nos [événements](https://luma.com/pauseaimtl),  
-rejoignez notre [serveur discord](/mtl/discord.html),
-ou envoyez un courriel à nik à <nicolas.m.lacombe@gmail.com>.
-
-Plus de contenu à venir, pour l'instant visitez
-[pauseai.info](https://pauseai.info) (site principale de pauseai en anglais) ou
-[pauseia.fr](https://pauseia.fr) (site de pauseia france en français).
+Pour plus de contenu sur les risques de l'IA, visitez
+[pauseai.info](https://pauseai.info) (site principale de PauseAI en anglais) ou
+[pauseia.fr](https://pauseia.fr) (site de PauseIA France en français).
 
 ### Événements
 {{< luma-event-embed >}}
