@@ -27,12 +27,7 @@ At pauseai montreal, we:
 - Email and talk to local politicians to push them to vote for AI regulation
 - ... and more to come!
 
-If you want to get involved or have questions,
-come to one of our [events](https://luma.com/pauseaimtl),  
-join our [discord server](/mtl/discord.html),
-or email nik at <nicolas.m.lacombe@gmail.com>.
-
-More content to come. for now see [pauseai.info](https://pauseai.info)
+For more content on the risks of AI see [pauseai.info](https://pauseai.info)
 
 ### Events
 {{< luma-event-embed >}}

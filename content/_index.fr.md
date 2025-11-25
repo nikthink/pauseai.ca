@@ -4,9 +4,7 @@ date: 2025-09-30T02:31:12-04:00
 draft: false
 ---
 
-<!-- <h1><img class="logo" src="images/pauseai-ca.png" /></h1> -->
-
-Rejoignez notre [serveur discord](/ca/discord.html)
+Rejoignez notre [Discord](/ca/discord.html).
 
 Communauté PauseAI locale au canada:
 
