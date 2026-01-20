@@ -6,7 +6,7 @@ aliases:
     - canada.html
 ---
 
-Join our our [Discord](/ca/discord.html).
+Join our [Discord](/ca/discord.html).
 
 PauseAI local communities in Canada:
 
