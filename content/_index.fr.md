@@ -6,7 +6,7 @@ draft: false
 
 Rejoignez notre [Discord](/ca/discord.html).
 
-Communauté PauseAI locale au canada:
+Communauté PauseAI locale au Canada:
 
 - [Montréal](montreal.html)
 

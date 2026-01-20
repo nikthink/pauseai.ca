@@ -12,6 +12,6 @@ PauseAI local communities in Canada:
 
 - [Montreal](montreal.html)
 
-If you are organizing a local pauseai community in canada
+If you are organizing a local pauseai community in Canada
 and want to be added to this list,
 please email nik at <nicolas.m.lacombe@gmail.com>.
