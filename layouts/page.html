@@ -1,11 +1,13 @@
 {{ define "main" }}
-  <h1>
-    {{- if .Param "logo" -}}
-      <img src="{{ .Param "logo" }}" alt="page logo" class="h1-logo" />
-      &nbsp;
-    {{- end -}}
-    {{ .Title }}
-  </h1>
+  {{- if not (.Param "hideTitle") -}}
+    <h1>
+      {{- if and (.Param "logo") (ne (.Param "logoLocation") "header") -}}
+        <img src="{{ .Param "logo" }}" alt="page logo" class="h1-logo" />
+        &nbsp;
+      {{- end -}}
+      {{ .Title }}
+    </h1>
+  {{- end -}}
   {{ partial "page/author.html" . }}
   {{ partial "main/dates.html" . }}
   {{ partial "page/translation_list.html" . }}

@@ -173,6 +173,9 @@ a:focus-visible {
 .header__title-link {
   color: inherit;
   text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
 }
 
 .header__title-link:hover,

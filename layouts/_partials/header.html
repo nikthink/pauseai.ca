@@ -1,6 +1,11 @@
 <div class="header__inner">
   <h1 class="header__title">
-    <a class="header__title-link" href="{{ site.Home.RelPermalink }}">{{ site.Params.headerTitle | default site.Title }}</a>
+    <a class="header__title-link" href="{{ site.Home.RelPermalink }}">
+      {{- $headerLogo := .Param "headerLogo" | default "/images/pauseai-ca.png" -}}
+      {{- $headerLogoAlt := .Param "headerLogoAlt" | default "PauseAI Canada logo" -}}
+      <img src="{{ $headerLogo }}" alt="{{ $headerLogoAlt }}" class="h1-logo" />
+      <span class="header__title-text">{{ site.Params.headerTitle | default site.Title }}</span>
+    </a>
   </h1>
   <button class="header__toggle" type="button" aria-controls="site-menu" aria-expanded="false" aria-label="Toggle menu">
     <span class="header__toggle-icon" aria-hidden="true"><span></span></span>

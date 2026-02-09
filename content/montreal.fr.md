@@ -6,6 +6,10 @@ aliases:
     - /montreal_fr.html
 params:
     logo: /images/pauseai-mtl.png
+    logoLocation: header
+    headerLogo: /images/pauseai-mtl.png
+    headerLogoAlt: Logo PauseAI Montréal
+    hideTitle: true
     toc: false
     showTranslations: false
 ---
