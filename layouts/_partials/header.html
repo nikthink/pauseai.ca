@@ -1,10 +1,11 @@
-  <h1>
-    <img src="/images/pauseai-ca.png" alt="pauseai canada logo" class="h1-logo" />
-    {{ site.Title }}
+<div class="header__inner">
+  <h1 class="header__title">
+    <a class="header__title-link" href="{{ site.Home.RelPermalink }}">{{ site.Params.headerTitle | default site.Title }}</a>
   </h1>
-  <nav class="menu language">
+  <nav class="menu language header__nav">
     <ul class="menu__list language__list">
-    {{- partial "header/menu.html" (dict "menuID" "main" "page" .) -}}
-    {{- partial "header/language_selector.html" . -}}
+      {{- partial "header/menu.html" (dict "menuID" "main" "page" .) -}}
+      {{- partial "header/language_selector.html" . -}}
     </ul>
   </nav>
+</div>

@@ -40,12 +40,11 @@ Every page has to support consistent light and dark modes.
 # Contributing
 
 TODO:
-- [ ] increase opacity where there is text, the text on the protest signs mess up with the page's text (though way less on nik's screen (in dark mode))
-- [ ] have the "Canada, Montreal, Events" menu parallel to "PauseAI Canada" (at its right), like the other PauseAI websites
+- [x] increase opacity where there is text, the text on the protest signs mess up with the page's text (though way less on nik's screen (in dark mode))
+- [x] have the "Canada, Montreal, Events" menu parallel to "PauseAI" (at its right), like the other PauseAI websites
 - [ ] CTA buttons: Join Discord, MTL Events, Join MTL Mailing List
 - [ ] pauseai.ca home page: CTA + list of risks.
     - List of risks expands like accordion / html details element (pauseia.fr-FAQ style)
 - [ ] nav
 - [ ] home
 - [ ] communities: lists Canada communities with link to MTL page
-

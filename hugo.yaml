@@ -17,6 +17,7 @@ pagination:
 params:
     _merge: deep
     sectionPagerSize: 10000
+    headerTitle: PauseAI
 
 cascade:
     params:
