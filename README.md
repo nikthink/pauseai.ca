@@ -30,3 +30,22 @@ The site serves at `http://localhost:1313/`. Because multilingual mode is enable
 ```
 
 open `public/fr/index.html` in your browser.
+
+# Design guidelines
+
+This Hugo site must satisfy both Canada-wide and Montréal-specific requirements.
+All content and UI need to function fully in English and French (including accents, using non ASCII chars).
+Every page has to support consistent light and dark modes.
+
+# Contributing
+
+TODO:
+- [ ] increase opacity where there is text, the text on the protest signs mess up with the page's text (though way less on nik's screen (in dark mode))
+- [ ] have the "Canada, Montreal, Events" menu parallel to "PauseAI Canada" (at its right), like the other PauseAI websites
+- [ ] CTA buttons: Join Discord, MTL Events, Join MTL Mailing List
+- [ ] pauseai.ca home page: CTA + list of risks.
+    - List of risks expands like accordion / html details element (pauseia.fr-FAQ style)
+- [ ] nav
+- [ ] home
+- [ ] communities: lists Canada communities with link to MTL page
+

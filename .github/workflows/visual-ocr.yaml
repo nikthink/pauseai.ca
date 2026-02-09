@@ -1,0 +1,43 @@
+name: Visual OCR checks
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  visual-ocr:
+    runs-on: ubuntu-latest
+    env:
+      HUGO_ENVIRONMENT: production
+      TZ: America/Toronto
+    steps:
+      - name: Install Hugo CLI
+        run: |
+          HUGO_VERSION=0.146.5
+          wget -O ${{ runner.temp }}/hugo.deb "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb" \
+              && sudo dpkg -i ${{ runner.temp }}/hugo.deb
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          fetch-depth: 0
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - name: Install OCR dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y tesseract-ocr tesseract-ocr-fra
+      - name: Install Node dependencies
+        run: npm ci
+      - name: Install Playwright Chromium
+        run: npx playwright install --with-deps chromium
+      - name: OCR check (English)
+        run: npm run test:visual-ocr -- --path /en/montreal.html --light-opacity 0.8 --dark-opacity 0.7 --min-score 0.97 --lang eng
+      - name: OCR check (French)
+        run: npm run test:visual-ocr -- --path /fr/montreal.html --light-opacity 0.8 --dark-opacity 0.7 --min-score 0.97 --lang fra+eng --skip-build

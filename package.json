@@ -1,0 +1,11 @@
+{
+  "name": "pauseai-ca",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test:visual-ocr": "node scripts/visual-ocr.mjs"
+  },
+  "devDependencies": {
+    "playwright": "^1.44.0"
+  }
+}
