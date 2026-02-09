@@ -10,7 +10,7 @@ Join our [Discord](/ca/discord.html).
 
 PauseAI local communities in Canada:
 
-- [Montreal](montreal.html)
+- [Montréal](montreal.html)
 
 If you are organizing a local pauseai community in Canada
 and want to be added to this list,

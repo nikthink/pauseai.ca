@@ -6,6 +6,8 @@ aliases:
     - /montreal_fr.html
 params:
     logo: /images/pauseai-mtl.png
+    toc: false
+    showTranslations: false
 ---
 {{< shared-callout >}}
 

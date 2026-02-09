@@ -41,8 +41,13 @@ Every page has to support consistent light and dark modes.
 
 TODO:
 - [x] increase opacity where there is text, the text on the protest signs mess up with the page's text (though way less on nik's screen (in dark mode))
+    Details: light overlay set to 0.8 and dark overlay set to 0.75; link colors darkened for legibility; OCR legibility checks added.
 - [x] have the "Canada, Montreal, Events" menu parallel to "PauseAI" (at its right), like the other PauseAI websites
-- [ ] CTA buttons: Join Discord, MTL Events, Join MTL Mailing List
+    Details: header title now shows "PauseAI"; menu stays inline on desktop and collapses to a hamburger under 900px; removed duplicate translation links and TOC from Montréal pages.
+- [x] CTA buttons: Join Discord, MTL Events, Join MTL Mailing List
+    Details: CTA buttons stack full-width on mobile with added spacing.
+- [x] tooling: snapshot and internal link checks + Husky pre-commit hook
+    Details: scripts added for snapshots and internal link validation; `pre-commit` runs Hugo build, link checks, and snapshots.
 - [ ] pauseai.ca home page: CTA + list of risks.
     - List of risks expands like accordion / html details element (pauseia.fr-FAQ style)
 - [ ] nav

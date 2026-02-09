@@ -3,9 +3,13 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "prepare": "husky install",
+    "test:links": "node scripts/check-links.mjs",
+    "test:snapshots": "node scripts/capture-snapshots.mjs",
     "test:visual-ocr": "node scripts/visual-ocr.mjs"
   },
   "devDependencies": {
+    "husky": "^9.0.11",
     "playwright": "^1.44.0"
   }
 }
