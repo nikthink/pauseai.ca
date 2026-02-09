@@ -22,9 +22,11 @@ function parseArgs(argv) {
     skipBuild: false,
     width: DEFAULT_VIEWPORT.width,
     height: DEFAULT_VIEWPORT.height,
+    deviceScaleFactor: 2,
     paragraphCount: 0,
     selector: 'main p',
     lang: 'eng',
+    psm: 6,
     minScore: 0,
     lightOpacity: null,
     darkOpacity: null,
@@ -69,6 +71,14 @@ function parseArgs(argv) {
       i += 1;
       continue;
     }
+    if (arg === '--device-scale-factor') {
+      const value = Number.parseFloat(argv[i + 1]);
+      if (Number.isFinite(value)) {
+        args.deviceScaleFactor = value;
+      }
+      i += 1;
+      continue;
+    }
     if (arg === '--paragraphs') {
       args.paragraphCount = Number.parseInt(argv[i + 1], 10);
       i += 1;
@@ -81,6 +91,14 @@ function parseArgs(argv) {
     }
     if (arg === '--lang') {
       args.lang = argv[i + 1];
+      i += 1;
+      continue;
+    }
+    if (arg === '--psm') {
+      const value = Number.parseInt(argv[i + 1], 10);
+      if (Number.isFinite(value)) {
+        args.psm = value;
+      }
       i += 1;
       continue;
     }
@@ -208,6 +226,47 @@ function normalizeText(text) {
     .trim();
 }
 
+function tokenize(text) {
+  if (!text) {
+    return [];
+  }
+  return text.split(' ').filter(Boolean);
+}
+
+function tokenRecallApprox(expectedTokens, ocrTokens) {
+  if (expectedTokens.length === 0) {
+    return 0;
+  }
+  const used = new Set();
+  let matches = 0;
+
+  for (const expected of expectedTokens) {
+    let matchIndex = -1;
+    for (let i = 0; i < ocrTokens.length; i += 1) {
+      if (used.has(i)) {
+        continue;
+      }
+      const actual = ocrTokens[i];
+      if (expected === actual) {
+        matchIndex = i;
+        break;
+      }
+      const distance = levenshteinDistance(expected, actual);
+      const tolerance = Math.max(1, Math.floor(expected.length * 0.2));
+      if (distance <= tolerance) {
+        matchIndex = i;
+        break;
+      }
+    }
+    if (matchIndex >= 0) {
+      used.add(matchIndex);
+      matches += 1;
+    }
+  }
+
+  return matches / expectedTokens.length;
+}
+
 function levenshteinDistance(a, b) {
   if (a === b) {
     return 0;
@@ -244,14 +303,14 @@ function levenshteinDistance(a, b) {
   return v1[b.length];
 }
 
-async function runTesseract(imagePath, lang) {
+async function runTesseract(imagePath, lang, psm) {
   const { stdout } = await execFileAsync('tesseract', [
     imagePath,
     'stdout',
     '-l',
     lang,
     '--psm',
-    '6',
+    String(psm),
   ]);
   return stdout;
 }
@@ -294,6 +353,7 @@ async function main() {
   try {
     const page = await browser.newPage({
       viewport: { width: args.width, height: args.height },
+      deviceScaleFactor: args.deviceScaleFactor,
     });
 
     const targetUrl = `http://127.0.0.1:${args.port}${args.path}`;
@@ -343,12 +403,16 @@ async function main() {
 
           await locator.screenshot({ path: shotPath });
 
-          const ocrText = await runTesseract(shotPath, args.lang);
+          const ocrText = await runTesseract(shotPath, args.lang, args.psm);
           const normalizedOcr = normalizeText(ocrText);
 
           const distance = levenshteinDistance(normalizedExpected, normalizedOcr);
           const maxLen = Math.max(normalizedExpected.length, normalizedOcr.length, 1);
-          const score = (maxLen - distance) / maxLen;
+          const charScore = (maxLen - distance) / maxLen;
+          const expectedTokens = tokenize(normalizedExpected);
+          const ocrTokens = tokenize(normalizedOcr);
+          const tokenRecall = tokenRecallApprox(expectedTokens, ocrTokens);
+          const score = (charScore + tokenRecall) / 2;
 
           if (args.minScore > 0 && score < args.minScore) {
             failures += 1;

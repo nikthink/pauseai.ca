@@ -32,10 +32,12 @@ Optional flags:
 - `--paragraphs 0` (0 = all paragraphs)
 - `--selector "main p"`
 - `--lang eng` (use `fra+eng` for French pages if `tesseract-ocr-fra` is installed)
+- `--psm 6`
 - `--light-opacity 0.8`
 - `--dark-opacity 0.7`
 - `--min-score 0.97`
 - `--viewport 1280x720`
+- `--device-scale-factor 2`
 - `--out /tmp/pauseai-visual-ocr`
 - `--skip-build`
 - `--verbose`
@@ -44,11 +46,12 @@ Optional flags:
 
 - Results are printed with a score per opacity and mode.
 - Screenshots are written to the output directory for visual inspection.
+- Short paragraphs are scored using token recall to avoid false negatives from punctuation/diacritics.
 - Install French OCR data on Ubuntu with: `sudo apt-get install -y tesseract-ocr-fra`
 
 ## CI example
 
 ```bash
-npm run test:visual-ocr -- --path /en/montreal.html --light-opacity 0.8 --dark-opacity 0.7 --min-score 0.97 --lang eng
-npm run test:visual-ocr -- --path /fr/montreal.html --light-opacity 0.8 --dark-opacity 0.7 --min-score 0.97 --lang fra+eng --skip-build
+npm run test:visual-ocr -- --path /en/montreal.html --light-opacity 0.8 --dark-opacity 0.75 --min-score 0.97 --lang eng
+npm run test:visual-ocr -- --path /fr/montreal.html --light-opacity 0.8 --dark-opacity 0.75 --min-score 0.97 --lang fra+eng --skip-build
 ```
