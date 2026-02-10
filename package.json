@@ -6,7 +6,8 @@
     "prepare": "husky install",
     "test:links": "node scripts/check-links.mjs",
     "test:snapshots": "node scripts/capture-snapshots.mjs",
-    "test:visual-ocr": "node scripts/visual-ocr.mjs"
+    "test:visual-ocr": "node scripts/visual-ocr.mjs",
+    "test:visual-regression": "node scripts/visual-regression.mjs"
   },
   "devDependencies": {
     "husky": "^9.0.11",

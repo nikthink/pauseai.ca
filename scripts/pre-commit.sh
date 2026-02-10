@@ -1,6 +1,4 @@
 #!/bin/sh
 set -e
 
-hugo
-npm run test:links -- --skip-build
-npm run test:snapshots -- --skip-build
+node scripts/visual-regression.mjs --profile fast

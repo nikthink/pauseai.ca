@@ -1,0 +1,3269 @@
+{
+  "generatedAt": "2026-02-10T00:37:07.167Z",
+  "entries": [
+    {
+      "page": "/en/",
+      "device": "desktop",
+      "mode": "dark",
+      "region": "footer",
+      "text": "you can suggest changes to this website by creating a pull request on the github repo: https://github.com/nikthink/pauseai.ca , or by emailing nik at nicolas.m.lacombe@gmail.com .",
+      "structure": {
+        "tagCounts": {
+          "a": 2,
+          "div": 1,
+          "p": 1,
+          "script": 2
+        },
+        "linkCount": 2,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 6,
+        "textLength": 179
+      },
+      "bbox": {
+        "x": 90,
+        "y": 361,
+        "width": 1100,
+        "height": 76
+      },
+      "image": "tests/visual/baselines/home-en/footer/desktop-dark.png"
+    },
+    {
+      "page": "/en/",
+      "device": "desktop",
+      "mode": "dark",
+      "region": "header",
+      "text": "PauseAI Canada Montréal Events Action Français",
+      "structure": {
+        "tagCounts": {
+          "a": 6,
+          "button": 1,
+          "div": 1,
+          "h1": 1,
+          "img": 1,
+          "li": 5,
+          "nav": 1,
+          "span": 4,
+          "ul": 1
+        },
+        "linkCount": 6,
+        "imageCount": 1,
+        "buttonCount": 1,
+        "headingCount": 1,
+        "listItemCount": 5,
+        "elementCount": 21,
+        "textLength": 46
+      },
+      "bbox": {
+        "x": 90,
+        "y": 0,
+        "width": 1100,
+        "height": 79.75
+      },
+      "image": "tests/visual/baselines/home-en/header/desktop-dark.png"
+    },
+    {
+      "page": "/en/",
+      "device": "desktop",
+      "mode": "dark",
+      "region": "main",
+      "text": "Join our Discord. PauseAI local communities in Canada: Montréal If you are organizing a local pauseai community in Canada and want to be added to this list, please email nik at nicolas.m.lacombe@gmail.com.",
+      "structure": {
+        "tagCounts": {
+          "a": 3,
+          "li": 1,
+          "nav": 1,
+          "p": 3,
+          "ul": 1
+        },
+        "linkCount": 3,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 1,
+        "elementCount": 9,
+        "textLength": 205
+      },
+      "bbox": {
+        "x": 90,
+        "y": 102.25,
+        "width": 1100,
+        "height": 236.25
+      },
+      "image": "tests/visual/baselines/home-en/main/desktop-dark.png"
+    },
+    {
+      "page": "/en/",
+      "device": "desktop",
+      "mode": "light",
+      "region": "footer",
+      "text": "you can suggest changes to this website by creating a pull request on the github repo: https://github.com/nikthink/pauseai.ca , or by emailing nik at nicolas.m.lacombe@gmail.com .",
+      "structure": {
+        "tagCounts": {
+          "a": 2,
+          "div": 1,
+          "p": 1,
+          "script": 2
+        },
+        "linkCount": 2,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 6,
+        "textLength": 179
+      },
+      "bbox": {
+        "x": 90,
+        "y": 361,
+        "width": 1100,
+        "height": 76
+      },
+      "image": "tests/visual/baselines/home-en/footer/desktop-light.png"
+    },
+    {
+      "page": "/en/",
+      "device": "desktop",
+      "mode": "light",
+      "region": "header",
+      "text": "PauseAI Canada Montréal Events Action Français",
+      "structure": {
+        "tagCounts": {
+          "a": 6,
+          "button": 1,
+          "div": 1,
+          "h1": 1,
+          "img": 1,
+          "li": 5,
+          "nav": 1,
+          "span": 4,
+          "ul": 1
+        },
+        "linkCount": 6,
+        "imageCount": 1,
+        "buttonCount": 1,
+        "headingCount": 1,
+        "listItemCount": 5,
+        "elementCount": 21,
+        "textLength": 46
+      },
+      "bbox": {
+        "x": 90,
+        "y": 0,
+        "width": 1100,
+        "height": 79.75
+      },
+      "image": "tests/visual/baselines/home-en/header/desktop-light.png"
+    },
+    {
+      "page": "/en/",
+      "device": "desktop",
+      "mode": "light",
+      "region": "main",
+      "text": "Join our Discord. PauseAI local communities in Canada: Montréal If you are organizing a local pauseai community in Canada and want to be added to this list, please email nik at nicolas.m.lacombe@gmail.com.",
+      "structure": {
+        "tagCounts": {
+          "a": 3,
+          "li": 1,
+          "nav": 1,
+          "p": 3,
+          "ul": 1
+        },
+        "linkCount": 3,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 1,
+        "elementCount": 9,
+        "textLength": 205
+      },
+      "bbox": {
+        "x": 90,
+        "y": 102.25,
+        "width": 1100,
+        "height": 236.25
+      },
+      "image": "tests/visual/baselines/home-en/main/desktop-light.png"
+    },
+    {
+      "page": "/en/",
+      "device": "iphone-13",
+      "mode": "dark",
+      "region": "footer",
+      "text": "you can suggest changes to this website by creating a pull request on the github repo: https://github.com/nikthink/pauseai.ca , or by emailing nik at nicolas.m.lacombe@gmail.com .",
+      "structure": {
+        "tagCounts": {
+          "a": 2,
+          "div": 1,
+          "p": 1,
+          "script": 2
+        },
+        "linkCount": 2,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 6,
+        "textLength": 179
+      },
+      "bbox": {
+        "x": 16,
+        "y": 331.88,
+        "width": 358,
+        "height": 111.25
+      },
+      "image": "tests/visual/baselines/home-en/footer/iphone-13-dark.png"
+    },
+    {
+      "page": "/en/",
+      "device": "iphone-13",
+      "mode": "dark",
+      "region": "header",
+      "text": "PauseAI",
+      "structure": {
+        "tagCounts": {
+          "a": 6,
+          "button": 1,
+          "div": 1,
+          "h1": 1,
+          "img": 1,
+          "li": 5,
+          "nav": 1,
+          "span": 4,
+          "ul": 1
+        },
+        "linkCount": 6,
+        "imageCount": 1,
+        "buttonCount": 1,
+        "headingCount": 1,
+        "listItemCount": 5,
+        "elementCount": 21,
+        "textLength": 7
+      },
+      "bbox": {
+        "x": 16,
+        "y": 0,
+        "width": 358,
+        "height": 38.91
+      },
+      "image": "tests/visual/baselines/home-en/header/iphone-13-dark.png"
+    },
+    {
+      "page": "/en/",
+      "device": "iphone-13",
+      "mode": "dark",
+      "region": "main",
+      "text": "Join our Discord. PauseAI local communities in Canada: Montréal If you are organizing a local pauseai community in Canada and want to be added to this list, please email nik at nicolas.m.lacombe@gmail.com.",
+      "structure": {
+        "tagCounts": {
+          "a": 3,
+          "li": 1,
+          "nav": 1,
+          "p": 3,
+          "ul": 1
+        },
+        "linkCount": 3,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 1,
+        "elementCount": 9,
+        "textLength": 205
+      },
+      "bbox": {
+        "x": 16,
+        "y": 57.8,
+        "width": 358,
+        "height": 255.19
+      },
+      "image": "tests/visual/baselines/home-en/main/iphone-13-dark.png"
+    },
+    {
+      "page": "/en/",
+      "device": "iphone-13",
+      "mode": "light",
+      "region": "footer",
+      "text": "you can suggest changes to this website by creating a pull request on the github repo: https://github.com/nikthink/pauseai.ca , or by emailing nik at nicolas.m.lacombe@gmail.com .",
+      "structure": {
+        "tagCounts": {
+          "a": 2,
+          "div": 1,
+          "p": 1,
+          "script": 2
+        },
+        "linkCount": 2,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 6,
+        "textLength": 179
+      },
+      "bbox": {
+        "x": 16,
+        "y": 331.88,
+        "width": 358,
+        "height": 111.25
+      },
+      "image": "tests/visual/baselines/home-en/footer/iphone-13-light.png"
+    },
+    {
+      "page": "/en/",
+      "device": "iphone-13",
+      "mode": "light",
+      "region": "header",
+      "text": "PauseAI",
+      "structure": {
+        "tagCounts": {
+          "a": 6,
+          "button": 1,
+          "div": 1,
+          "h1": 1,
+          "img": 1,
+          "li": 5,
+          "nav": 1,
+          "span": 4,
+          "ul": 1
+        },
+        "linkCount": 6,
+        "imageCount": 1,
+        "buttonCount": 1,
+        "headingCount": 1,
+        "listItemCount": 5,
+        "elementCount": 21,
+        "textLength": 7
+      },
+      "bbox": {
+        "x": 16,
+        "y": 0,
+        "width": 358,
+        "height": 38.91
+      },
+      "image": "tests/visual/baselines/home-en/header/iphone-13-light.png"
+    },
+    {
+      "page": "/en/",
+      "device": "iphone-13",
+      "mode": "light",
+      "region": "main",
+      "text": "Join our Discord. PauseAI local communities in Canada: Montréal If you are organizing a local pauseai community in Canada and want to be added to this list, please email nik at nicolas.m.lacombe@gmail.com.",
+      "structure": {
+        "tagCounts": {
+          "a": 3,
+          "li": 1,
+          "nav": 1,
+          "p": 3,
+          "ul": 1
+        },
+        "linkCount": 3,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 1,
+        "elementCount": 9,
+        "textLength": 205
+      },
+      "bbox": {
+        "x": 16,
+        "y": 57.8,
+        "width": 358,
+        "height": 255.19
+      },
+      "image": "tests/visual/baselines/home-en/main/iphone-13-light.png"
+    },
+    {
+      "page": "/en/",
+      "device": "pixel-5",
+      "mode": "dark",
+      "region": "footer",
+      "text": "you can suggest changes to this website by creating a pull request on the github repo: https://github.com/nikthink/pauseai.ca , or by emailing nik at nicolas.m.lacombe@gmail.com .",
+      "structure": {
+        "tagCounts": {
+          "a": 2,
+          "div": 1,
+          "p": 1,
+          "script": 2
+        },
+        "linkCount": 2,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 6,
+        "textLength": 179
+      },
+      "bbox": {
+        "x": 16,
+        "y": 331.88,
+        "width": 361,
+        "height": 111.25
+      },
+      "image": "tests/visual/baselines/home-en/footer/pixel-5-dark.png"
+    },
+    {
+      "page": "/en/",
+      "device": "pixel-5",
+      "mode": "dark",
+      "region": "header",
+      "text": "PauseAI",
+      "structure": {
+        "tagCounts": {
+          "a": 6,
+          "button": 1,
+          "div": 1,
+          "h1": 1,
+          "img": 1,
+          "li": 5,
+          "nav": 1,
+          "span": 4,
+          "ul": 1
+        },
+        "linkCount": 6,
+        "imageCount": 1,
+        "buttonCount": 1,
+        "headingCount": 1,
+        "listItemCount": 5,
+        "elementCount": 21,
+        "textLength": 7
+      },
+      "bbox": {
+        "x": 16,
+        "y": 0,
+        "width": 361,
+        "height": 38.91
+      },
+      "image": "tests/visual/baselines/home-en/header/pixel-5-dark.png"
+    },
+    {
+      "page": "/en/",
+      "device": "pixel-5",
+      "mode": "dark",
+      "region": "main",
+      "text": "Join our Discord. PauseAI local communities in Canada: Montréal If you are organizing a local pauseai community in Canada and want to be added to this list, please email nik at nicolas.m.lacombe@gmail.com.",
+      "structure": {
+        "tagCounts": {
+          "a": 3,
+          "li": 1,
+          "nav": 1,
+          "p": 3,
+          "ul": 1
+        },
+        "linkCount": 3,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 1,
+        "elementCount": 9,
+        "textLength": 205
+      },
+      "bbox": {
+        "x": 16,
+        "y": 57.8,
+        "width": 361,
+        "height": 255.19
+      },
+      "image": "tests/visual/baselines/home-en/main/pixel-5-dark.png"
+    },
+    {
+      "page": "/en/",
+      "device": "pixel-5",
+      "mode": "light",
+      "region": "footer",
+      "text": "you can suggest changes to this website by creating a pull request on the github repo: https://github.com/nikthink/pauseai.ca , or by emailing nik at nicolas.m.lacombe@gmail.com .",
+      "structure": {
+        "tagCounts": {
+          "a": 2,
+          "div": 1,
+          "p": 1,
+          "script": 2
+        },
+        "linkCount": 2,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 6,
+        "textLength": 179
+      },
+      "bbox": {
+        "x": 16,
+        "y": 331.88,
+        "width": 361,
+        "height": 111.25
+      },
+      "image": "tests/visual/baselines/home-en/footer/pixel-5-light.png"
+    },
+    {
+      "page": "/en/",
+      "device": "pixel-5",
+      "mode": "light",
+      "region": "header",
+      "text": "PauseAI",
+      "structure": {
+        "tagCounts": {
+          "a": 6,
+          "button": 1,
+          "div": 1,
+          "h1": 1,
+          "img": 1,
+          "li": 5,
+          "nav": 1,
+          "span": 4,
+          "ul": 1
+        },
+        "linkCount": 6,
+        "imageCount": 1,
+        "buttonCount": 1,
+        "headingCount": 1,
+        "listItemCount": 5,
+        "elementCount": 21,
+        "textLength": 7
+      },
+      "bbox": {
+        "x": 16,
+        "y": 0,
+        "width": 361,
+        "height": 38.91
+      },
+      "image": "tests/visual/baselines/home-en/header/pixel-5-light.png"
+    },
+    {
+      "page": "/en/",
+      "device": "pixel-5",
+      "mode": "light",
+      "region": "main",
+      "text": "Join our Discord. PauseAI local communities in Canada: Montréal If you are organizing a local pauseai community in Canada and want to be added to this list, please email nik at nicolas.m.lacombe@gmail.com.",
+      "structure": {
+        "tagCounts": {
+          "a": 3,
+          "li": 1,
+          "nav": 1,
+          "p": 3,
+          "ul": 1
+        },
+        "linkCount": 3,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 1,
+        "elementCount": 9,
+        "textLength": 205
+      },
+      "bbox": {
+        "x": 16,
+        "y": 57.8,
+        "width": 361,
+        "height": 255.19
+      },
+      "image": "tests/visual/baselines/home-en/main/pixel-5-light.png"
+    },
+    {
+      "page": "/en/action-mtl.html",
+      "device": "desktop",
+      "mode": "dark",
+      "region": "footer",
+      "text": "you can suggest changes to this website by creating a pull request on the github repo: https://github.com/nikthink/pauseai.ca , or by emailing nik at nicolas.m.lacombe@gmail.com .",
+      "structure": {
+        "tagCounts": {
+          "a": 2,
+          "div": 1,
+          "p": 1,
+          "script": 2
+        },
+        "linkCount": 2,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 6,
+        "textLength": 179
+      },
+      "bbox": {
+        "x": 90,
+        "y": 1365.97,
+        "width": 1100,
+        "height": 76
+      },
+      "image": "tests/visual/baselines/action-mtl-en/footer/desktop-dark.png"
+    },
+    {
+      "page": "/en/action-mtl.html",
+      "device": "desktop",
+      "mode": "dark",
+      "region": "header",
+      "text": "PauseAI Canada Montréal Events Action Français",
+      "structure": {
+        "tagCounts": {
+          "a": 6,
+          "button": 1,
+          "div": 1,
+          "h1": 1,
+          "img": 1,
+          "li": 5,
+          "nav": 1,
+          "span": 4,
+          "ul": 1
+        },
+        "linkCount": 6,
+        "imageCount": 1,
+        "buttonCount": 1,
+        "headingCount": 1,
+        "listItemCount": 5,
+        "elementCount": 21,
+        "textLength": 46
+      },
+      "bbox": {
+        "x": 90,
+        "y": 0,
+        "width": 1100,
+        "height": 79.75
+      },
+      "image": "tests/visual/baselines/action-mtl-en/header/desktop-dark.png"
+    },
+    {
+      "page": "/en/action-mtl.html",
+      "device": "desktop",
+      "mode": "dark",
+      "region": "main",
+      "text": "Action (MTL) Table of Contents Here’s a list of actions you can do right now to help. To be notified of new action opportunities, subscribe to our mailing list, by sending an email to pauseai-mtl-subscribe@lists.riseup.net. Quick actions Read more about pauseai on pauseai’s website Example, fully read https://pauseai.info/proposal Fill out the pauseai signup form: https://pauseai.info/join Sign the pauseai statement Sign other non-pauseai petitions International AI Treaty Statement on Superintelligence Demand responsible AI Share about ai risk on your social media. Find one of these videos you agree with and share it, or sharing https://pauseai.info can be a good start. Highlights Nothing for now. Generic actions Send email to local politician, saying why you care about AI https://pauseai.info/email-builder Call your politicians Write an opinion piece or news piece to local city newspapers, or in your university’s newspaper More More ideas on https://pauseai.info/action Online actions (petitions, social media campaigns, letter-writing to officials) Offline activities (local protests, community meetings, awareness events) Talk to friends/coworkers/partners/etc about ai safety/regulation / pauseai mtl Go to local meetups/groups to talk about ai safety/regulation / pauseai mtl",
+      "structure": {
+        "tagCounts": {
+          "a": 19,
+          "details": 1,
+          "h1": 1,
+          "h3": 4,
+          "input": 8,
+          "li": 23,
+          "nav": 1,
+          "ol": 2,
+          "p": 4,
+          "span": 4,
+          "summary": 1,
+          "ul": 8
+        },
+        "linkCount": 19,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 5,
+        "listItemCount": 23,
+        "elementCount": 76,
+        "textLength": 1294
+      },
+      "bbox": {
+        "x": 90,
+        "y": 109.89,
+        "width": 1100,
+        "height": 1343.58
+      },
+      "image": "tests/visual/baselines/action-mtl-en/main/desktop-dark.png"
+    },
+    {
+      "page": "/en/action-mtl.html",
+      "device": "desktop",
+      "mode": "light",
+      "region": "footer",
+      "text": "you can suggest changes to this website by creating a pull request on the github repo: https://github.com/nikthink/pauseai.ca , or by emailing nik at nicolas.m.lacombe@gmail.com .",
+      "structure": {
+        "tagCounts": {
+          "a": 2,
+          "div": 1,
+          "p": 1,
+          "script": 2
+        },
+        "linkCount": 2,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 6,
+        "textLength": 179
+      },
+      "bbox": {
+        "x": 90,
+        "y": 1365.97,
+        "width": 1100,
+        "height": 76
+      },
+      "image": "tests/visual/baselines/action-mtl-en/footer/desktop-light.png"
+    },
+    {
+      "page": "/en/action-mtl.html",
+      "device": "desktop",
+      "mode": "light",
+      "region": "header",
+      "text": "PauseAI Canada Montréal Events Action Français",
+      "structure": {
+        "tagCounts": {
+          "a": 6,
+          "button": 1,
+          "div": 1,
+          "h1": 1,
+          "img": 1,
+          "li": 5,
+          "nav": 1,
+          "span": 4,
+          "ul": 1
+        },
+        "linkCount": 6,
+        "imageCount": 1,
+        "buttonCount": 1,
+        "headingCount": 1,
+        "listItemCount": 5,
+        "elementCount": 21,
+        "textLength": 46
+      },
+      "bbox": {
+        "x": 90,
+        "y": 0,
+        "width": 1100,
+        "height": 79.75
+      },
+      "image": "tests/visual/baselines/action-mtl-en/header/desktop-light.png"
+    },
+    {
+      "page": "/en/action-mtl.html",
+      "device": "desktop",
+      "mode": "light",
+      "region": "main",
+      "text": "Action (MTL) Table of Contents Here’s a list of actions you can do right now to help. To be notified of new action opportunities, subscribe to our mailing list, by sending an email to pauseai-mtl-subscribe@lists.riseup.net. Quick actions Read more about pauseai on pauseai’s website Example, fully read https://pauseai.info/proposal Fill out the pauseai signup form: https://pauseai.info/join Sign the pauseai statement Sign other non-pauseai petitions International AI Treaty Statement on Superintelligence Demand responsible AI Share about ai risk on your social media. Find one of these videos you agree with and share it, or sharing https://pauseai.info can be a good start. Highlights Nothing for now. Generic actions Send email to local politician, saying why you care about AI https://pauseai.info/email-builder Call your politicians Write an opinion piece or news piece to local city newspapers, or in your university’s newspaper More More ideas on https://pauseai.info/action Online actions (petitions, social media campaigns, letter-writing to officials) Offline activities (local protests, community meetings, awareness events) Talk to friends/coworkers/partners/etc about ai safety/regulation / pauseai mtl Go to local meetups/groups to talk about ai safety/regulation / pauseai mtl",
+      "structure": {
+        "tagCounts": {
+          "a": 19,
+          "details": 1,
+          "h1": 1,
+          "h3": 4,
+          "input": 8,
+          "li": 23,
+          "nav": 1,
+          "ol": 2,
+          "p": 4,
+          "span": 4,
+          "summary": 1,
+          "ul": 8
+        },
+        "linkCount": 19,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 5,
+        "listItemCount": 23,
+        "elementCount": 76,
+        "textLength": 1294
+      },
+      "bbox": {
+        "x": 90,
+        "y": 109.89,
+        "width": 1100,
+        "height": 1343.58
+      },
+      "image": "tests/visual/baselines/action-mtl-en/main/desktop-light.png"
+    },
+    {
+      "page": "/en/action-mtl.html",
+      "device": "iphone-13",
+      "mode": "dark",
+      "region": "footer",
+      "text": "you can suggest changes to this website by creating a pull request on the github repo: https://github.com/nikthink/pauseai.ca , or by emailing nik at nicolas.m.lacombe@gmail.com .",
+      "structure": {
+        "tagCounts": {
+          "a": 2,
+          "div": 1,
+          "p": 1,
+          "script": 2
+        },
+        "linkCount": 2,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 6,
+        "textLength": 179
+      },
+      "bbox": {
+        "x": 16,
+        "y": 1744.45,
+        "width": 358,
+        "height": 111.25
+      },
+      "image": "tests/visual/baselines/action-mtl-en/footer/iphone-13-dark.png"
+    },
+    {
+      "page": "/en/action-mtl.html",
+      "device": "iphone-13",
+      "mode": "dark",
+      "region": "header",
+      "text": "PauseAI",
+      "structure": {
+        "tagCounts": {
+          "a": 6,
+          "button": 1,
+          "div": 1,
+          "h1": 1,
+          "img": 1,
+          "li": 5,
+          "nav": 1,
+          "span": 4,
+          "ul": 1
+        },
+        "linkCount": 6,
+        "imageCount": 1,
+        "buttonCount": 1,
+        "headingCount": 1,
+        "listItemCount": 5,
+        "elementCount": 21,
+        "textLength": 7
+      },
+      "bbox": {
+        "x": 16,
+        "y": 0,
+        "width": 358,
+        "height": 38.91
+      },
+      "image": "tests/visual/baselines/action-mtl-en/header/iphone-13-dark.png"
+    },
+    {
+      "page": "/en/action-mtl.html",
+      "device": "iphone-13",
+      "mode": "dark",
+      "region": "main",
+      "text": "Action (MTL) Table of Contents Here’s a list of actions you can do right now to help. To be notified of new action opportunities, subscribe to our mailing list, by sending an email to pauseai-mtl-subscribe@lists.riseup.net. Quick actions Read more about pauseai on pauseai’s website Example, fully read https://pauseai.info/proposal Fill out the pauseai signup form: https://pauseai.info/join Sign the pauseai statement Sign other non-pauseai petitions International AI Treaty Statement on Superintelligence Demand responsible AI Share about ai risk on your social media. Find one of these videos you agree with and share it, or sharing https://pauseai.info can be a good start. Highlights Nothing for now. Generic actions Send email to local politician, saying why you care about AI https://pauseai.info/email-builder Call your politicians Write an opinion piece or news piece to local city newspapers, or in your university’s newspaper More More ideas on https://pauseai.info/action Online actions (petitions, social media campaigns, letter-writing to officials) Offline activities (local protests, community meetings, awareness events) Talk to friends/coworkers/partners/etc about ai safety/regulation / pauseai mtl Go to local meetups/groups to talk about ai safety/regulation / pauseai mtl",
+      "structure": {
+        "tagCounts": {
+          "a": 19,
+          "details": 1,
+          "h1": 1,
+          "h3": 4,
+          "input": 8,
+          "li": 23,
+          "nav": 1,
+          "ol": 2,
+          "p": 4,
+          "span": 4,
+          "summary": 1,
+          "ul": 8
+        },
+        "linkCount": 19,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 5,
+        "listItemCount": 23,
+        "elementCount": 76,
+        "textLength": 1294
+      },
+      "bbox": {
+        "x": 16,
+        "y": 64.22,
+        "width": 358,
+        "height": 1724.34
+      },
+      "image": "tests/visual/baselines/action-mtl-en/main/iphone-13-dark.png"
+    },
+    {
+      "page": "/en/action-mtl.html",
+      "device": "iphone-13",
+      "mode": "light",
+      "region": "footer",
+      "text": "you can suggest changes to this website by creating a pull request on the github repo: https://github.com/nikthink/pauseai.ca , or by emailing nik at nicolas.m.lacombe@gmail.com .",
+      "structure": {
+        "tagCounts": {
+          "a": 2,
+          "div": 1,
+          "p": 1,
+          "script": 2
+        },
+        "linkCount": 2,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 6,
+        "textLength": 179
+      },
+      "bbox": {
+        "x": 16,
+        "y": 1744.45,
+        "width": 358,
+        "height": 111.25
+      },
+      "image": "tests/visual/baselines/action-mtl-en/footer/iphone-13-light.png"
+    },
+    {
+      "page": "/en/action-mtl.html",
+      "device": "iphone-13",
+      "mode": "light",
+      "region": "header",
+      "text": "PauseAI",
+      "structure": {
+        "tagCounts": {
+          "a": 6,
+          "button": 1,
+          "div": 1,
+          "h1": 1,
+          "img": 1,
+          "li": 5,
+          "nav": 1,
+          "span": 4,
+          "ul": 1
+        },
+        "linkCount": 6,
+        "imageCount": 1,
+        "buttonCount": 1,
+        "headingCount": 1,
+        "listItemCount": 5,
+        "elementCount": 21,
+        "textLength": 7
+      },
+      "bbox": {
+        "x": 16,
+        "y": 0,
+        "width": 358,
+        "height": 38.91
+      },
+      "image": "tests/visual/baselines/action-mtl-en/header/iphone-13-light.png"
+    },
+    {
+      "page": "/en/action-mtl.html",
+      "device": "iphone-13",
+      "mode": "light",
+      "region": "main",
+      "text": "Action (MTL) Table of Contents Here’s a list of actions you can do right now to help. To be notified of new action opportunities, subscribe to our mailing list, by sending an email to pauseai-mtl-subscribe@lists.riseup.net. Quick actions Read more about pauseai on pauseai’s website Example, fully read https://pauseai.info/proposal Fill out the pauseai signup form: https://pauseai.info/join Sign the pauseai statement Sign other non-pauseai petitions International AI Treaty Statement on Superintelligence Demand responsible AI Share about ai risk on your social media. Find one of these videos you agree with and share it, or sharing https://pauseai.info can be a good start. Highlights Nothing for now. Generic actions Send email to local politician, saying why you care about AI https://pauseai.info/email-builder Call your politicians Write an opinion piece or news piece to local city newspapers, or in your university’s newspaper More More ideas on https://pauseai.info/action Online actions (petitions, social media campaigns, letter-writing to officials) Offline activities (local protests, community meetings, awareness events) Talk to friends/coworkers/partners/etc about ai safety/regulation / pauseai mtl Go to local meetups/groups to talk about ai safety/regulation / pauseai mtl",
+      "structure": {
+        "tagCounts": {
+          "a": 19,
+          "details": 1,
+          "h1": 1,
+          "h3": 4,
+          "input": 8,
+          "li": 23,
+          "nav": 1,
+          "ol": 2,
+          "p": 4,
+          "span": 4,
+          "summary": 1,
+          "ul": 8
+        },
+        "linkCount": 19,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 5,
+        "listItemCount": 23,
+        "elementCount": 76,
+        "textLength": 1294
+      },
+      "bbox": {
+        "x": 16,
+        "y": 64.22,
+        "width": 358,
+        "height": 1724.34
+      },
+      "image": "tests/visual/baselines/action-mtl-en/main/iphone-13-light.png"
+    },
+    {
+      "page": "/en/action-mtl.html",
+      "device": "pixel-5",
+      "mode": "dark",
+      "region": "footer",
+      "text": "you can suggest changes to this website by creating a pull request on the github repo: https://github.com/nikthink/pauseai.ca , or by emailing nik at nicolas.m.lacombe@gmail.com .",
+      "structure": {
+        "tagCounts": {
+          "a": 2,
+          "div": 1,
+          "p": 1,
+          "script": 2
+        },
+        "linkCount": 2,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 6,
+        "textLength": 179
+      },
+      "bbox": {
+        "x": 16,
+        "y": 1744.45,
+        "width": 361,
+        "height": 111.25
+      },
+      "image": "tests/visual/baselines/action-mtl-en/footer/pixel-5-dark.png"
+    },
+    {
+      "page": "/en/action-mtl.html",
+      "device": "pixel-5",
+      "mode": "dark",
+      "region": "header",
+      "text": "PauseAI",
+      "structure": {
+        "tagCounts": {
+          "a": 6,
+          "button": 1,
+          "div": 1,
+          "h1": 1,
+          "img": 1,
+          "li": 5,
+          "nav": 1,
+          "span": 4,
+          "ul": 1
+        },
+        "linkCount": 6,
+        "imageCount": 1,
+        "buttonCount": 1,
+        "headingCount": 1,
+        "listItemCount": 5,
+        "elementCount": 21,
+        "textLength": 7
+      },
+      "bbox": {
+        "x": 16,
+        "y": 0,
+        "width": 361,
+        "height": 38.91
+      },
+      "image": "tests/visual/baselines/action-mtl-en/header/pixel-5-dark.png"
+    },
+    {
+      "page": "/en/action-mtl.html",
+      "device": "pixel-5",
+      "mode": "dark",
+      "region": "main",
+      "text": "Action (MTL) Table of Contents Here’s a list of actions you can do right now to help. To be notified of new action opportunities, subscribe to our mailing list, by sending an email to pauseai-mtl-subscribe@lists.riseup.net. Quick actions Read more about pauseai on pauseai’s website Example, fully read https://pauseai.info/proposal Fill out the pauseai signup form: https://pauseai.info/join Sign the pauseai statement Sign other non-pauseai petitions International AI Treaty Statement on Superintelligence Demand responsible AI Share about ai risk on your social media. Find one of these videos you agree with and share it, or sharing https://pauseai.info can be a good start. Highlights Nothing for now. Generic actions Send email to local politician, saying why you care about AI https://pauseai.info/email-builder Call your politicians Write an opinion piece or news piece to local city newspapers, or in your university’s newspaper More More ideas on https://pauseai.info/action Online actions (petitions, social media campaigns, letter-writing to officials) Offline activities (local protests, community meetings, awareness events) Talk to friends/coworkers/partners/etc about ai safety/regulation / pauseai mtl Go to local meetups/groups to talk about ai safety/regulation / pauseai mtl",
+      "structure": {
+        "tagCounts": {
+          "a": 19,
+          "details": 1,
+          "h1": 1,
+          "h3": 4,
+          "input": 8,
+          "li": 23,
+          "nav": 1,
+          "ol": 2,
+          "p": 4,
+          "span": 4,
+          "summary": 1,
+          "ul": 8
+        },
+        "linkCount": 19,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 5,
+        "listItemCount": 23,
+        "elementCount": 76,
+        "textLength": 1294
+      },
+      "bbox": {
+        "x": 16,
+        "y": 64.22,
+        "width": 361,
+        "height": 1724.34
+      },
+      "image": "tests/visual/baselines/action-mtl-en/main/pixel-5-dark.png"
+    },
+    {
+      "page": "/en/action-mtl.html",
+      "device": "pixel-5",
+      "mode": "light",
+      "region": "footer",
+      "text": "you can suggest changes to this website by creating a pull request on the github repo: https://github.com/nikthink/pauseai.ca , or by emailing nik at nicolas.m.lacombe@gmail.com .",
+      "structure": {
+        "tagCounts": {
+          "a": 2,
+          "div": 1,
+          "p": 1,
+          "script": 2
+        },
+        "linkCount": 2,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 6,
+        "textLength": 179
+      },
+      "bbox": {
+        "x": 16,
+        "y": 1744.45,
+        "width": 361,
+        "height": 111.25
+      },
+      "image": "tests/visual/baselines/action-mtl-en/footer/pixel-5-light.png"
+    },
+    {
+      "page": "/en/action-mtl.html",
+      "device": "pixel-5",
+      "mode": "light",
+      "region": "header",
+      "text": "PauseAI",
+      "structure": {
+        "tagCounts": {
+          "a": 6,
+          "button": 1,
+          "div": 1,
+          "h1": 1,
+          "img": 1,
+          "li": 5,
+          "nav": 1,
+          "span": 4,
+          "ul": 1
+        },
+        "linkCount": 6,
+        "imageCount": 1,
+        "buttonCount": 1,
+        "headingCount": 1,
+        "listItemCount": 5,
+        "elementCount": 21,
+        "textLength": 7
+      },
+      "bbox": {
+        "x": 16,
+        "y": 0,
+        "width": 361,
+        "height": 38.91
+      },
+      "image": "tests/visual/baselines/action-mtl-en/header/pixel-5-light.png"
+    },
+    {
+      "page": "/en/action-mtl.html",
+      "device": "pixel-5",
+      "mode": "light",
+      "region": "main",
+      "text": "Action (MTL) Table of Contents Here’s a list of actions you can do right now to help. To be notified of new action opportunities, subscribe to our mailing list, by sending an email to pauseai-mtl-subscribe@lists.riseup.net. Quick actions Read more about pauseai on pauseai’s website Example, fully read https://pauseai.info/proposal Fill out the pauseai signup form: https://pauseai.info/join Sign the pauseai statement Sign other non-pauseai petitions International AI Treaty Statement on Superintelligence Demand responsible AI Share about ai risk on your social media. Find one of these videos you agree with and share it, or sharing https://pauseai.info can be a good start. Highlights Nothing for now. Generic actions Send email to local politician, saying why you care about AI https://pauseai.info/email-builder Call your politicians Write an opinion piece or news piece to local city newspapers, or in your university’s newspaper More More ideas on https://pauseai.info/action Online actions (petitions, social media campaigns, letter-writing to officials) Offline activities (local protests, community meetings, awareness events) Talk to friends/coworkers/partners/etc about ai safety/regulation / pauseai mtl Go to local meetups/groups to talk about ai safety/regulation / pauseai mtl",
+      "structure": {
+        "tagCounts": {
+          "a": 19,
+          "details": 1,
+          "h1": 1,
+          "h3": 4,
+          "input": 8,
+          "li": 23,
+          "nav": 1,
+          "ol": 2,
+          "p": 4,
+          "span": 4,
+          "summary": 1,
+          "ul": 8
+        },
+        "linkCount": 19,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 5,
+        "listItemCount": 23,
+        "elementCount": 76,
+        "textLength": 1294
+      },
+      "bbox": {
+        "x": 16,
+        "y": 64.22,
+        "width": 361,
+        "height": 1724.34
+      },
+      "image": "tests/visual/baselines/action-mtl-en/main/pixel-5-light.png"
+    },
+    {
+      "page": "/en/montreal.html",
+      "device": "desktop",
+      "mode": "dark",
+      "region": "cta",
+      "text": "To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Join us Subscribe Discord",
+      "structure": {
+        "tagCounts": {
+          "a": 3,
+          "div": 1,
+          "h2": 1,
+          "p": 2,
+          "span": 2
+        },
+        "linkCount": 3,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 1,
+        "listItemCount": 0,
+        "elementCount": 9,
+        "textLength": 346
+      },
+      "bbox": {
+        "x": 260,
+        "y": 130.94,
+        "width": 760,
+        "height": 633.58
+      },
+      "image": "tests/visual/baselines/montreal-en/cta/desktop-dark.png"
+    },
+    {
+      "page": "/en/montreal.html",
+      "device": "desktop",
+      "mode": "dark",
+      "region": "footer",
+      "text": "you can suggest changes to this website by creating a pull request on the github repo: https://github.com/nikthink/pauseai.ca , or by emailing nik at nicolas.m.lacombe@gmail.com .",
+      "structure": {
+        "tagCounts": {
+          "a": 2,
+          "div": 1,
+          "p": 1,
+          "script": 2
+        },
+        "linkCount": 2,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 6,
+        "textLength": 179
+      },
+      "bbox": {
+        "x": 90,
+        "y": 1787.81,
+        "width": 1100,
+        "height": 76
+      },
+      "image": "tests/visual/baselines/montreal-en/footer/desktop-dark.png"
+    },
+    {
+      "page": "/en/montreal.html",
+      "device": "desktop",
+      "mode": "dark",
+      "region": "header",
+      "text": "PauseAI Canada Montréal Events Action Français",
+      "structure": {
+        "tagCounts": {
+          "a": 6,
+          "button": 1,
+          "div": 1,
+          "h1": 1,
+          "img": 1,
+          "li": 5,
+          "nav": 1,
+          "span": 4,
+          "ul": 1
+        },
+        "linkCount": 6,
+        "imageCount": 1,
+        "buttonCount": 1,
+        "headingCount": 1,
+        "listItemCount": 5,
+        "elementCount": 21,
+        "textLength": 46
+      },
+      "bbox": {
+        "x": 90,
+        "y": 0,
+        "width": 1100,
+        "height": 79.75
+      },
+      "image": "tests/visual/baselines/montreal-en/header/desktop-dark.png"
+    },
+    {
+      "page": "/en/montreal.html",
+      "device": "desktop",
+      "mode": "dark",
+      "region": "main",
+      "text": "To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Join us Subscribe Discord We are a community of volunteers that aims to mitigate the risks of AI by convincing governments to pause the development of superhuman AI. PauseAI informs the public, talks to policy-makers, and organizes events. Join us at one of our events ! Or talk to us on discord. To subscribe to our mailing list, send an email to pauseai-mtl-subscribe@lists.riseup.net. At PauseAI Montréal, we: Find people already concerned about AI at meetups around Montréal Meet and discuss how AI should be regulated, deployed, to make it safe and help humanity rather than cause issues Put up posters around the city Email and talk to local politicians to push them to vote for AI regulation … and more to come! For more content on the risks of AI see pauseai.info Events",
+      "structure": {
+        "tagCounts": {
+          "a": 8,
+          "br": 1,
+          "div": 1,
+          "h2": 1,
+          "h3": 1,
+          "iframe": 1,
+          "li": 5,
+          "p": 7,
+          "section": 1,
+          "span": 3,
+          "ul": 1
+        },
+        "linkCount": 8,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 2,
+        "listItemCount": 5,
+        "elementCount": 30,
+        "textLength": 1099
+      },
+      "bbox": {
+        "x": 90,
+        "y": 85.94,
+        "width": 1100,
+        "height": 1787.88
+      },
+      "image": "tests/visual/baselines/montreal-en/main/desktop-dark.png"
+    },
+    {
+      "page": "/en/montreal.html",
+      "device": "desktop",
+      "mode": "light",
+      "region": "cta",
+      "text": "To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Join us Subscribe Discord",
+      "structure": {
+        "tagCounts": {
+          "a": 3,
+          "div": 1,
+          "h2": 1,
+          "p": 2,
+          "span": 2
+        },
+        "linkCount": 3,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 1,
+        "listItemCount": 0,
+        "elementCount": 9,
+        "textLength": 346
+      },
+      "bbox": {
+        "x": 260,
+        "y": 130.94,
+        "width": 760,
+        "height": 633.58
+      },
+      "image": "tests/visual/baselines/montreal-en/cta/desktop-light.png"
+    },
+    {
+      "page": "/en/montreal.html",
+      "device": "desktop",
+      "mode": "light",
+      "region": "footer",
+      "text": "you can suggest changes to this website by creating a pull request on the github repo: https://github.com/nikthink/pauseai.ca , or by emailing nik at nicolas.m.lacombe@gmail.com .",
+      "structure": {
+        "tagCounts": {
+          "a": 2,
+          "div": 1,
+          "p": 1,
+          "script": 2
+        },
+        "linkCount": 2,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 6,
+        "textLength": 179
+      },
+      "bbox": {
+        "x": 90,
+        "y": 1787.81,
+        "width": 1100,
+        "height": 76
+      },
+      "image": "tests/visual/baselines/montreal-en/footer/desktop-light.png"
+    },
+    {
+      "page": "/en/montreal.html",
+      "device": "desktop",
+      "mode": "light",
+      "region": "header",
+      "text": "PauseAI Canada Montréal Events Action Français",
+      "structure": {
+        "tagCounts": {
+          "a": 6,
+          "button": 1,
+          "div": 1,
+          "h1": 1,
+          "img": 1,
+          "li": 5,
+          "nav": 1,
+          "span": 4,
+          "ul": 1
+        },
+        "linkCount": 6,
+        "imageCount": 1,
+        "buttonCount": 1,
+        "headingCount": 1,
+        "listItemCount": 5,
+        "elementCount": 21,
+        "textLength": 46
+      },
+      "bbox": {
+        "x": 90,
+        "y": 0,
+        "width": 1100,
+        "height": 79.75
+      },
+      "image": "tests/visual/baselines/montreal-en/header/desktop-light.png"
+    },
+    {
+      "page": "/en/montreal.html",
+      "device": "desktop",
+      "mode": "light",
+      "region": "main",
+      "text": "To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Join us Subscribe Discord We are a community of volunteers that aims to mitigate the risks of AI by convincing governments to pause the development of superhuman AI. PauseAI informs the public, talks to policy-makers, and organizes events. Join us at one of our events ! Or talk to us on discord. To subscribe to our mailing list, send an email to pauseai-mtl-subscribe@lists.riseup.net. At PauseAI Montréal, we: Find people already concerned about AI at meetups around Montréal Meet and discuss how AI should be regulated, deployed, to make it safe and help humanity rather than cause issues Put up posters around the city Email and talk to local politicians to push them to vote for AI regulation … and more to come! For more content on the risks of AI see pauseai.info Events",
+      "structure": {
+        "tagCounts": {
+          "a": 8,
+          "br": 1,
+          "div": 1,
+          "h2": 1,
+          "h3": 1,
+          "iframe": 1,
+          "li": 5,
+          "p": 7,
+          "section": 1,
+          "span": 3,
+          "ul": 1
+        },
+        "linkCount": 8,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 2,
+        "listItemCount": 5,
+        "elementCount": 30,
+        "textLength": 1099
+      },
+      "bbox": {
+        "x": 90,
+        "y": 85.94,
+        "width": 1100,
+        "height": 1787.88
+      },
+      "image": "tests/visual/baselines/montreal-en/main/desktop-light.png"
+    },
+    {
+      "page": "/en/montreal.html",
+      "device": "iphone-13",
+      "mode": "dark",
+      "region": "cta",
+      "text": "To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Join us Subscribe Discord",
+      "structure": {
+        "tagCounts": {
+          "a": 3,
+          "div": 1,
+          "h2": 1,
+          "p": 2,
+          "span": 2
+        },
+        "linkCount": 3,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 1,
+        "listItemCount": 0,
+        "elementCount": 9,
+        "textLength": 346
+      },
+      "bbox": {
+        "x": 16,
+        "y": 74.91,
+        "width": 358,
+        "height": 802.98
+      },
+      "image": "tests/visual/baselines/montreal-en/cta/iphone-13-dark.png"
+    },
+    {
+      "page": "/en/montreal.html",
+      "device": "iphone-13",
+      "mode": "dark",
+      "region": "footer",
+      "text": "you can suggest changes to this website by creating a pull request on the github repo: https://github.com/nikthink/pauseai.ca , or by emailing nik at nicolas.m.lacombe@gmail.com .",
+      "structure": {
+        "tagCounts": {
+          "a": 2,
+          "div": 1,
+          "p": 1,
+          "script": 2
+        },
+        "linkCount": 2,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 6,
+        "textLength": 179
+      },
+      "bbox": {
+        "x": 16,
+        "y": 2151.7,
+        "width": 358,
+        "height": 111.25
+      },
+      "image": "tests/visual/baselines/montreal-en/footer/iphone-13-dark.png"
+    },
+    {
+      "page": "/en/montreal.html",
+      "device": "iphone-13",
+      "mode": "dark",
+      "region": "header",
+      "text": "PauseAI",
+      "structure": {
+        "tagCounts": {
+          "a": 6,
+          "button": 1,
+          "div": 1,
+          "h1": 1,
+          "img": 1,
+          "li": 5,
+          "nav": 1,
+          "span": 4,
+          "ul": 1
+        },
+        "linkCount": 6,
+        "imageCount": 1,
+        "buttonCount": 1,
+        "headingCount": 1,
+        "listItemCount": 5,
+        "elementCount": 21,
+        "textLength": 7
+      },
+      "bbox": {
+        "x": 16,
+        "y": 0,
+        "width": 358,
+        "height": 38.91
+      },
+      "image": "tests/visual/baselines/montreal-en/header/iphone-13-dark.png"
+    },
+    {
+      "page": "/en/montreal.html",
+      "device": "iphone-13",
+      "mode": "dark",
+      "region": "main",
+      "text": "To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Join us Subscribe Discord We are a community of volunteers that aims to mitigate the risks of AI by convincing governments to pause the development of superhuman AI. PauseAI informs the public, talks to policy-makers, and organizes events. Join us at one of our events ! Or talk to us on discord. To subscribe to our mailing list, send an email to pauseai-mtl-subscribe@lists.riseup.net. At PauseAI Montréal, we: Find people already concerned about AI at meetups around Montréal Meet and discuss how AI should be regulated, deployed, to make it safe and help humanity rather than cause issues Put up posters around the city Email and talk to local politicians to push them to vote for AI regulation … and more to come! For more content on the risks of AI see pauseai.info Events",
+      "structure": {
+        "tagCounts": {
+          "a": 8,
+          "br": 1,
+          "div": 1,
+          "h2": 1,
+          "h3": 1,
+          "iframe": 1,
+          "li": 5,
+          "p": 7,
+          "section": 1,
+          "span": 3,
+          "ul": 1
+        },
+        "linkCount": 8,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 2,
+        "listItemCount": 5,
+        "elementCount": 30,
+        "textLength": 1099
+      },
+      "bbox": {
+        "x": 16,
+        "y": -0.09,
+        "width": 358,
+        "height": 2150.8
+      },
+      "image": "tests/visual/baselines/montreal-en/main/iphone-13-dark.png"
+    },
+    {
+      "page": "/en/montreal.html",
+      "device": "iphone-13",
+      "mode": "light",
+      "region": "cta",
+      "text": "To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Join us Subscribe Discord",
+      "structure": {
+        "tagCounts": {
+          "a": 3,
+          "div": 1,
+          "h2": 1,
+          "p": 2,
+          "span": 2
+        },
+        "linkCount": 3,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 1,
+        "listItemCount": 0,
+        "elementCount": 9,
+        "textLength": 346
+      },
+      "bbox": {
+        "x": 16,
+        "y": 74.91,
+        "width": 358,
+        "height": 802.98
+      },
+      "image": "tests/visual/baselines/montreal-en/cta/iphone-13-light.png"
+    },
+    {
+      "page": "/en/montreal.html",
+      "device": "iphone-13",
+      "mode": "light",
+      "region": "footer",
+      "text": "you can suggest changes to this website by creating a pull request on the github repo: https://github.com/nikthink/pauseai.ca , or by emailing nik at nicolas.m.lacombe@gmail.com .",
+      "structure": {
+        "tagCounts": {
+          "a": 2,
+          "div": 1,
+          "p": 1,
+          "script": 2
+        },
+        "linkCount": 2,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 6,
+        "textLength": 179
+      },
+      "bbox": {
+        "x": 16,
+        "y": 2151.7,
+        "width": 358,
+        "height": 111.25
+      },
+      "image": "tests/visual/baselines/montreal-en/footer/iphone-13-light.png"
+    },
+    {
+      "page": "/en/montreal.html",
+      "device": "iphone-13",
+      "mode": "light",
+      "region": "header",
+      "text": "PauseAI",
+      "structure": {
+        "tagCounts": {
+          "a": 6,
+          "button": 1,
+          "div": 1,
+          "h1": 1,
+          "img": 1,
+          "li": 5,
+          "nav": 1,
+          "span": 4,
+          "ul": 1
+        },
+        "linkCount": 6,
+        "imageCount": 1,
+        "buttonCount": 1,
+        "headingCount": 1,
+        "listItemCount": 5,
+        "elementCount": 21,
+        "textLength": 7
+      },
+      "bbox": {
+        "x": 16,
+        "y": 0,
+        "width": 358,
+        "height": 38.91
+      },
+      "image": "tests/visual/baselines/montreal-en/header/iphone-13-light.png"
+    },
+    {
+      "page": "/en/montreal.html",
+      "device": "iphone-13",
+      "mode": "light",
+      "region": "main",
+      "text": "To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Join us Subscribe Discord We are a community of volunteers that aims to mitigate the risks of AI by convincing governments to pause the development of superhuman AI. PauseAI informs the public, talks to policy-makers, and organizes events. Join us at one of our events ! Or talk to us on discord. To subscribe to our mailing list, send an email to pauseai-mtl-subscribe@lists.riseup.net. At PauseAI Montréal, we: Find people already concerned about AI at meetups around Montréal Meet and discuss how AI should be regulated, deployed, to make it safe and help humanity rather than cause issues Put up posters around the city Email and talk to local politicians to push them to vote for AI regulation … and more to come! For more content on the risks of AI see pauseai.info Events",
+      "structure": {
+        "tagCounts": {
+          "a": 8,
+          "br": 1,
+          "div": 1,
+          "h2": 1,
+          "h3": 1,
+          "iframe": 1,
+          "li": 5,
+          "p": 7,
+          "section": 1,
+          "span": 3,
+          "ul": 1
+        },
+        "linkCount": 8,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 2,
+        "listItemCount": 5,
+        "elementCount": 30,
+        "textLength": 1099
+      },
+      "bbox": {
+        "x": 16,
+        "y": -0.09,
+        "width": 358,
+        "height": 2150.8
+      },
+      "image": "tests/visual/baselines/montreal-en/main/iphone-13-light.png"
+    },
+    {
+      "page": "/en/montreal.html",
+      "device": "pixel-5",
+      "mode": "dark",
+      "region": "cta",
+      "text": "To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Join us Subscribe Discord",
+      "structure": {
+        "tagCounts": {
+          "a": 3,
+          "div": 1,
+          "h2": 1,
+          "p": 2,
+          "span": 2
+        },
+        "linkCount": 3,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 1,
+        "listItemCount": 0,
+        "elementCount": 9,
+        "textLength": 346
+      },
+      "bbox": {
+        "x": 16,
+        "y": 74.91,
+        "width": 361,
+        "height": 774.63
+      },
+      "image": "tests/visual/baselines/montreal-en/cta/pixel-5-dark.png"
+    },
+    {
+      "page": "/en/montreal.html",
+      "device": "pixel-5",
+      "mode": "dark",
+      "region": "footer",
+      "text": "you can suggest changes to this website by creating a pull request on the github repo: https://github.com/nikthink/pauseai.ca , or by emailing nik at nicolas.m.lacombe@gmail.com .",
+      "structure": {
+        "tagCounts": {
+          "a": 2,
+          "div": 1,
+          "p": 1,
+          "script": 2
+        },
+        "linkCount": 2,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 6,
+        "textLength": 179
+      },
+      "bbox": {
+        "x": 16,
+        "y": 2123.34,
+        "width": 361,
+        "height": 111.25
+      },
+      "image": "tests/visual/baselines/montreal-en/footer/pixel-5-dark.png"
+    },
+    {
+      "page": "/en/montreal.html",
+      "device": "pixel-5",
+      "mode": "dark",
+      "region": "header",
+      "text": "PauseAI",
+      "structure": {
+        "tagCounts": {
+          "a": 6,
+          "button": 1,
+          "div": 1,
+          "h1": 1,
+          "img": 1,
+          "li": 5,
+          "nav": 1,
+          "span": 4,
+          "ul": 1
+        },
+        "linkCount": 6,
+        "imageCount": 1,
+        "buttonCount": 1,
+        "headingCount": 1,
+        "listItemCount": 5,
+        "elementCount": 21,
+        "textLength": 7
+      },
+      "bbox": {
+        "x": 16,
+        "y": 0,
+        "width": 361,
+        "height": 38.91
+      },
+      "image": "tests/visual/baselines/montreal-en/header/pixel-5-dark.png"
+    },
+    {
+      "page": "/en/montreal.html",
+      "device": "pixel-5",
+      "mode": "dark",
+      "region": "main",
+      "text": "To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Join us Subscribe Discord We are a community of volunteers that aims to mitigate the risks of AI by convincing governments to pause the development of superhuman AI. PauseAI informs the public, talks to policy-makers, and organizes events. Join us at one of our events ! Or talk to us on discord. To subscribe to our mailing list, send an email to pauseai-mtl-subscribe@lists.riseup.net. At PauseAI Montréal, we: Find people already concerned about AI at meetups around Montréal Meet and discuss how AI should be regulated, deployed, to make it safe and help humanity rather than cause issues Put up posters around the city Email and talk to local politicians to push them to vote for AI regulation … and more to come! For more content on the risks of AI see pauseai.info Events",
+      "structure": {
+        "tagCounts": {
+          "a": 8,
+          "br": 1,
+          "div": 1,
+          "h2": 1,
+          "h3": 1,
+          "iframe": 1,
+          "li": 5,
+          "p": 7,
+          "section": 1,
+          "span": 3,
+          "ul": 1
+        },
+        "linkCount": 8,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 2,
+        "listItemCount": 5,
+        "elementCount": 30,
+        "textLength": 1099
+      },
+      "bbox": {
+        "x": 16,
+        "y": 0.91,
+        "width": 361,
+        "height": 2122.44
+      },
+      "image": "tests/visual/baselines/montreal-en/main/pixel-5-dark.png"
+    },
+    {
+      "page": "/en/montreal.html",
+      "device": "pixel-5",
+      "mode": "light",
+      "region": "cta",
+      "text": "To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Join us Subscribe Discord",
+      "structure": {
+        "tagCounts": {
+          "a": 3,
+          "div": 1,
+          "h2": 1,
+          "p": 2,
+          "span": 2
+        },
+        "linkCount": 3,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 1,
+        "listItemCount": 0,
+        "elementCount": 9,
+        "textLength": 346
+      },
+      "bbox": {
+        "x": 16,
+        "y": 74.91,
+        "width": 361,
+        "height": 774.63
+      },
+      "image": "tests/visual/baselines/montreal-en/cta/pixel-5-light.png"
+    },
+    {
+      "page": "/en/montreal.html",
+      "device": "pixel-5",
+      "mode": "light",
+      "region": "footer",
+      "text": "you can suggest changes to this website by creating a pull request on the github repo: https://github.com/nikthink/pauseai.ca , or by emailing nik at nicolas.m.lacombe@gmail.com .",
+      "structure": {
+        "tagCounts": {
+          "a": 2,
+          "div": 1,
+          "p": 1,
+          "script": 2
+        },
+        "linkCount": 2,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 6,
+        "textLength": 179
+      },
+      "bbox": {
+        "x": 16,
+        "y": 2123.34,
+        "width": 361,
+        "height": 111.25
+      },
+      "image": "tests/visual/baselines/montreal-en/footer/pixel-5-light.png"
+    },
+    {
+      "page": "/en/montreal.html",
+      "device": "pixel-5",
+      "mode": "light",
+      "region": "header",
+      "text": "PauseAI",
+      "structure": {
+        "tagCounts": {
+          "a": 6,
+          "button": 1,
+          "div": 1,
+          "h1": 1,
+          "img": 1,
+          "li": 5,
+          "nav": 1,
+          "span": 4,
+          "ul": 1
+        },
+        "linkCount": 6,
+        "imageCount": 1,
+        "buttonCount": 1,
+        "headingCount": 1,
+        "listItemCount": 5,
+        "elementCount": 21,
+        "textLength": 7
+      },
+      "bbox": {
+        "x": 16,
+        "y": 0,
+        "width": 361,
+        "height": 38.91
+      },
+      "image": "tests/visual/baselines/montreal-en/header/pixel-5-light.png"
+    },
+    {
+      "page": "/en/montreal.html",
+      "device": "pixel-5",
+      "mode": "light",
+      "region": "main",
+      "text": "To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Join us Subscribe Discord We are a community of volunteers that aims to mitigate the risks of AI by convincing governments to pause the development of superhuman AI. PauseAI informs the public, talks to policy-makers, and organizes events. Join us at one of our events ! Or talk to us on discord. To subscribe to our mailing list, send an email to pauseai-mtl-subscribe@lists.riseup.net. At PauseAI Montréal, we: Find people already concerned about AI at meetups around Montréal Meet and discuss how AI should be regulated, deployed, to make it safe and help humanity rather than cause issues Put up posters around the city Email and talk to local politicians to push them to vote for AI regulation … and more to come! For more content on the risks of AI see pauseai.info Events",
+      "structure": {
+        "tagCounts": {
+          "a": 8,
+          "br": 1,
+          "div": 1,
+          "h2": 1,
+          "h3": 1,
+          "iframe": 1,
+          "li": 5,
+          "p": 7,
+          "section": 1,
+          "span": 3,
+          "ul": 1
+        },
+        "linkCount": 8,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 2,
+        "listItemCount": 5,
+        "elementCount": 30,
+        "textLength": 1099
+      },
+      "bbox": {
+        "x": 16,
+        "y": 0.91,
+        "width": 361,
+        "height": 2122.44
+      },
+      "image": "tests/visual/baselines/montreal-en/main/pixel-5-light.png"
+    },
+    {
+      "page": "/fr/",
+      "device": "desktop",
+      "mode": "dark",
+      "region": "footer",
+      "text": "you can suggest changes to this website by creating a pull request on the github repo: https://github.com/nikthink/pauseai.ca , or by emailing nik at nicolas.m.lacombe@gmail.com .",
+      "structure": {
+        "tagCounts": {
+          "a": 2,
+          "div": 1,
+          "p": 1,
+          "script": 2
+        },
+        "linkCount": 2,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 6,
+        "textLength": 179
+      },
+      "bbox": {
+        "x": 90,
+        "y": 361,
+        "width": 1100,
+        "height": 76
+      },
+      "image": "tests/visual/baselines/home-fr/footer/desktop-dark.png"
+    },
+    {
+      "page": "/fr/",
+      "device": "desktop",
+      "mode": "dark",
+      "region": "header",
+      "text": "PauseAI Canada Montréal Événements English",
+      "structure": {
+        "tagCounts": {
+          "a": 5,
+          "button": 1,
+          "div": 1,
+          "h1": 1,
+          "img": 1,
+          "li": 4,
+          "nav": 1,
+          "span": 4,
+          "ul": 1
+        },
+        "linkCount": 5,
+        "imageCount": 1,
+        "buttonCount": 1,
+        "headingCount": 1,
+        "listItemCount": 4,
+        "elementCount": 19,
+        "textLength": 42
+      },
+      "bbox": {
+        "x": 90,
+        "y": 0,
+        "width": 1100,
+        "height": 79.75
+      },
+      "image": "tests/visual/baselines/home-fr/header/desktop-dark.png"
+    },
+    {
+      "page": "/fr/",
+      "device": "desktop",
+      "mode": "dark",
+      "region": "main",
+      "text": "Rejoignez notre Discord. Communauté PauseAI locale au Canada: Montréal Si vous organisez une communauté PauseAI locale au Canada et souhaitez être ajouté à cette liste, svp envoyer un courriel à nicolas.m.lacombe@gmail.com.",
+      "structure": {
+        "tagCounts": {
+          "a": 3,
+          "li": 1,
+          "nav": 1,
+          "p": 3,
+          "ul": 1
+        },
+        "linkCount": 3,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 1,
+        "elementCount": 9,
+        "textLength": 223
+      },
+      "bbox": {
+        "x": 90,
+        "y": 102.25,
+        "width": 1100,
+        "height": 236.25
+      },
+      "image": "tests/visual/baselines/home-fr/main/desktop-dark.png"
+    },
+    {
+      "page": "/fr/",
+      "device": "desktop",
+      "mode": "light",
+      "region": "footer",
+      "text": "you can suggest changes to this website by creating a pull request on the github repo: https://github.com/nikthink/pauseai.ca , or by emailing nik at nicolas.m.lacombe@gmail.com .",
+      "structure": {
+        "tagCounts": {
+          "a": 2,
+          "div": 1,
+          "p": 1,
+          "script": 2
+        },
+        "linkCount": 2,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 6,
+        "textLength": 179
+      },
+      "bbox": {
+        "x": 90,
+        "y": 361,
+        "width": 1100,
+        "height": 76
+      },
+      "image": "tests/visual/baselines/home-fr/footer/desktop-light.png"
+    },
+    {
+      "page": "/fr/",
+      "device": "desktop",
+      "mode": "light",
+      "region": "header",
+      "text": "PauseAI Canada Montréal Événements English",
+      "structure": {
+        "tagCounts": {
+          "a": 5,
+          "button": 1,
+          "div": 1,
+          "h1": 1,
+          "img": 1,
+          "li": 4,
+          "nav": 1,
+          "span": 4,
+          "ul": 1
+        },
+        "linkCount": 5,
+        "imageCount": 1,
+        "buttonCount": 1,
+        "headingCount": 1,
+        "listItemCount": 4,
+        "elementCount": 19,
+        "textLength": 42
+      },
+      "bbox": {
+        "x": 90,
+        "y": 0,
+        "width": 1100,
+        "height": 79.75
+      },
+      "image": "tests/visual/baselines/home-fr/header/desktop-light.png"
+    },
+    {
+      "page": "/fr/",
+      "device": "desktop",
+      "mode": "light",
+      "region": "main",
+      "text": "Rejoignez notre Discord. Communauté PauseAI locale au Canada: Montréal Si vous organisez une communauté PauseAI locale au Canada et souhaitez être ajouté à cette liste, svp envoyer un courriel à nicolas.m.lacombe@gmail.com.",
+      "structure": {
+        "tagCounts": {
+          "a": 3,
+          "li": 1,
+          "nav": 1,
+          "p": 3,
+          "ul": 1
+        },
+        "linkCount": 3,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 1,
+        "elementCount": 9,
+        "textLength": 223
+      },
+      "bbox": {
+        "x": 90,
+        "y": 102.25,
+        "width": 1100,
+        "height": 236.25
+      },
+      "image": "tests/visual/baselines/home-fr/main/desktop-light.png"
+    },
+    {
+      "page": "/fr/",
+      "device": "iphone-13",
+      "mode": "dark",
+      "region": "footer",
+      "text": "you can suggest changes to this website by creating a pull request on the github repo: https://github.com/nikthink/pauseai.ca , or by emailing nik at nicolas.m.lacombe@gmail.com .",
+      "structure": {
+        "tagCounts": {
+          "a": 2,
+          "div": 1,
+          "p": 1,
+          "script": 2
+        },
+        "linkCount": 2,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 6,
+        "textLength": 179
+      },
+      "bbox": {
+        "x": 16,
+        "y": 331.88,
+        "width": 358,
+        "height": 111.25
+      },
+      "image": "tests/visual/baselines/home-fr/footer/iphone-13-dark.png"
+    },
+    {
+      "page": "/fr/",
+      "device": "iphone-13",
+      "mode": "dark",
+      "region": "header",
+      "text": "PauseAI",
+      "structure": {
+        "tagCounts": {
+          "a": 5,
+          "button": 1,
+          "div": 1,
+          "h1": 1,
+          "img": 1,
+          "li": 4,
+          "nav": 1,
+          "span": 4,
+          "ul": 1
+        },
+        "linkCount": 5,
+        "imageCount": 1,
+        "buttonCount": 1,
+        "headingCount": 1,
+        "listItemCount": 4,
+        "elementCount": 19,
+        "textLength": 7
+      },
+      "bbox": {
+        "x": 16,
+        "y": 0,
+        "width": 358,
+        "height": 38.91
+      },
+      "image": "tests/visual/baselines/home-fr/header/iphone-13-dark.png"
+    },
+    {
+      "page": "/fr/",
+      "device": "iphone-13",
+      "mode": "dark",
+      "region": "main",
+      "text": "Rejoignez notre Discord. Communauté PauseAI locale au Canada: Montréal Si vous organisez une communauté PauseAI locale au Canada et souhaitez être ajouté à cette liste, svp envoyer un courriel à nicolas.m.lacombe@gmail.com.",
+      "structure": {
+        "tagCounts": {
+          "a": 3,
+          "li": 1,
+          "nav": 1,
+          "p": 3,
+          "ul": 1
+        },
+        "linkCount": 3,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 1,
+        "elementCount": 9,
+        "textLength": 223
+      },
+      "bbox": {
+        "x": 16,
+        "y": 57.8,
+        "width": 358,
+        "height": 255.19
+      },
+      "image": "tests/visual/baselines/home-fr/main/iphone-13-dark.png"
+    },
+    {
+      "page": "/fr/",
+      "device": "iphone-13",
+      "mode": "light",
+      "region": "footer",
+      "text": "you can suggest changes to this website by creating a pull request on the github repo: https://github.com/nikthink/pauseai.ca , or by emailing nik at nicolas.m.lacombe@gmail.com .",
+      "structure": {
+        "tagCounts": {
+          "a": 2,
+          "div": 1,
+          "p": 1,
+          "script": 2
+        },
+        "linkCount": 2,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 6,
+        "textLength": 179
+      },
+      "bbox": {
+        "x": 16,
+        "y": 331.88,
+        "width": 358,
+        "height": 111.25
+      },
+      "image": "tests/visual/baselines/home-fr/footer/iphone-13-light.png"
+    },
+    {
+      "page": "/fr/",
+      "device": "iphone-13",
+      "mode": "light",
+      "region": "header",
+      "text": "PauseAI",
+      "structure": {
+        "tagCounts": {
+          "a": 5,
+          "button": 1,
+          "div": 1,
+          "h1": 1,
+          "img": 1,
+          "li": 4,
+          "nav": 1,
+          "span": 4,
+          "ul": 1
+        },
+        "linkCount": 5,
+        "imageCount": 1,
+        "buttonCount": 1,
+        "headingCount": 1,
+        "listItemCount": 4,
+        "elementCount": 19,
+        "textLength": 7
+      },
+      "bbox": {
+        "x": 16,
+        "y": 0,
+        "width": 358,
+        "height": 38.91
+      },
+      "image": "tests/visual/baselines/home-fr/header/iphone-13-light.png"
+    },
+    {
+      "page": "/fr/",
+      "device": "iphone-13",
+      "mode": "light",
+      "region": "main",
+      "text": "Rejoignez notre Discord. Communauté PauseAI locale au Canada: Montréal Si vous organisez une communauté PauseAI locale au Canada et souhaitez être ajouté à cette liste, svp envoyer un courriel à nicolas.m.lacombe@gmail.com.",
+      "structure": {
+        "tagCounts": {
+          "a": 3,
+          "li": 1,
+          "nav": 1,
+          "p": 3,
+          "ul": 1
+        },
+        "linkCount": 3,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 1,
+        "elementCount": 9,
+        "textLength": 223
+      },
+      "bbox": {
+        "x": 16,
+        "y": 57.8,
+        "width": 358,
+        "height": 255.19
+      },
+      "image": "tests/visual/baselines/home-fr/main/iphone-13-light.png"
+    },
+    {
+      "page": "/fr/",
+      "device": "pixel-5",
+      "mode": "dark",
+      "region": "footer",
+      "text": "you can suggest changes to this website by creating a pull request on the github repo: https://github.com/nikthink/pauseai.ca , or by emailing nik at nicolas.m.lacombe@gmail.com .",
+      "structure": {
+        "tagCounts": {
+          "a": 2,
+          "div": 1,
+          "p": 1,
+          "script": 2
+        },
+        "linkCount": 2,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 6,
+        "textLength": 179
+      },
+      "bbox": {
+        "x": 16,
+        "y": 331.88,
+        "width": 361,
+        "height": 111.25
+      },
+      "image": "tests/visual/baselines/home-fr/footer/pixel-5-dark.png"
+    },
+    {
+      "page": "/fr/",
+      "device": "pixel-5",
+      "mode": "dark",
+      "region": "header",
+      "text": "PauseAI",
+      "structure": {
+        "tagCounts": {
+          "a": 5,
+          "button": 1,
+          "div": 1,
+          "h1": 1,
+          "img": 1,
+          "li": 4,
+          "nav": 1,
+          "span": 4,
+          "ul": 1
+        },
+        "linkCount": 5,
+        "imageCount": 1,
+        "buttonCount": 1,
+        "headingCount": 1,
+        "listItemCount": 4,
+        "elementCount": 19,
+        "textLength": 7
+      },
+      "bbox": {
+        "x": 16,
+        "y": 0,
+        "width": 361,
+        "height": 38.91
+      },
+      "image": "tests/visual/baselines/home-fr/header/pixel-5-dark.png"
+    },
+    {
+      "page": "/fr/",
+      "device": "pixel-5",
+      "mode": "dark",
+      "region": "main",
+      "text": "Rejoignez notre Discord. Communauté PauseAI locale au Canada: Montréal Si vous organisez une communauté PauseAI locale au Canada et souhaitez être ajouté à cette liste, svp envoyer un courriel à nicolas.m.lacombe@gmail.com.",
+      "structure": {
+        "tagCounts": {
+          "a": 3,
+          "li": 1,
+          "nav": 1,
+          "p": 3,
+          "ul": 1
+        },
+        "linkCount": 3,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 1,
+        "elementCount": 9,
+        "textLength": 223
+      },
+      "bbox": {
+        "x": 16,
+        "y": 57.8,
+        "width": 361,
+        "height": 255.19
+      },
+      "image": "tests/visual/baselines/home-fr/main/pixel-5-dark.png"
+    },
+    {
+      "page": "/fr/",
+      "device": "pixel-5",
+      "mode": "light",
+      "region": "footer",
+      "text": "you can suggest changes to this website by creating a pull request on the github repo: https://github.com/nikthink/pauseai.ca , or by emailing nik at nicolas.m.lacombe@gmail.com .",
+      "structure": {
+        "tagCounts": {
+          "a": 2,
+          "div": 1,
+          "p": 1,
+          "script": 2
+        },
+        "linkCount": 2,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 6,
+        "textLength": 179
+      },
+      "bbox": {
+        "x": 16,
+        "y": 331.88,
+        "width": 361,
+        "height": 111.25
+      },
+      "image": "tests/visual/baselines/home-fr/footer/pixel-5-light.png"
+    },
+    {
+      "page": "/fr/",
+      "device": "pixel-5",
+      "mode": "light",
+      "region": "header",
+      "text": "PauseAI",
+      "structure": {
+        "tagCounts": {
+          "a": 5,
+          "button": 1,
+          "div": 1,
+          "h1": 1,
+          "img": 1,
+          "li": 4,
+          "nav": 1,
+          "span": 4,
+          "ul": 1
+        },
+        "linkCount": 5,
+        "imageCount": 1,
+        "buttonCount": 1,
+        "headingCount": 1,
+        "listItemCount": 4,
+        "elementCount": 19,
+        "textLength": 7
+      },
+      "bbox": {
+        "x": 16,
+        "y": 0,
+        "width": 361,
+        "height": 38.91
+      },
+      "image": "tests/visual/baselines/home-fr/header/pixel-5-light.png"
+    },
+    {
+      "page": "/fr/",
+      "device": "pixel-5",
+      "mode": "light",
+      "region": "main",
+      "text": "Rejoignez notre Discord. Communauté PauseAI locale au Canada: Montréal Si vous organisez une communauté PauseAI locale au Canada et souhaitez être ajouté à cette liste, svp envoyer un courriel à nicolas.m.lacombe@gmail.com.",
+      "structure": {
+        "tagCounts": {
+          "a": 3,
+          "li": 1,
+          "nav": 1,
+          "p": 3,
+          "ul": 1
+        },
+        "linkCount": 3,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 1,
+        "elementCount": 9,
+        "textLength": 223
+      },
+      "bbox": {
+        "x": 16,
+        "y": 57.8,
+        "width": 361,
+        "height": 255.19
+      },
+      "image": "tests/visual/baselines/home-fr/main/pixel-5-light.png"
+    },
+    {
+      "page": "/fr/montreal.html",
+      "device": "desktop",
+      "mode": "dark",
+      "region": "cta",
+      "text": "Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Rejoindre S'abonner Discord",
+      "structure": {
+        "tagCounts": {
+          "a": 3,
+          "div": 1,
+          "h2": 1,
+          "p": 2,
+          "span": 2
+        },
+        "linkCount": 3,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 1,
+        "listItemCount": 0,
+        "elementCount": 9,
+        "textLength": 433
+      },
+      "bbox": {
+        "x": 260,
+        "y": 130.94,
+        "width": 760,
+        "height": 667.33
+      },
+      "image": "tests/visual/baselines/montreal-fr/cta/desktop-dark.png"
+    },
+    {
+      "page": "/fr/montreal.html",
+      "device": "desktop",
+      "mode": "dark",
+      "region": "footer",
+      "text": "you can suggest changes to this website by creating a pull request on the github repo: https://github.com/nikthink/pauseai.ca , or by emailing nik at nicolas.m.lacombe@gmail.com .",
+      "structure": {
+        "tagCounts": {
+          "a": 2,
+          "div": 1,
+          "p": 1,
+          "script": 2
+        },
+        "linkCount": 2,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 6,
+        "textLength": 179
+      },
+      "bbox": {
+        "x": 90,
+        "y": 1922.81,
+        "width": 1100,
+        "height": 76
+      },
+      "image": "tests/visual/baselines/montreal-fr/footer/desktop-dark.png"
+    },
+    {
+      "page": "/fr/montreal.html",
+      "device": "desktop",
+      "mode": "dark",
+      "region": "header",
+      "text": "PauseAI Canada Montréal Événements English",
+      "structure": {
+        "tagCounts": {
+          "a": 5,
+          "button": 1,
+          "div": 1,
+          "h1": 1,
+          "img": 1,
+          "li": 4,
+          "nav": 1,
+          "span": 4,
+          "ul": 1
+        },
+        "linkCount": 5,
+        "imageCount": 1,
+        "buttonCount": 1,
+        "headingCount": 1,
+        "listItemCount": 4,
+        "elementCount": 19,
+        "textLength": 42
+      },
+      "bbox": {
+        "x": 90,
+        "y": 0,
+        "width": 1100,
+        "height": 79.75
+      },
+      "image": "tests/visual/baselines/montreal-fr/header/desktop-dark.png"
+    },
+    {
+      "page": "/fr/montreal.html",
+      "device": "desktop",
+      "mode": "dark",
+      "region": "main",
+      "text": "Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Rejoindre S'abonner Discord Nous sommes une communauté de bénévoles qui visent à mitiger les risques de l’IA en convaincant les gouvernements à mettre sur pause le développement d’une IA superhumaine. PauseAI informe le public, parle aux décideurs politiques, et organise des événements. Rejoins-nous à l’un de nos événements ! Ou viens nous parler sur Discord. Pour vous abonner, envoyez un courriel à pauseai-mtl-subscribe@lists.riseup.net. À PauseAI Montréal, nous : Trouvons des personnes déjà sensibilisées à propos de l’IA à travers des événements ouverts à toutes et tous Se rencontrons et discutons de l’encadrement et du déploiement sécuritaire de l’IA, afin que son impact soit bénéfique plutôt que nuisible Faisons de l’affichage et des activités de mobilisation à travers la ville Entrons en contact et parlons aux décideurs politiques afin de les pousser à légiférer pour rendre l’IA plus sûre … et plus à venir! Pour plus de contenu sur les risques de l’IA, visitez pauseai.info (site principale de PauseAI en anglais) ou pauseia.fr (site de PauseIA France en français). Événements",
+      "structure": {
+        "tagCounts": {
+          "a": 9,
+          "br": 1,
+          "div": 1,
+          "h2": 1,
+          "h3": 1,
+          "iframe": 1,
+          "li": 5,
+          "p": 7,
+          "section": 1,
+          "span": 3,
+          "ul": 1
+        },
+        "linkCount": 9,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 2,
+        "listItemCount": 5,
+        "elementCount": 31,
+        "textLength": 1501
+      },
+      "bbox": {
+        "x": 90,
+        "y": 52.94,
+        "width": 1100,
+        "height": 1922.88
+      },
+      "image": "tests/visual/baselines/montreal-fr/main/desktop-dark.png"
+    },
+    {
+      "page": "/fr/montreal.html",
+      "device": "desktop",
+      "mode": "light",
+      "region": "cta",
+      "text": "Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Rejoindre S'abonner Discord",
+      "structure": {
+        "tagCounts": {
+          "a": 3,
+          "div": 1,
+          "h2": 1,
+          "p": 2,
+          "span": 2
+        },
+        "linkCount": 3,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 1,
+        "listItemCount": 0,
+        "elementCount": 9,
+        "textLength": 433
+      },
+      "bbox": {
+        "x": 260,
+        "y": 130.94,
+        "width": 760,
+        "height": 667.33
+      },
+      "image": "tests/visual/baselines/montreal-fr/cta/desktop-light.png"
+    },
+    {
+      "page": "/fr/montreal.html",
+      "device": "desktop",
+      "mode": "light",
+      "region": "footer",
+      "text": "you can suggest changes to this website by creating a pull request on the github repo: https://github.com/nikthink/pauseai.ca , or by emailing nik at nicolas.m.lacombe@gmail.com .",
+      "structure": {
+        "tagCounts": {
+          "a": 2,
+          "div": 1,
+          "p": 1,
+          "script": 2
+        },
+        "linkCount": 2,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 6,
+        "textLength": 179
+      },
+      "bbox": {
+        "x": 90,
+        "y": 1922.81,
+        "width": 1100,
+        "height": 76
+      },
+      "image": "tests/visual/baselines/montreal-fr/footer/desktop-light.png"
+    },
+    {
+      "page": "/fr/montreal.html",
+      "device": "desktop",
+      "mode": "light",
+      "region": "header",
+      "text": "PauseAI Canada Montréal Événements English",
+      "structure": {
+        "tagCounts": {
+          "a": 5,
+          "button": 1,
+          "div": 1,
+          "h1": 1,
+          "img": 1,
+          "li": 4,
+          "nav": 1,
+          "span": 4,
+          "ul": 1
+        },
+        "linkCount": 5,
+        "imageCount": 1,
+        "buttonCount": 1,
+        "headingCount": 1,
+        "listItemCount": 4,
+        "elementCount": 19,
+        "textLength": 42
+      },
+      "bbox": {
+        "x": 90,
+        "y": 0,
+        "width": 1100,
+        "height": 79.75
+      },
+      "image": "tests/visual/baselines/montreal-fr/header/desktop-light.png"
+    },
+    {
+      "page": "/fr/montreal.html",
+      "device": "desktop",
+      "mode": "light",
+      "region": "main",
+      "text": "Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Rejoindre S'abonner Discord Nous sommes une communauté de bénévoles qui visent à mitiger les risques de l’IA en convaincant les gouvernements à mettre sur pause le développement d’une IA superhumaine. PauseAI informe le public, parle aux décideurs politiques, et organise des événements. Rejoins-nous à l’un de nos événements ! Ou viens nous parler sur Discord. Pour vous abonner, envoyez un courriel à pauseai-mtl-subscribe@lists.riseup.net. À PauseAI Montréal, nous : Trouvons des personnes déjà sensibilisées à propos de l’IA à travers des événements ouverts à toutes et tous Se rencontrons et discutons de l’encadrement et du déploiement sécuritaire de l’IA, afin que son impact soit bénéfique plutôt que nuisible Faisons de l’affichage et des activités de mobilisation à travers la ville Entrons en contact et parlons aux décideurs politiques afin de les pousser à légiférer pour rendre l’IA plus sûre … et plus à venir! Pour plus de contenu sur les risques de l’IA, visitez pauseai.info (site principale de PauseAI en anglais) ou pauseia.fr (site de PauseIA France en français). Événements",
+      "structure": {
+        "tagCounts": {
+          "a": 9,
+          "br": 1,
+          "div": 1,
+          "h2": 1,
+          "h3": 1,
+          "iframe": 1,
+          "li": 5,
+          "p": 7,
+          "section": 1,
+          "span": 3,
+          "ul": 1
+        },
+        "linkCount": 9,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 2,
+        "listItemCount": 5,
+        "elementCount": 31,
+        "textLength": 1501
+      },
+      "bbox": {
+        "x": 90,
+        "y": 52.94,
+        "width": 1100,
+        "height": 1922.88
+      },
+      "image": "tests/visual/baselines/montreal-fr/main/desktop-light.png"
+    },
+    {
+      "page": "/fr/montreal.html",
+      "device": "iphone-13",
+      "mode": "dark",
+      "region": "cta",
+      "text": "Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Rejoindre S'abonner Discord",
+      "structure": {
+        "tagCounts": {
+          "a": 3,
+          "div": 1,
+          "h2": 1,
+          "p": 2,
+          "span": 2
+        },
+        "linkCount": 3,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 1,
+        "listItemCount": 0,
+        "elementCount": 9,
+        "textLength": 433
+      },
+      "bbox": {
+        "x": 16,
+        "y": 74.91,
+        "width": 358,
+        "height": 870.94
+      },
+      "image": "tests/visual/baselines/montreal-fr/cta/iphone-13-dark.png"
+    },
+    {
+      "page": "/fr/montreal.html",
+      "device": "iphone-13",
+      "mode": "dark",
+      "region": "footer",
+      "text": "you can suggest changes to this website by creating a pull request on the github repo: https://github.com/nikthink/pauseai.ca , or by emailing nik at nicolas.m.lacombe@gmail.com .",
+      "structure": {
+        "tagCounts": {
+          "a": 2,
+          "div": 1,
+          "p": 1,
+          "script": 2
+        },
+        "linkCount": 2,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 6,
+        "textLength": 179
+      },
+      "bbox": {
+        "x": 16,
+        "y": 2474.89,
+        "width": 358,
+        "height": 111.25
+      },
+      "image": "tests/visual/baselines/montreal-fr/footer/iphone-13-dark.png"
+    },
+    {
+      "page": "/fr/montreal.html",
+      "device": "iphone-13",
+      "mode": "dark",
+      "region": "header",
+      "text": "PauseAI",
+      "structure": {
+        "tagCounts": {
+          "a": 5,
+          "button": 1,
+          "div": 1,
+          "h1": 1,
+          "img": 1,
+          "li": 4,
+          "nav": 1,
+          "span": 4,
+          "ul": 1
+        },
+        "linkCount": 5,
+        "imageCount": 1,
+        "buttonCount": 1,
+        "headingCount": 1,
+        "listItemCount": 4,
+        "elementCount": 19,
+        "textLength": 7
+      },
+      "bbox": {
+        "x": 16,
+        "y": 0,
+        "width": 358,
+        "height": 38.91
+      },
+      "image": "tests/visual/baselines/montreal-fr/header/iphone-13-dark.png"
+    },
+    {
+      "page": "/fr/montreal.html",
+      "device": "iphone-13",
+      "mode": "dark",
+      "region": "main",
+      "text": "Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Rejoindre S'abonner Discord Nous sommes une communauté de bénévoles qui visent à mitiger les risques de l’IA en convaincant les gouvernements à mettre sur pause le développement d’une IA superhumaine. PauseAI informe le public, parle aux décideurs politiques, et organise des événements. Rejoins-nous à l’un de nos événements ! Ou viens nous parler sur Discord. Pour vous abonner, envoyez un courriel à pauseai-mtl-subscribe@lists.riseup.net. À PauseAI Montréal, nous : Trouvons des personnes déjà sensibilisées à propos de l’IA à travers des événements ouverts à toutes et tous Se rencontrons et discutons de l’encadrement et du déploiement sécuritaire de l’IA, afin que son impact soit bénéfique plutôt que nuisible Faisons de l’affichage et des activités de mobilisation à travers la ville Entrons en contact et parlons aux décideurs politiques afin de les pousser à légiférer pour rendre l’IA plus sûre … et plus à venir! Pour plus de contenu sur les risques de l’IA, visitez pauseai.info (site principale de PauseAI en anglais) ou pauseia.fr (site de PauseIA France en français). Événements",
+      "structure": {
+        "tagCounts": {
+          "a": 9,
+          "br": 1,
+          "div": 1,
+          "h2": 1,
+          "h3": 1,
+          "iframe": 1,
+          "li": 5,
+          "p": 7,
+          "section": 1,
+          "span": 3,
+          "ul": 1
+        },
+        "linkCount": 9,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 2,
+        "listItemCount": 5,
+        "elementCount": 31,
+        "textLength": 1501
+      },
+      "bbox": {
+        "x": 16,
+        "y": 0.91,
+        "width": 358,
+        "height": 2473.98
+      },
+      "image": "tests/visual/baselines/montreal-fr/main/iphone-13-dark.png"
+    },
+    {
+      "page": "/fr/montreal.html",
+      "device": "iphone-13",
+      "mode": "light",
+      "region": "cta",
+      "text": "Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Rejoindre S'abonner Discord",
+      "structure": {
+        "tagCounts": {
+          "a": 3,
+          "div": 1,
+          "h2": 1,
+          "p": 2,
+          "span": 2
+        },
+        "linkCount": 3,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 1,
+        "listItemCount": 0,
+        "elementCount": 9,
+        "textLength": 433
+      },
+      "bbox": {
+        "x": 16,
+        "y": 74.91,
+        "width": 358,
+        "height": 870.94
+      },
+      "image": "tests/visual/baselines/montreal-fr/cta/iphone-13-light.png"
+    },
+    {
+      "page": "/fr/montreal.html",
+      "device": "iphone-13",
+      "mode": "light",
+      "region": "footer",
+      "text": "you can suggest changes to this website by creating a pull request on the github repo: https://github.com/nikthink/pauseai.ca , or by emailing nik at nicolas.m.lacombe@gmail.com .",
+      "structure": {
+        "tagCounts": {
+          "a": 2,
+          "div": 1,
+          "p": 1,
+          "script": 2
+        },
+        "linkCount": 2,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 6,
+        "textLength": 179
+      },
+      "bbox": {
+        "x": 16,
+        "y": 2474.89,
+        "width": 358,
+        "height": 111.25
+      },
+      "image": "tests/visual/baselines/montreal-fr/footer/iphone-13-light.png"
+    },
+    {
+      "page": "/fr/montreal.html",
+      "device": "iphone-13",
+      "mode": "light",
+      "region": "header",
+      "text": "PauseAI",
+      "structure": {
+        "tagCounts": {
+          "a": 5,
+          "button": 1,
+          "div": 1,
+          "h1": 1,
+          "img": 1,
+          "li": 4,
+          "nav": 1,
+          "span": 4,
+          "ul": 1
+        },
+        "linkCount": 5,
+        "imageCount": 1,
+        "buttonCount": 1,
+        "headingCount": 1,
+        "listItemCount": 4,
+        "elementCount": 19,
+        "textLength": 7
+      },
+      "bbox": {
+        "x": 16,
+        "y": 0,
+        "width": 358,
+        "height": 38.91
+      },
+      "image": "tests/visual/baselines/montreal-fr/header/iphone-13-light.png"
+    },
+    {
+      "page": "/fr/montreal.html",
+      "device": "iphone-13",
+      "mode": "light",
+      "region": "main",
+      "text": "Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Rejoindre S'abonner Discord Nous sommes une communauté de bénévoles qui visent à mitiger les risques de l’IA en convaincant les gouvernements à mettre sur pause le développement d’une IA superhumaine. PauseAI informe le public, parle aux décideurs politiques, et organise des événements. Rejoins-nous à l’un de nos événements ! Ou viens nous parler sur Discord. Pour vous abonner, envoyez un courriel à pauseai-mtl-subscribe@lists.riseup.net. À PauseAI Montréal, nous : Trouvons des personnes déjà sensibilisées à propos de l’IA à travers des événements ouverts à toutes et tous Se rencontrons et discutons de l’encadrement et du déploiement sécuritaire de l’IA, afin que son impact soit bénéfique plutôt que nuisible Faisons de l’affichage et des activités de mobilisation à travers la ville Entrons en contact et parlons aux décideurs politiques afin de les pousser à légiférer pour rendre l’IA plus sûre … et plus à venir! Pour plus de contenu sur les risques de l’IA, visitez pauseai.info (site principale de PauseAI en anglais) ou pauseia.fr (site de PauseIA France en français). Événements",
+      "structure": {
+        "tagCounts": {
+          "a": 9,
+          "br": 1,
+          "div": 1,
+          "h2": 1,
+          "h3": 1,
+          "iframe": 1,
+          "li": 5,
+          "p": 7,
+          "section": 1,
+          "span": 3,
+          "ul": 1
+        },
+        "linkCount": 9,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 2,
+        "listItemCount": 5,
+        "elementCount": 31,
+        "textLength": 1501
+      },
+      "bbox": {
+        "x": 16,
+        "y": 0.91,
+        "width": 358,
+        "height": 2473.98
+      },
+      "image": "tests/visual/baselines/montreal-fr/main/iphone-13-light.png"
+    },
+    {
+      "page": "/fr/montreal.html",
+      "device": "pixel-5",
+      "mode": "dark",
+      "region": "cta",
+      "text": "Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Rejoindre S'abonner Discord",
+      "structure": {
+        "tagCounts": {
+          "a": 3,
+          "div": 1,
+          "h2": 1,
+          "p": 2,
+          "span": 2
+        },
+        "linkCount": 3,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 1,
+        "listItemCount": 0,
+        "elementCount": 9,
+        "textLength": 433
+      },
+      "bbox": {
+        "x": 16,
+        "y": 74.91,
+        "width": 361,
+        "height": 870.94
+      },
+      "image": "tests/visual/baselines/montreal-fr/cta/pixel-5-dark.png"
+    },
+    {
+      "page": "/fr/montreal.html",
+      "device": "pixel-5",
+      "mode": "dark",
+      "region": "footer",
+      "text": "you can suggest changes to this website by creating a pull request on the github repo: https://github.com/nikthink/pauseai.ca , or by emailing nik at nicolas.m.lacombe@gmail.com .",
+      "structure": {
+        "tagCounts": {
+          "a": 2,
+          "div": 1,
+          "p": 1,
+          "script": 2
+        },
+        "linkCount": 2,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 6,
+        "textLength": 179
+      },
+      "bbox": {
+        "x": 16,
+        "y": 2446.53,
+        "width": 361,
+        "height": 111.25
+      },
+      "image": "tests/visual/baselines/montreal-fr/footer/pixel-5-dark.png"
+    },
+    {
+      "page": "/fr/montreal.html",
+      "device": "pixel-5",
+      "mode": "dark",
+      "region": "header",
+      "text": "PauseAI",
+      "structure": {
+        "tagCounts": {
+          "a": 5,
+          "button": 1,
+          "div": 1,
+          "h1": 1,
+          "img": 1,
+          "li": 4,
+          "nav": 1,
+          "span": 4,
+          "ul": 1
+        },
+        "linkCount": 5,
+        "imageCount": 1,
+        "buttonCount": 1,
+        "headingCount": 1,
+        "listItemCount": 4,
+        "elementCount": 19,
+        "textLength": 7
+      },
+      "bbox": {
+        "x": 16,
+        "y": 0,
+        "width": 361,
+        "height": 38.91
+      },
+      "image": "tests/visual/baselines/montreal-fr/header/pixel-5-dark.png"
+    },
+    {
+      "page": "/fr/montreal.html",
+      "device": "pixel-5",
+      "mode": "dark",
+      "region": "main",
+      "text": "Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Rejoindre S'abonner Discord Nous sommes une communauté de bénévoles qui visent à mitiger les risques de l’IA en convaincant les gouvernements à mettre sur pause le développement d’une IA superhumaine. PauseAI informe le public, parle aux décideurs politiques, et organise des événements. Rejoins-nous à l’un de nos événements ! Ou viens nous parler sur Discord. Pour vous abonner, envoyez un courriel à pauseai-mtl-subscribe@lists.riseup.net. À PauseAI Montréal, nous : Trouvons des personnes déjà sensibilisées à propos de l’IA à travers des événements ouverts à toutes et tous Se rencontrons et discutons de l’encadrement et du déploiement sécuritaire de l’IA, afin que son impact soit bénéfique plutôt que nuisible Faisons de l’affichage et des activités de mobilisation à travers la ville Entrons en contact et parlons aux décideurs politiques afin de les pousser à légiférer pour rendre l’IA plus sûre … et plus à venir! Pour plus de contenu sur les risques de l’IA, visitez pauseai.info (site principale de PauseAI en anglais) ou pauseia.fr (site de PauseIA France en français). Événements",
+      "structure": {
+        "tagCounts": {
+          "a": 9,
+          "br": 1,
+          "div": 1,
+          "h2": 1,
+          "h3": 1,
+          "iframe": 1,
+          "li": 5,
+          "p": 7,
+          "section": 1,
+          "span": 3,
+          "ul": 1
+        },
+        "linkCount": 9,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 2,
+        "listItemCount": 5,
+        "elementCount": 31,
+        "textLength": 1501
+      },
+      "bbox": {
+        "x": 16,
+        "y": 0.91,
+        "width": 361,
+        "height": 2445.63
+      },
+      "image": "tests/visual/baselines/montreal-fr/main/pixel-5-dark.png"
+    },
+    {
+      "page": "/fr/montreal.html",
+      "device": "pixel-5",
+      "mode": "light",
+      "region": "cta",
+      "text": "Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Rejoindre S'abonner Discord",
+      "structure": {
+        "tagCounts": {
+          "a": 3,
+          "div": 1,
+          "h2": 1,
+          "p": 2,
+          "span": 2
+        },
+        "linkCount": 3,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 1,
+        "listItemCount": 0,
+        "elementCount": 9,
+        "textLength": 433
+      },
+      "bbox": {
+        "x": 16,
+        "y": 74.91,
+        "width": 361,
+        "height": 870.94
+      },
+      "image": "tests/visual/baselines/montreal-fr/cta/pixel-5-light.png"
+    },
+    {
+      "page": "/fr/montreal.html",
+      "device": "pixel-5",
+      "mode": "light",
+      "region": "footer",
+      "text": "you can suggest changes to this website by creating a pull request on the github repo: https://github.com/nikthink/pauseai.ca , or by emailing nik at nicolas.m.lacombe@gmail.com .",
+      "structure": {
+        "tagCounts": {
+          "a": 2,
+          "div": 1,
+          "p": 1,
+          "script": 2
+        },
+        "linkCount": 2,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 6,
+        "textLength": 179
+      },
+      "bbox": {
+        "x": 16,
+        "y": 2446.53,
+        "width": 361,
+        "height": 111.25
+      },
+      "image": "tests/visual/baselines/montreal-fr/footer/pixel-5-light.png"
+    },
+    {
+      "page": "/fr/montreal.html",
+      "device": "pixel-5",
+      "mode": "light",
+      "region": "header",
+      "text": "PauseAI",
+      "structure": {
+        "tagCounts": {
+          "a": 5,
+          "button": 1,
+          "div": 1,
+          "h1": 1,
+          "img": 1,
+          "li": 4,
+          "nav": 1,
+          "span": 4,
+          "ul": 1
+        },
+        "linkCount": 5,
+        "imageCount": 1,
+        "buttonCount": 1,
+        "headingCount": 1,
+        "listItemCount": 4,
+        "elementCount": 19,
+        "textLength": 7
+      },
+      "bbox": {
+        "x": 16,
+        "y": 0,
+        "width": 361,
+        "height": 38.91
+      },
+      "image": "tests/visual/baselines/montreal-fr/header/pixel-5-light.png"
+    },
+    {
+      "page": "/fr/montreal.html",
+      "device": "pixel-5",
+      "mode": "light",
+      "region": "main",
+      "text": "Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Rejoindre S'abonner Discord Nous sommes une communauté de bénévoles qui visent à mitiger les risques de l’IA en convaincant les gouvernements à mettre sur pause le développement d’une IA superhumaine. PauseAI informe le public, parle aux décideurs politiques, et organise des événements. Rejoins-nous à l’un de nos événements ! Ou viens nous parler sur Discord. Pour vous abonner, envoyez un courriel à pauseai-mtl-subscribe@lists.riseup.net. À PauseAI Montréal, nous : Trouvons des personnes déjà sensibilisées à propos de l’IA à travers des événements ouverts à toutes et tous Se rencontrons et discutons de l’encadrement et du déploiement sécuritaire de l’IA, afin que son impact soit bénéfique plutôt que nuisible Faisons de l’affichage et des activités de mobilisation à travers la ville Entrons en contact et parlons aux décideurs politiques afin de les pousser à légiférer pour rendre l’IA plus sûre … et plus à venir! Pour plus de contenu sur les risques de l’IA, visitez pauseai.info (site principale de PauseAI en anglais) ou pauseia.fr (site de PauseIA France en français). Événements",
+      "structure": {
+        "tagCounts": {
+          "a": 9,
+          "br": 1,
+          "div": 1,
+          "h2": 1,
+          "h3": 1,
+          "iframe": 1,
+          "li": 5,
+          "p": 7,
+          "section": 1,
+          "span": 3,
+          "ul": 1
+        },
+        "linkCount": 9,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 2,
+        "listItemCount": 5,
+        "elementCount": 31,
+        "textLength": 1501
+      },
+      "bbox": {
+        "x": 16,
+        "y": 0.91,
+        "width": 361,
+        "height": 2445.63
+      },
+      "image": "tests/visual/baselines/montreal-fr/main/pixel-5-light.png"
+    }
+  ]
+}

@@ -37,11 +37,5 @@ jobs:
         run: npm ci
       - name: Install Playwright Chromium
         run: npx playwright install --with-deps chromium
-      - name: OCR check (English)
-        run: npm run test:visual-ocr -- --path /en/montreal.html --light-opacity 0.8 --dark-opacity 0.75 --min-score 0.97 --lang eng
-      - name: OCR check (French)
-        run: npm run test:visual-ocr -- --path /fr/montreal.html --light-opacity 0.8 --dark-opacity 0.75 --min-score 0.97 --lang fra+eng --skip-build
-      - name: Internal link check
-        run: npm run test:links -- --skip-build
-      - name: Snapshot check
-        run: npm run test:snapshots -- --skip-build
+      - name: Visual regression checks
+        run: npm run test:visual-regression

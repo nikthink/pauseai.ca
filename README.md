@@ -31,6 +31,38 @@ The site serves at `http://localhost:1313/`. Because multilingual mode is enable
 
 open `public/fr/index.html` in your browser.
 
+# Quality checks
+
+Pre-commit runs the unified visual regression gate in the fast profile. It builds the site, checks internal links, runs OCR legibility checks, and performs structural + pixel diffs on key regions across devices.
+
+Run it manually:
+
+```bash
+npm install
+npm run test:visual-regression
+```
+
+Fast profile (pre-commit default):
+
+```bash
+npm run test:visual-regression -- --profile fast
+```
+
+To update baselines:
+
+```bash
+npm run test:visual-regression -- --update-baseline
+```
+
+Useful flags:
+- `--verbose` (progress + per-region details)
+- `--profile fast|full`
+- `--skip-build`
+- `--skip-links`
+- `--report` (write `build/visual/report.html`)
+
+Baselines live in `tests/visual/baselines.json` and `tests/visual/baselines/`. Local run artifacts are written to `build/visual/`.
+
 # Design guidelines
 
 This Hugo site must satisfy both Canada-wide and Montréal-specific requirements.
@@ -47,7 +79,7 @@ TODO:
 - [x] CTA buttons: Join Discord, MTL Events, Join MTL Mailing List
     Details: CTA buttons stack full-width on mobile with added spacing.
 - [x] tooling: snapshot and internal link checks + Husky pre-commit hook
-    Details: scripts added for snapshots and internal link validation; `pre-commit` runs Hugo build, link checks, and snapshots.
+    Details: visual regression gate (OCR + structure + pixel diffs) runs in `pre-commit` and CI; baselines live under `tests/visual/`.
 - [ ] pauseai.ca home page: CTA + list of risks.
     - List of risks expands like accordion / html details element (pauseia.fr-FAQ style)
 - [ ] nav

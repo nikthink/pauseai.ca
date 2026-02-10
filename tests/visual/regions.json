@@ -1,0 +1,72 @@
+{
+  "defaults": {
+    "minOcrScore": 0.97,
+    "maxDiffPercent": 0.02,
+    "maxBBoxDelta": 4
+  },
+  "devices": ["desktop", "iphone-13", "pixel-5"],
+  "modes": ["light", "dark"],
+  "profiles": {
+    "fast": {
+      "pages": ["montreal-en", "montreal-fr"],
+      "devices": ["desktop", "iphone-13"],
+      "modes": ["light", "dark"],
+      "regions": ["header", "cta", "main", "footer"]
+    },
+    "full": {}
+  },
+  "pages": [
+    {
+      "path": "/en/",
+      "label": "home-en",
+      "ocrLang": "eng",
+      "regions": [
+        { "id": "header", "selector": ".header", "ocr": false },
+        { "id": "main", "selector": ".main", "minOcrScore": 0.91 },
+        { "id": "footer", "selector": ".footer", "ocr": false, "layout": "size" }
+      ]
+    },
+    {
+      "path": "/fr/",
+      "label": "home-fr",
+      "ocrLang": "fra+eng",
+      "regions": [
+        { "id": "header", "selector": ".header", "ocr": false },
+        { "id": "main", "selector": ".main", "minOcrScore": 0.91 },
+        { "id": "footer", "selector": ".footer", "ocr": false, "layout": "size" }
+      ]
+    },
+    {
+      "path": "/en/montreal.html",
+      "label": "montreal-en",
+      "ocrLang": "eng",
+      "regions": [
+        { "id": "header", "selector": ".header", "ocr": false },
+        { "id": "cta", "selector": ".shared-cta", "minOcrScore": 0.95 },
+        { "id": "main", "selector": ".main", "minOcrScore": 0.91 },
+        { "id": "footer", "selector": ".footer", "ocr": false, "layout": "size" }
+      ]
+    },
+    {
+      "path": "/fr/montreal.html",
+      "label": "montreal-fr",
+      "ocrLang": "fra+eng",
+      "regions": [
+        { "id": "header", "selector": ".header", "ocr": false },
+        { "id": "cta", "selector": ".shared-cta", "minOcrScore": 0.95 },
+        { "id": "main", "selector": ".main", "minOcrScore": 0.91 },
+        { "id": "footer", "selector": ".footer", "ocr": false, "layout": "size" }
+      ]
+    },
+    {
+      "path": "/en/action-mtl.html",
+      "label": "action-mtl-en",
+      "ocrLang": "eng",
+      "regions": [
+        { "id": "header", "selector": ".header", "ocr": false },
+        { "id": "main", "selector": ".main", "minOcrScore": 0.91 },
+        { "id": "footer", "selector": ".footer", "ocr": false, "layout": "size" }
+      ]
+    }
+  ]
+}
