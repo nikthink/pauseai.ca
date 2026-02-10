@@ -5,6 +5,9 @@ Static site built with Hugo and the [hugo-theme-yue](https://github.com/CyrusYip
 ## Prerequisites
  - Hugo (install from https://gohugo.io/installation/)
  - Git
+ - Node.js 20+ and npm
+ - Tesseract OCR (for visual regression checks)
+   - Ubuntu: `sudo apt-get install -y tesseract-ocr tesseract-ocr-fra`
 
 ## First-Time Setup
 ```bash
@@ -62,6 +65,11 @@ Useful flags:
 - `--report` (write `build/visual/report.html`)
 
 Baselines live in `tests/visual/baselines.json` and `tests/visual/baselines/`. Local run artifacts are written to `build/visual/`.
+
+Baseline workflow:
+- Baselines are versioned in the repo, so after cloning you should be able to run checks immediately.
+- Only regenerate baselines when you intentionally change UI/layout/text that affects the regions under test.
+- When you do, run `npm run test:visual-regression -- --update-baseline` and commit the updated baselines.
 
 # Design guidelines
 
