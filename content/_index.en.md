@@ -11,6 +11,7 @@ Join our [Discord](/ca/discord.html).
 PauseAI local communities in Canada:
 
 - [Montréal](montreal.html)
+- [Toronto](https://luma.com/hdtymfz8)
 
 If you are organizing a local pauseai community in Canada
 and want to be added to this list,

@@ -9,6 +9,7 @@ Rejoignez notre [Discord](/ca/discord.html).
 Communauté PauseAI locale au Canada:
 
 - [Montréal](montreal.html)
+- [Toronto](https://luma.com/hdtymfz8)
 
 Si vous organisez une communauté PauseAI locale au Canada
 et souhaitez être ajouté à cette liste,
