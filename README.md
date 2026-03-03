@@ -3,11 +3,22 @@
 Static site built with Hugo and the [hugo-theme-yue](https://github.com/CyrusYip/hugo-theme-yue) theme.
 
 ## Prerequisites
- - Hugo (install from https://gohugo.io/installation/)
+ - Hugo **extended** v0.146.5 (same version used by CI)
  - Git
  - Node.js 20+ and npm
  - Tesseract OCR (for visual regression checks)
    - Ubuntu: `sudo apt-get install -y tesseract-ocr tesseract-ocr-fra`
+
+> **Hugo version note:** Hugo v0.154.4 through at least v0.157.0 have a
+> [bug](https://github.com/gohugoio/hugo/issues/14576) that causes an
+> infinite redirect loop on the default-language homepage when
+> `uglyURLs` and `defaultContentLanguageInSubdir` are both enabled.
+> Stick with v0.146.5 until the fix lands. Install the .deb from
+> [GitHub releases](https://github.com/gohugoio/hugo/releases/tag/v0.146.5):
+> ```bash
+> wget -O /tmp/hugo.deb "https://github.com/gohugoio/hugo/releases/download/v0.146.5/hugo_extended_0.146.5_linux-amd64.deb"
+> sudo dpkg -i /tmp/hugo.deb
+> ```
 
 ## First-Time Setup
 ```bash

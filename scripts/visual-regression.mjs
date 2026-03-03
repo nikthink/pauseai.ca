@@ -644,6 +644,10 @@ async function main() {
               continue;
             }
 
+            if (region.beforeCapture) {
+              await page.evaluate(region.beforeCapture);
+            }
+
             const element = locator.first();
             const box = await element.boundingBox();
             if (!box) {

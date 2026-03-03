@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-10T00:37:07.167Z",
+  "generatedAt": "2026-03-03T03:48:47.308Z",
   "entries": [
     {
       "page": "/en/",
@@ -24,7 +24,7 @@
       },
       "bbox": {
         "x": 90,
-        "y": 361,
+        "y": 510.72,
         "width": 1100,
         "height": 76
       },
@@ -69,30 +69,67 @@
       "device": "desktop",
       "mode": "dark",
       "region": "main",
-      "text": "Join our Discord. PauseAI local communities in Canada: Montréal If you are organizing a local pauseai community in Canada and want to be added to this list, please email nik at nicolas.m.lacombe@gmail.com.",
+      "text": "Join our Discord. PauseAI local communities in Canada: Montréal Toronto If you are organizing a local pauseai community in Canada and want to be added to this list, please email nik at nicolas.m.lacombe@gmail.com. What experts say 10 quotes from AI leaders",
       "structure": {
         "tagCounts": {
-          "a": 3,
-          "li": 1,
+          "a": 5,
+          "blockquote": 10,
+          "details": 1,
+          "em": 7,
+          "h3": 1,
+          "li": 2,
           "nav": 1,
-          "p": 3,
+          "p": 13,
+          "span": 1,
+          "strong": 10,
+          "summary": 1,
           "ul": 1
         },
-        "linkCount": 3,
+        "linkCount": 5,
         "imageCount": 0,
         "buttonCount": 0,
-        "headingCount": 0,
-        "listItemCount": 1,
-        "elementCount": 9,
-        "textLength": 205
+        "headingCount": 1,
+        "listItemCount": 2,
+        "elementCount": 53,
+        "textLength": 256
       },
       "bbox": {
         "x": 90,
         "y": 102.25,
         "width": 1100,
-        "height": 236.25
+        "height": 408.47
       },
       "image": "tests/visual/baselines/home-en/main/desktop-dark.png"
+    },
+    {
+      "page": "/en/",
+      "device": "desktop",
+      "mode": "dark",
+      "region": "quotes",
+      "text": "10 quotes from AI leaders “If… [a future AI] model wanted to wreak havoc and destroy humanity or whatever, I think we have basically no ability to stop it.” — Dario Amodei, CEO of Anthropic (Claude) “AI will probably lead to the end of the world… but in the meantime, there’ll be great companies.” — Sam Altman, CEO of OpenAI (ChatGPT) “We must take the risks of AI as seriously as other major global challenges.” — Demis Hassabis, Nobel Prize Winning CEO of DeepMind (Google’s AI Lab) “There’s the possibility that AIs will run out of control.” — Bill Gates “At some stage… we should have to expect the machines to take control.” — Alan Turing, Inventor of the Modern Computer “Superintelligent AI could lead to the disempowerment of humanity or even human extinction.” — Ilya Sutskever, Former Chief Scientist at OpenAI (ChatGPT) “AI labs are playing dice with humanity’s future.” — Yoshua Bengio, Leading AI Researcher “The development of full artificial intelligence could spell the end of the human race.” — Stephen Hawking “In the near future AI may be used to create terrible new viruses and horrendous lethal weapons that decide by themselves who to kill or maim.” — Geoff Hinton, Nobel Prize Winning “Godfather of AI” “AI is far more dangerous than nukes. Far.” — Elon Musk",
+      "structure": {
+        "tagCounts": {
+          "blockquote": 10,
+          "em": 7,
+          "p": 10,
+          "strong": 10,
+          "summary": 1
+        },
+        "linkCount": 0,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 38,
+        "textLength": 1282
+      },
+      "bbox": {
+        "x": 90,
+        "y": 464.36,
+        "width": 1100,
+        "height": 1475.11
+      },
+      "image": "tests/visual/baselines/home-en/quotes/desktop-dark.png"
     },
     {
       "page": "/en/",
@@ -117,7 +154,7 @@
       },
       "bbox": {
         "x": 90,
-        "y": 361,
+        "y": 510.72,
         "width": 1100,
         "height": 76
       },
@@ -162,30 +199,67 @@
       "device": "desktop",
       "mode": "light",
       "region": "main",
-      "text": "Join our Discord. PauseAI local communities in Canada: Montréal If you are organizing a local pauseai community in Canada and want to be added to this list, please email nik at nicolas.m.lacombe@gmail.com.",
+      "text": "Join our Discord. PauseAI local communities in Canada: Montréal Toronto If you are organizing a local pauseai community in Canada and want to be added to this list, please email nik at nicolas.m.lacombe@gmail.com. What experts say 10 quotes from AI leaders",
       "structure": {
         "tagCounts": {
-          "a": 3,
-          "li": 1,
+          "a": 5,
+          "blockquote": 10,
+          "details": 1,
+          "em": 7,
+          "h3": 1,
+          "li": 2,
           "nav": 1,
-          "p": 3,
+          "p": 13,
+          "span": 1,
+          "strong": 10,
+          "summary": 1,
           "ul": 1
         },
-        "linkCount": 3,
+        "linkCount": 5,
         "imageCount": 0,
         "buttonCount": 0,
-        "headingCount": 0,
-        "listItemCount": 1,
-        "elementCount": 9,
-        "textLength": 205
+        "headingCount": 1,
+        "listItemCount": 2,
+        "elementCount": 53,
+        "textLength": 256
       },
       "bbox": {
         "x": 90,
         "y": 102.25,
         "width": 1100,
-        "height": 236.25
+        "height": 408.47
       },
       "image": "tests/visual/baselines/home-en/main/desktop-light.png"
+    },
+    {
+      "page": "/en/",
+      "device": "desktop",
+      "mode": "light",
+      "region": "quotes",
+      "text": "10 quotes from AI leaders “If… [a future AI] model wanted to wreak havoc and destroy humanity or whatever, I think we have basically no ability to stop it.” — Dario Amodei, CEO of Anthropic (Claude) “AI will probably lead to the end of the world… but in the meantime, there’ll be great companies.” — Sam Altman, CEO of OpenAI (ChatGPT) “We must take the risks of AI as seriously as other major global challenges.” — Demis Hassabis, Nobel Prize Winning CEO of DeepMind (Google’s AI Lab) “There’s the possibility that AIs will run out of control.” — Bill Gates “At some stage… we should have to expect the machines to take control.” — Alan Turing, Inventor of the Modern Computer “Superintelligent AI could lead to the disempowerment of humanity or even human extinction.” — Ilya Sutskever, Former Chief Scientist at OpenAI (ChatGPT) “AI labs are playing dice with humanity’s future.” — Yoshua Bengio, Leading AI Researcher “The development of full artificial intelligence could spell the end of the human race.” — Stephen Hawking “In the near future AI may be used to create terrible new viruses and horrendous lethal weapons that decide by themselves who to kill or maim.” — Geoff Hinton, Nobel Prize Winning “Godfather of AI” “AI is far more dangerous than nukes. Far.” — Elon Musk",
+      "structure": {
+        "tagCounts": {
+          "blockquote": 10,
+          "em": 7,
+          "p": 10,
+          "strong": 10,
+          "summary": 1
+        },
+        "linkCount": 0,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 38,
+        "textLength": 1282
+      },
+      "bbox": {
+        "x": 90,
+        "y": 464.36,
+        "width": 1100,
+        "height": 1475.11
+      },
+      "image": "tests/visual/baselines/home-en/quotes/desktop-light.png"
     },
     {
       "page": "/en/",
@@ -210,7 +284,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 331.88,
+        "y": 465.08,
         "width": 358,
         "height": 111.25
       },
@@ -255,30 +329,67 @@
       "device": "iphone-13",
       "mode": "dark",
       "region": "main",
-      "text": "Join our Discord. PauseAI local communities in Canada: Montréal If you are organizing a local pauseai community in Canada and want to be added to this list, please email nik at nicolas.m.lacombe@gmail.com.",
+      "text": "Join our Discord. PauseAI local communities in Canada: Montréal Toronto If you are organizing a local pauseai community in Canada and want to be added to this list, please email nik at nicolas.m.lacombe@gmail.com. What experts say 10 quotes from AI leaders",
       "structure": {
         "tagCounts": {
-          "a": 3,
-          "li": 1,
+          "a": 5,
+          "blockquote": 10,
+          "details": 1,
+          "em": 7,
+          "h3": 1,
+          "li": 2,
           "nav": 1,
-          "p": 3,
+          "p": 13,
+          "span": 1,
+          "strong": 10,
+          "summary": 1,
           "ul": 1
         },
-        "linkCount": 3,
+        "linkCount": 5,
         "imageCount": 0,
         "buttonCount": 0,
-        "headingCount": 0,
-        "listItemCount": 1,
-        "elementCount": 9,
-        "textLength": 205
+        "headingCount": 1,
+        "listItemCount": 2,
+        "elementCount": 53,
+        "textLength": 256
       },
       "bbox": {
         "x": 16,
         "y": 57.8,
         "width": 358,
-        "height": 255.19
+        "height": 407.28
       },
       "image": "tests/visual/baselines/home-en/main/iphone-13-dark.png"
+    },
+    {
+      "page": "/en/",
+      "device": "iphone-13",
+      "mode": "dark",
+      "region": "quotes",
+      "text": "10 quotes from AI leaders “If… [a future AI] model wanted to wreak havoc and destroy humanity or whatever, I think we have basically no ability to stop it.” — Dario Amodei, CEO of Anthropic (Claude) “AI will probably lead to the end of the world… but in the meantime, there’ll be great companies.” — Sam Altman, CEO of OpenAI (ChatGPT) “We must take the risks of AI as seriously as other major global challenges.” — Demis Hassabis, Nobel Prize Winning CEO of DeepMind (Google’s AI Lab) “There’s the possibility that AIs will run out of control.” — Bill Gates “At some stage… we should have to expect the machines to take control.” — Alan Turing, Inventor of the Modern Computer “Superintelligent AI could lead to the disempowerment of humanity or even human extinction.” — Ilya Sutskever, Former Chief Scientist at OpenAI (ChatGPT) “AI labs are playing dice with humanity’s future.” — Yoshua Bengio, Leading AI Researcher “The development of full artificial intelligence could spell the end of the human race.” — Stephen Hawking “In the near future AI may be used to create terrible new viruses and horrendous lethal weapons that decide by themselves who to kill or maim.” — Geoff Hinton, Nobel Prize Winning “Godfather of AI” “AI is far more dangerous than nukes. Far.” — Elon Musk",
+      "structure": {
+        "tagCounts": {
+          "blockquote": 10,
+          "em": 7,
+          "p": 10,
+          "strong": 10,
+          "summary": 1
+        },
+        "linkCount": 0,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 38,
+        "textLength": 1282
+      },
+      "bbox": {
+        "x": 16,
+        "y": 418.72,
+        "width": 358,
+        "height": 1935.19
+      },
+      "image": "tests/visual/baselines/home-en/quotes/iphone-13-dark.png"
     },
     {
       "page": "/en/",
@@ -303,7 +414,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 331.88,
+        "y": 465.08,
         "width": 358,
         "height": 111.25
       },
@@ -348,30 +459,67 @@
       "device": "iphone-13",
       "mode": "light",
       "region": "main",
-      "text": "Join our Discord. PauseAI local communities in Canada: Montréal If you are organizing a local pauseai community in Canada and want to be added to this list, please email nik at nicolas.m.lacombe@gmail.com.",
+      "text": "Join our Discord. PauseAI local communities in Canada: Montréal Toronto If you are organizing a local pauseai community in Canada and want to be added to this list, please email nik at nicolas.m.lacombe@gmail.com. What experts say 10 quotes from AI leaders",
       "structure": {
         "tagCounts": {
-          "a": 3,
-          "li": 1,
+          "a": 5,
+          "blockquote": 10,
+          "details": 1,
+          "em": 7,
+          "h3": 1,
+          "li": 2,
           "nav": 1,
-          "p": 3,
+          "p": 13,
+          "span": 1,
+          "strong": 10,
+          "summary": 1,
           "ul": 1
         },
-        "linkCount": 3,
+        "linkCount": 5,
         "imageCount": 0,
         "buttonCount": 0,
-        "headingCount": 0,
-        "listItemCount": 1,
-        "elementCount": 9,
-        "textLength": 205
+        "headingCount": 1,
+        "listItemCount": 2,
+        "elementCount": 53,
+        "textLength": 256
       },
       "bbox": {
         "x": 16,
         "y": 57.8,
         "width": 358,
-        "height": 255.19
+        "height": 407.28
       },
       "image": "tests/visual/baselines/home-en/main/iphone-13-light.png"
+    },
+    {
+      "page": "/en/",
+      "device": "iphone-13",
+      "mode": "light",
+      "region": "quotes",
+      "text": "10 quotes from AI leaders “If… [a future AI] model wanted to wreak havoc and destroy humanity or whatever, I think we have basically no ability to stop it.” — Dario Amodei, CEO of Anthropic (Claude) “AI will probably lead to the end of the world… but in the meantime, there’ll be great companies.” — Sam Altman, CEO of OpenAI (ChatGPT) “We must take the risks of AI as seriously as other major global challenges.” — Demis Hassabis, Nobel Prize Winning CEO of DeepMind (Google’s AI Lab) “There’s the possibility that AIs will run out of control.” — Bill Gates “At some stage… we should have to expect the machines to take control.” — Alan Turing, Inventor of the Modern Computer “Superintelligent AI could lead to the disempowerment of humanity or even human extinction.” — Ilya Sutskever, Former Chief Scientist at OpenAI (ChatGPT) “AI labs are playing dice with humanity’s future.” — Yoshua Bengio, Leading AI Researcher “The development of full artificial intelligence could spell the end of the human race.” — Stephen Hawking “In the near future AI may be used to create terrible new viruses and horrendous lethal weapons that decide by themselves who to kill or maim.” — Geoff Hinton, Nobel Prize Winning “Godfather of AI” “AI is far more dangerous than nukes. Far.” — Elon Musk",
+      "structure": {
+        "tagCounts": {
+          "blockquote": 10,
+          "em": 7,
+          "p": 10,
+          "strong": 10,
+          "summary": 1
+        },
+        "linkCount": 0,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 38,
+        "textLength": 1282
+      },
+      "bbox": {
+        "x": 16,
+        "y": 418.72,
+        "width": 358,
+        "height": 1935.19
+      },
+      "image": "tests/visual/baselines/home-en/quotes/iphone-13-light.png"
     },
     {
       "page": "/en/",
@@ -396,7 +544,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 331.88,
+        "y": 465.08,
         "width": 361,
         "height": 111.25
       },
@@ -441,30 +589,67 @@
       "device": "pixel-5",
       "mode": "dark",
       "region": "main",
-      "text": "Join our Discord. PauseAI local communities in Canada: Montréal If you are organizing a local pauseai community in Canada and want to be added to this list, please email nik at nicolas.m.lacombe@gmail.com.",
+      "text": "Join our Discord. PauseAI local communities in Canada: Montréal Toronto If you are organizing a local pauseai community in Canada and want to be added to this list, please email nik at nicolas.m.lacombe@gmail.com. What experts say 10 quotes from AI leaders",
       "structure": {
         "tagCounts": {
-          "a": 3,
-          "li": 1,
+          "a": 5,
+          "blockquote": 10,
+          "details": 1,
+          "em": 7,
+          "h3": 1,
+          "li": 2,
           "nav": 1,
-          "p": 3,
+          "p": 13,
+          "span": 1,
+          "strong": 10,
+          "summary": 1,
           "ul": 1
         },
-        "linkCount": 3,
+        "linkCount": 5,
         "imageCount": 0,
         "buttonCount": 0,
-        "headingCount": 0,
-        "listItemCount": 1,
-        "elementCount": 9,
-        "textLength": 205
+        "headingCount": 1,
+        "listItemCount": 2,
+        "elementCount": 53,
+        "textLength": 256
       },
       "bbox": {
         "x": 16,
         "y": 57.8,
         "width": 361,
-        "height": 255.19
+        "height": 407.28
       },
       "image": "tests/visual/baselines/home-en/main/pixel-5-dark.png"
+    },
+    {
+      "page": "/en/",
+      "device": "pixel-5",
+      "mode": "dark",
+      "region": "quotes",
+      "text": "10 quotes from AI leaders “If… [a future AI] model wanted to wreak havoc and destroy humanity or whatever, I think we have basically no ability to stop it.” — Dario Amodei, CEO of Anthropic (Claude) “AI will probably lead to the end of the world… but in the meantime, there’ll be great companies.” — Sam Altman, CEO of OpenAI (ChatGPT) “We must take the risks of AI as seriously as other major global challenges.” — Demis Hassabis, Nobel Prize Winning CEO of DeepMind (Google’s AI Lab) “There’s the possibility that AIs will run out of control.” — Bill Gates “At some stage… we should have to expect the machines to take control.” — Alan Turing, Inventor of the Modern Computer “Superintelligent AI could lead to the disempowerment of humanity or even human extinction.” — Ilya Sutskever, Former Chief Scientist at OpenAI (ChatGPT) “AI labs are playing dice with humanity’s future.” — Yoshua Bengio, Leading AI Researcher “The development of full artificial intelligence could spell the end of the human race.” — Stephen Hawking “In the near future AI may be used to create terrible new viruses and horrendous lethal weapons that decide by themselves who to kill or maim.” — Geoff Hinton, Nobel Prize Winning “Godfather of AI” “AI is far more dangerous than nukes. Far.” — Elon Musk",
+      "structure": {
+        "tagCounts": {
+          "blockquote": 10,
+          "em": 7,
+          "p": 10,
+          "strong": 10,
+          "summary": 1
+        },
+        "linkCount": 0,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 38,
+        "textLength": 1282
+      },
+      "bbox": {
+        "x": 16,
+        "y": 418.72,
+        "width": 361,
+        "height": 1935.19
+      },
+      "image": "tests/visual/baselines/home-en/quotes/pixel-5-dark.png"
     },
     {
       "page": "/en/",
@@ -489,7 +674,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 331.88,
+        "y": 465.08,
         "width": 361,
         "height": 111.25
       },
@@ -534,30 +719,67 @@
       "device": "pixel-5",
       "mode": "light",
       "region": "main",
-      "text": "Join our Discord. PauseAI local communities in Canada: Montréal If you are organizing a local pauseai community in Canada and want to be added to this list, please email nik at nicolas.m.lacombe@gmail.com.",
+      "text": "Join our Discord. PauseAI local communities in Canada: Montréal Toronto If you are organizing a local pauseai community in Canada and want to be added to this list, please email nik at nicolas.m.lacombe@gmail.com. What experts say 10 quotes from AI leaders",
       "structure": {
         "tagCounts": {
-          "a": 3,
-          "li": 1,
+          "a": 5,
+          "blockquote": 10,
+          "details": 1,
+          "em": 7,
+          "h3": 1,
+          "li": 2,
           "nav": 1,
-          "p": 3,
+          "p": 13,
+          "span": 1,
+          "strong": 10,
+          "summary": 1,
           "ul": 1
         },
-        "linkCount": 3,
+        "linkCount": 5,
         "imageCount": 0,
         "buttonCount": 0,
-        "headingCount": 0,
-        "listItemCount": 1,
-        "elementCount": 9,
-        "textLength": 205
+        "headingCount": 1,
+        "listItemCount": 2,
+        "elementCount": 53,
+        "textLength": 256
       },
       "bbox": {
         "x": 16,
         "y": 57.8,
         "width": 361,
-        "height": 255.19
+        "height": 407.28
       },
       "image": "tests/visual/baselines/home-en/main/pixel-5-light.png"
+    },
+    {
+      "page": "/en/",
+      "device": "pixel-5",
+      "mode": "light",
+      "region": "quotes",
+      "text": "10 quotes from AI leaders “If… [a future AI] model wanted to wreak havoc and destroy humanity or whatever, I think we have basically no ability to stop it.” — Dario Amodei, CEO of Anthropic (Claude) “AI will probably lead to the end of the world… but in the meantime, there’ll be great companies.” — Sam Altman, CEO of OpenAI (ChatGPT) “We must take the risks of AI as seriously as other major global challenges.” — Demis Hassabis, Nobel Prize Winning CEO of DeepMind (Google’s AI Lab) “There’s the possibility that AIs will run out of control.” — Bill Gates “At some stage… we should have to expect the machines to take control.” — Alan Turing, Inventor of the Modern Computer “Superintelligent AI could lead to the disempowerment of humanity or even human extinction.” — Ilya Sutskever, Former Chief Scientist at OpenAI (ChatGPT) “AI labs are playing dice with humanity’s future.” — Yoshua Bengio, Leading AI Researcher “The development of full artificial intelligence could spell the end of the human race.” — Stephen Hawking “In the near future AI may be used to create terrible new viruses and horrendous lethal weapons that decide by themselves who to kill or maim.” — Geoff Hinton, Nobel Prize Winning “Godfather of AI” “AI is far more dangerous than nukes. Far.” — Elon Musk",
+      "structure": {
+        "tagCounts": {
+          "blockquote": 10,
+          "em": 7,
+          "p": 10,
+          "strong": 10,
+          "summary": 1
+        },
+        "linkCount": 0,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 38,
+        "textLength": 1282
+      },
+      "bbox": {
+        "x": 16,
+        "y": 418.72,
+        "width": 361,
+        "height": 1935.19
+      },
+      "image": "tests/visual/baselines/home-en/quotes/pixel-5-light.png"
     },
     {
       "page": "/en/action-mtl.html",
@@ -582,7 +804,7 @@
       },
       "bbox": {
         "x": 90,
-        "y": 1365.97,
+        "y": 1378.58,
         "width": 1100,
         "height": 76
       },
@@ -635,9 +857,9 @@
           "h1": 1,
           "h3": 4,
           "input": 8,
-          "li": 23,
+          "li": 22,
           "nav": 1,
-          "ol": 2,
+          "ol": 1,
           "p": 4,
           "span": 4,
           "summary": 1,
@@ -647,15 +869,15 @@
         "imageCount": 0,
         "buttonCount": 0,
         "headingCount": 5,
-        "listItemCount": 23,
-        "elementCount": 76,
+        "listItemCount": 22,
+        "elementCount": 74,
         "textLength": 1294
       },
       "bbox": {
         "x": 90,
         "y": 109.89,
         "width": 1100,
-        "height": 1343.58
+        "height": 1356.19
       },
       "image": "tests/visual/baselines/action-mtl-en/main/desktop-dark.png"
     },
@@ -682,7 +904,7 @@
       },
       "bbox": {
         "x": 90,
-        "y": 1365.97,
+        "y": 1378.58,
         "width": 1100,
         "height": 76
       },
@@ -735,9 +957,9 @@
           "h1": 1,
           "h3": 4,
           "input": 8,
-          "li": 23,
+          "li": 22,
           "nav": 1,
-          "ol": 2,
+          "ol": 1,
           "p": 4,
           "span": 4,
           "summary": 1,
@@ -747,15 +969,15 @@
         "imageCount": 0,
         "buttonCount": 0,
         "headingCount": 5,
-        "listItemCount": 23,
-        "elementCount": 76,
+        "listItemCount": 22,
+        "elementCount": 74,
         "textLength": 1294
       },
       "bbox": {
         "x": 90,
         "y": 109.89,
         "width": 1100,
-        "height": 1343.58
+        "height": 1356.19
       },
       "image": "tests/visual/baselines/action-mtl-en/main/desktop-light.png"
     },
@@ -782,7 +1004,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 1744.45,
+        "y": 1762.45,
         "width": 358,
         "height": 111.25
       },
@@ -835,9 +1057,9 @@
           "h1": 1,
           "h3": 4,
           "input": 8,
-          "li": 23,
+          "li": 22,
           "nav": 1,
-          "ol": 2,
+          "ol": 1,
           "p": 4,
           "span": 4,
           "summary": 1,
@@ -847,15 +1069,15 @@
         "imageCount": 0,
         "buttonCount": 0,
         "headingCount": 5,
-        "listItemCount": 23,
-        "elementCount": 76,
+        "listItemCount": 22,
+        "elementCount": 74,
         "textLength": 1294
       },
       "bbox": {
         "x": 16,
         "y": 64.22,
         "width": 358,
-        "height": 1724.34
+        "height": 1742.34
       },
       "image": "tests/visual/baselines/action-mtl-en/main/iphone-13-dark.png"
     },
@@ -882,7 +1104,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 1744.45,
+        "y": 1762.45,
         "width": 358,
         "height": 111.25
       },
@@ -935,9 +1157,9 @@
           "h1": 1,
           "h3": 4,
           "input": 8,
-          "li": 23,
+          "li": 22,
           "nav": 1,
-          "ol": 2,
+          "ol": 1,
           "p": 4,
           "span": 4,
           "summary": 1,
@@ -947,15 +1169,15 @@
         "imageCount": 0,
         "buttonCount": 0,
         "headingCount": 5,
-        "listItemCount": 23,
-        "elementCount": 76,
+        "listItemCount": 22,
+        "elementCount": 74,
         "textLength": 1294
       },
       "bbox": {
         "x": 16,
         "y": 64.22,
         "width": 358,
-        "height": 1724.34
+        "height": 1742.34
       },
       "image": "tests/visual/baselines/action-mtl-en/main/iphone-13-light.png"
     },
@@ -982,7 +1204,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 1744.45,
+        "y": 1762.45,
         "width": 361,
         "height": 111.25
       },
@@ -1035,9 +1257,9 @@
           "h1": 1,
           "h3": 4,
           "input": 8,
-          "li": 23,
+          "li": 22,
           "nav": 1,
-          "ol": 2,
+          "ol": 1,
           "p": 4,
           "span": 4,
           "summary": 1,
@@ -1047,15 +1269,15 @@
         "imageCount": 0,
         "buttonCount": 0,
         "headingCount": 5,
-        "listItemCount": 23,
-        "elementCount": 76,
+        "listItemCount": 22,
+        "elementCount": 74,
         "textLength": 1294
       },
       "bbox": {
         "x": 16,
         "y": 64.22,
         "width": 361,
-        "height": 1724.34
+        "height": 1742.34
       },
       "image": "tests/visual/baselines/action-mtl-en/main/pixel-5-dark.png"
     },
@@ -1082,7 +1304,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 1744.45,
+        "y": 1762.45,
         "width": 361,
         "height": 111.25
       },
@@ -1135,9 +1357,9 @@
           "h1": 1,
           "h3": 4,
           "input": 8,
-          "li": 23,
+          "li": 22,
           "nav": 1,
-          "ol": 2,
+          "ol": 1,
           "p": 4,
           "span": 4,
           "summary": 1,
@@ -1147,15 +1369,15 @@
         "imageCount": 0,
         "buttonCount": 0,
         "headingCount": 5,
-        "listItemCount": 23,
-        "elementCount": 76,
+        "listItemCount": 22,
+        "elementCount": 74,
         "textLength": 1294
       },
       "bbox": {
         "x": 16,
         "y": 64.22,
         "width": 361,
-        "height": 1724.34
+        "height": 1742.34
       },
       "image": "tests/visual/baselines/action-mtl-en/main/pixel-5-light.png"
     },
@@ -1212,7 +1434,7 @@
       },
       "bbox": {
         "x": 90,
-        "y": 1787.81,
+        "y": 1926.28,
         "width": 1100,
         "height": 76
       },
@@ -1257,36 +1479,71 @@
       "device": "desktop",
       "mode": "dark",
       "region": "main",
-      "text": "To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Join us Subscribe Discord We are a community of volunteers that aims to mitigate the risks of AI by convincing governments to pause the development of superhuman AI. PauseAI informs the public, talks to policy-makers, and organizes events. Join us at one of our events ! Or talk to us on discord. To subscribe to our mailing list, send an email to pauseai-mtl-subscribe@lists.riseup.net. At PauseAI Montréal, we: Find people already concerned about AI at meetups around Montréal Meet and discuss how AI should be regulated, deployed, to make it safe and help humanity rather than cause issues Put up posters around the city Email and talk to local politicians to push them to vote for AI regulation … and more to come! For more content on the risks of AI see pauseai.info Events",
+      "text": "To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Join us Subscribe Discord We are a community of volunteers that aims to mitigate the risks of AI by convincing governments to pause the development of superhuman AI. PauseAI informs the public, talks to policy-makers, and organizes events. Join us at one of our events ! Or talk to us on discord. To subscribe to our mailing list, send an email to pauseai-mtl-subscribe@lists.riseup.net. At PauseAI Montréal, we: Find people already concerned about AI at meetups around Montréal Meet and discuss how AI should be regulated, deployed, to make it safe and help humanity rather than cause issues Put up posters around the city Email and talk to local politicians to push them to vote for AI regulation … and more to come! For more content on the risks of AI see pauseai.info What experts say 10 quotes from AI leaders Events",
       "structure": {
         "tagCounts": {
-          "a": 8,
+          "a": 9,
+          "blockquote": 10,
           "br": 1,
+          "details": 1,
           "div": 1,
+          "em": 7,
           "h2": 1,
-          "h3": 1,
+          "h3": 2,
           "iframe": 1,
           "li": 5,
-          "p": 7,
+          "p": 17,
           "section": 1,
-          "span": 3,
+          "span": 4,
+          "strong": 10,
+          "summary": 1,
           "ul": 1
         },
-        "linkCount": 8,
+        "linkCount": 9,
         "imageCount": 0,
         "buttonCount": 0,
-        "headingCount": 2,
+        "headingCount": 3,
         "listItemCount": 5,
-        "elementCount": 30,
-        "textLength": 1099
+        "elementCount": 72,
+        "textLength": 1142
       },
       "bbox": {
         "x": 90,
         "y": 85.94,
         "width": 1100,
-        "height": 1787.88
+        "height": 1926.34
       },
       "image": "tests/visual/baselines/montreal-en/main/desktop-dark.png"
+    },
+    {
+      "page": "/en/montreal.html",
+      "device": "desktop",
+      "mode": "dark",
+      "region": "quotes",
+      "text": "10 quotes from AI leaders “If… [a future AI] model wanted to wreak havoc and destroy humanity or whatever, I think we have basically no ability to stop it.” — Dario Amodei, CEO of Anthropic (Claude) “AI will probably lead to the end of the world… but in the meantime, there’ll be great companies.” — Sam Altman, CEO of OpenAI (ChatGPT) “We must take the risks of AI as seriously as other major global challenges.” — Demis Hassabis, Nobel Prize Winning CEO of DeepMind (Google’s AI Lab) “There’s the possibility that AIs will run out of control.” — Bill Gates “At some stage… we should have to expect the machines to take control.” — Alan Turing, Inventor of the Modern Computer “Superintelligent AI could lead to the disempowerment of humanity or even human extinction.” — Ilya Sutskever, Former Chief Scientist at OpenAI (ChatGPT) “AI labs are playing dice with humanity’s future.” — Yoshua Bengio, Leading AI Researcher “The development of full artificial intelligence could spell the end of the human race.” — Stephen Hawking “In the near future AI may be used to create terrible new viruses and horrendous lethal weapons that decide by themselves who to kill or maim.” — Geoff Hinton, Nobel Prize Winning “Godfather of AI” “AI is far more dangerous than nukes. Far.” — Elon Musk",
+      "structure": {
+        "tagCounts": {
+          "blockquote": 10,
+          "em": 7,
+          "p": 10,
+          "strong": 10,
+          "summary": 1
+        },
+        "linkCount": 0,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 38,
+        "textLength": 1282
+      },
+      "bbox": {
+        "x": 90,
+        "y": 27.06,
+        "width": 1100,
+        "height": 1475.11
+      },
+      "image": "tests/visual/baselines/montreal-en/quotes/desktop-dark.png"
     },
     {
       "page": "/en/montreal.html",
@@ -1341,7 +1598,7 @@
       },
       "bbox": {
         "x": 90,
-        "y": 1787.81,
+        "y": 1926.28,
         "width": 1100,
         "height": 76
       },
@@ -1386,36 +1643,71 @@
       "device": "desktop",
       "mode": "light",
       "region": "main",
-      "text": "To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Join us Subscribe Discord We are a community of volunteers that aims to mitigate the risks of AI by convincing governments to pause the development of superhuman AI. PauseAI informs the public, talks to policy-makers, and organizes events. Join us at one of our events ! Or talk to us on discord. To subscribe to our mailing list, send an email to pauseai-mtl-subscribe@lists.riseup.net. At PauseAI Montréal, we: Find people already concerned about AI at meetups around Montréal Meet and discuss how AI should be regulated, deployed, to make it safe and help humanity rather than cause issues Put up posters around the city Email and talk to local politicians to push them to vote for AI regulation … and more to come! For more content on the risks of AI see pauseai.info Events",
+      "text": "To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Join us Subscribe Discord We are a community of volunteers that aims to mitigate the risks of AI by convincing governments to pause the development of superhuman AI. PauseAI informs the public, talks to policy-makers, and organizes events. Join us at one of our events ! Or talk to us on discord. To subscribe to our mailing list, send an email to pauseai-mtl-subscribe@lists.riseup.net. At PauseAI Montréal, we: Find people already concerned about AI at meetups around Montréal Meet and discuss how AI should be regulated, deployed, to make it safe and help humanity rather than cause issues Put up posters around the city Email and talk to local politicians to push them to vote for AI regulation … and more to come! For more content on the risks of AI see pauseai.info What experts say 10 quotes from AI leaders Events",
       "structure": {
         "tagCounts": {
-          "a": 8,
+          "a": 9,
+          "blockquote": 10,
           "br": 1,
+          "details": 1,
           "div": 1,
+          "em": 7,
           "h2": 1,
-          "h3": 1,
+          "h3": 2,
           "iframe": 1,
           "li": 5,
-          "p": 7,
+          "p": 17,
           "section": 1,
-          "span": 3,
+          "span": 4,
+          "strong": 10,
+          "summary": 1,
           "ul": 1
         },
-        "linkCount": 8,
+        "linkCount": 9,
         "imageCount": 0,
         "buttonCount": 0,
-        "headingCount": 2,
+        "headingCount": 3,
         "listItemCount": 5,
-        "elementCount": 30,
-        "textLength": 1099
+        "elementCount": 72,
+        "textLength": 1142
       },
       "bbox": {
         "x": 90,
         "y": 85.94,
         "width": 1100,
-        "height": 1787.88
+        "height": 1926.34
       },
       "image": "tests/visual/baselines/montreal-en/main/desktop-light.png"
+    },
+    {
+      "page": "/en/montreal.html",
+      "device": "desktop",
+      "mode": "light",
+      "region": "quotes",
+      "text": "10 quotes from AI leaders “If… [a future AI] model wanted to wreak havoc and destroy humanity or whatever, I think we have basically no ability to stop it.” — Dario Amodei, CEO of Anthropic (Claude) “AI will probably lead to the end of the world… but in the meantime, there’ll be great companies.” — Sam Altman, CEO of OpenAI (ChatGPT) “We must take the risks of AI as seriously as other major global challenges.” — Demis Hassabis, Nobel Prize Winning CEO of DeepMind (Google’s AI Lab) “There’s the possibility that AIs will run out of control.” — Bill Gates “At some stage… we should have to expect the machines to take control.” — Alan Turing, Inventor of the Modern Computer “Superintelligent AI could lead to the disempowerment of humanity or even human extinction.” — Ilya Sutskever, Former Chief Scientist at OpenAI (ChatGPT) “AI labs are playing dice with humanity’s future.” — Yoshua Bengio, Leading AI Researcher “The development of full artificial intelligence could spell the end of the human race.” — Stephen Hawking “In the near future AI may be used to create terrible new viruses and horrendous lethal weapons that decide by themselves who to kill or maim.” — Geoff Hinton, Nobel Prize Winning “Godfather of AI” “AI is far more dangerous than nukes. Far.” — Elon Musk",
+      "structure": {
+        "tagCounts": {
+          "blockquote": 10,
+          "em": 7,
+          "p": 10,
+          "strong": 10,
+          "summary": 1
+        },
+        "linkCount": 0,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 38,
+        "textLength": 1282
+      },
+      "bbox": {
+        "x": 90,
+        "y": 27.06,
+        "width": 1100,
+        "height": 1475.11
+      },
+      "image": "tests/visual/baselines/montreal-en/quotes/desktop-light.png"
     },
     {
       "page": "/en/montreal.html",
@@ -1470,7 +1762,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 2151.7,
+        "y": 2275.44,
         "width": 358,
         "height": 111.25
       },
@@ -1515,36 +1807,71 @@
       "device": "iphone-13",
       "mode": "dark",
       "region": "main",
-      "text": "To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Join us Subscribe Discord We are a community of volunteers that aims to mitigate the risks of AI by convincing governments to pause the development of superhuman AI. PauseAI informs the public, talks to policy-makers, and organizes events. Join us at one of our events ! Or talk to us on discord. To subscribe to our mailing list, send an email to pauseai-mtl-subscribe@lists.riseup.net. At PauseAI Montréal, we: Find people already concerned about AI at meetups around Montréal Meet and discuss how AI should be regulated, deployed, to make it safe and help humanity rather than cause issues Put up posters around the city Email and talk to local politicians to push them to vote for AI regulation … and more to come! For more content on the risks of AI see pauseai.info Events",
+      "text": "To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Join us Subscribe Discord We are a community of volunteers that aims to mitigate the risks of AI by convincing governments to pause the development of superhuman AI. PauseAI informs the public, talks to policy-makers, and organizes events. Join us at one of our events ! Or talk to us on discord. To subscribe to our mailing list, send an email to pauseai-mtl-subscribe@lists.riseup.net. At PauseAI Montréal, we: Find people already concerned about AI at meetups around Montréal Meet and discuss how AI should be regulated, deployed, to make it safe and help humanity rather than cause issues Put up posters around the city Email and talk to local politicians to push them to vote for AI regulation … and more to come! For more content on the risks of AI see pauseai.info What experts say 10 quotes from AI leaders Events",
       "structure": {
         "tagCounts": {
-          "a": 8,
+          "a": 9,
+          "blockquote": 10,
           "br": 1,
+          "details": 1,
           "div": 1,
+          "em": 7,
           "h2": 1,
-          "h3": 1,
+          "h3": 2,
           "iframe": 1,
           "li": 5,
-          "p": 7,
+          "p": 17,
           "section": 1,
-          "span": 3,
+          "span": 4,
+          "strong": 10,
+          "summary": 1,
           "ul": 1
         },
-        "linkCount": 8,
+        "linkCount": 9,
         "imageCount": 0,
         "buttonCount": 0,
-        "headingCount": 2,
+        "headingCount": 3,
         "listItemCount": 5,
-        "elementCount": 30,
-        "textLength": 1099
+        "elementCount": 72,
+        "textLength": 1142
       },
       "bbox": {
         "x": 16,
-        "y": -0.09,
+        "y": 0.91,
         "width": 358,
-        "height": 2150.8
+        "height": 2274.53
       },
       "image": "tests/visual/baselines/montreal-en/main/iphone-13-dark.png"
+    },
+    {
+      "page": "/en/montreal.html",
+      "device": "iphone-13",
+      "mode": "dark",
+      "region": "quotes",
+      "text": "10 quotes from AI leaders “If… [a future AI] model wanted to wreak havoc and destroy humanity or whatever, I think we have basically no ability to stop it.” — Dario Amodei, CEO of Anthropic (Claude) “AI will probably lead to the end of the world… but in the meantime, there’ll be great companies.” — Sam Altman, CEO of OpenAI (ChatGPT) “We must take the risks of AI as seriously as other major global challenges.” — Demis Hassabis, Nobel Prize Winning CEO of DeepMind (Google’s AI Lab) “There’s the possibility that AIs will run out of control.” — Bill Gates “At some stage… we should have to expect the machines to take control.” — Alan Turing, Inventor of the Modern Computer “Superintelligent AI could lead to the disempowerment of humanity or even human extinction.” — Ilya Sutskever, Former Chief Scientist at OpenAI (ChatGPT) “AI labs are playing dice with humanity’s future.” — Yoshua Bengio, Leading AI Researcher “The development of full artificial intelligence could spell the end of the human race.” — Stephen Hawking “In the near future AI may be used to create terrible new viruses and horrendous lethal weapons that decide by themselves who to kill or maim.” — Geoff Hinton, Nobel Prize Winning “Godfather of AI” “AI is far more dangerous than nukes. Far.” — Elon Musk",
+      "structure": {
+        "tagCounts": {
+          "blockquote": 10,
+          "em": 7,
+          "p": 10,
+          "strong": 10,
+          "summary": 1
+        },
+        "linkCount": 0,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 38,
+        "textLength": 1282
+      },
+      "bbox": {
+        "x": 16,
+        "y": -45.66,
+        "width": 358,
+        "height": 1935.19
+      },
+      "image": "tests/visual/baselines/montreal-en/quotes/iphone-13-dark.png"
     },
     {
       "page": "/en/montreal.html",
@@ -1599,7 +1926,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 2151.7,
+        "y": 2275.44,
         "width": 358,
         "height": 111.25
       },
@@ -1644,36 +1971,71 @@
       "device": "iphone-13",
       "mode": "light",
       "region": "main",
-      "text": "To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Join us Subscribe Discord We are a community of volunteers that aims to mitigate the risks of AI by convincing governments to pause the development of superhuman AI. PauseAI informs the public, talks to policy-makers, and organizes events. Join us at one of our events ! Or talk to us on discord. To subscribe to our mailing list, send an email to pauseai-mtl-subscribe@lists.riseup.net. At PauseAI Montréal, we: Find people already concerned about AI at meetups around Montréal Meet and discuss how AI should be regulated, deployed, to make it safe and help humanity rather than cause issues Put up posters around the city Email and talk to local politicians to push them to vote for AI regulation … and more to come! For more content on the risks of AI see pauseai.info Events",
+      "text": "To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Join us Subscribe Discord We are a community of volunteers that aims to mitigate the risks of AI by convincing governments to pause the development of superhuman AI. PauseAI informs the public, talks to policy-makers, and organizes events. Join us at one of our events ! Or talk to us on discord. To subscribe to our mailing list, send an email to pauseai-mtl-subscribe@lists.riseup.net. At PauseAI Montréal, we: Find people already concerned about AI at meetups around Montréal Meet and discuss how AI should be regulated, deployed, to make it safe and help humanity rather than cause issues Put up posters around the city Email and talk to local politicians to push them to vote for AI regulation … and more to come! For more content on the risks of AI see pauseai.info What experts say 10 quotes from AI leaders Events",
       "structure": {
         "tagCounts": {
-          "a": 8,
+          "a": 9,
+          "blockquote": 10,
           "br": 1,
+          "details": 1,
           "div": 1,
+          "em": 7,
           "h2": 1,
-          "h3": 1,
+          "h3": 2,
           "iframe": 1,
           "li": 5,
-          "p": 7,
+          "p": 17,
           "section": 1,
-          "span": 3,
+          "span": 4,
+          "strong": 10,
+          "summary": 1,
           "ul": 1
         },
-        "linkCount": 8,
+        "linkCount": 9,
         "imageCount": 0,
         "buttonCount": 0,
-        "headingCount": 2,
+        "headingCount": 3,
         "listItemCount": 5,
-        "elementCount": 30,
-        "textLength": 1099
+        "elementCount": 72,
+        "textLength": 1142
       },
       "bbox": {
         "x": 16,
-        "y": -0.09,
+        "y": 0.91,
         "width": 358,
-        "height": 2150.8
+        "height": 2274.53
       },
       "image": "tests/visual/baselines/montreal-en/main/iphone-13-light.png"
+    },
+    {
+      "page": "/en/montreal.html",
+      "device": "iphone-13",
+      "mode": "light",
+      "region": "quotes",
+      "text": "10 quotes from AI leaders “If… [a future AI] model wanted to wreak havoc and destroy humanity or whatever, I think we have basically no ability to stop it.” — Dario Amodei, CEO of Anthropic (Claude) “AI will probably lead to the end of the world… but in the meantime, there’ll be great companies.” — Sam Altman, CEO of OpenAI (ChatGPT) “We must take the risks of AI as seriously as other major global challenges.” — Demis Hassabis, Nobel Prize Winning CEO of DeepMind (Google’s AI Lab) “There’s the possibility that AIs will run out of control.” — Bill Gates “At some stage… we should have to expect the machines to take control.” — Alan Turing, Inventor of the Modern Computer “Superintelligent AI could lead to the disempowerment of humanity or even human extinction.” — Ilya Sutskever, Former Chief Scientist at OpenAI (ChatGPT) “AI labs are playing dice with humanity’s future.” — Yoshua Bengio, Leading AI Researcher “The development of full artificial intelligence could spell the end of the human race.” — Stephen Hawking “In the near future AI may be used to create terrible new viruses and horrendous lethal weapons that decide by themselves who to kill or maim.” — Geoff Hinton, Nobel Prize Winning “Godfather of AI” “AI is far more dangerous than nukes. Far.” — Elon Musk",
+      "structure": {
+        "tagCounts": {
+          "blockquote": 10,
+          "em": 7,
+          "p": 10,
+          "strong": 10,
+          "summary": 1
+        },
+        "linkCount": 0,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 38,
+        "textLength": 1282
+      },
+      "bbox": {
+        "x": 16,
+        "y": -45.66,
+        "width": 358,
+        "height": 1935.19
+      },
+      "image": "tests/visual/baselines/montreal-en/quotes/iphone-13-light.png"
     },
     {
       "page": "/en/montreal.html",
@@ -1728,7 +2090,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 2123.34,
+        "y": 2247.08,
         "width": 361,
         "height": 111.25
       },
@@ -1773,36 +2135,71 @@
       "device": "pixel-5",
       "mode": "dark",
       "region": "main",
-      "text": "To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Join us Subscribe Discord We are a community of volunteers that aims to mitigate the risks of AI by convincing governments to pause the development of superhuman AI. PauseAI informs the public, talks to policy-makers, and organizes events. Join us at one of our events ! Or talk to us on discord. To subscribe to our mailing list, send an email to pauseai-mtl-subscribe@lists.riseup.net. At PauseAI Montréal, we: Find people already concerned about AI at meetups around Montréal Meet and discuss how AI should be regulated, deployed, to make it safe and help humanity rather than cause issues Put up posters around the city Email and talk to local politicians to push them to vote for AI regulation … and more to come! For more content on the risks of AI see pauseai.info Events",
+      "text": "To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Join us Subscribe Discord We are a community of volunteers that aims to mitigate the risks of AI by convincing governments to pause the development of superhuman AI. PauseAI informs the public, talks to policy-makers, and organizes events. Join us at one of our events ! Or talk to us on discord. To subscribe to our mailing list, send an email to pauseai-mtl-subscribe@lists.riseup.net. At PauseAI Montréal, we: Find people already concerned about AI at meetups around Montréal Meet and discuss how AI should be regulated, deployed, to make it safe and help humanity rather than cause issues Put up posters around the city Email and talk to local politicians to push them to vote for AI regulation … and more to come! For more content on the risks of AI see pauseai.info What experts say 10 quotes from AI leaders Events",
       "structure": {
         "tagCounts": {
-          "a": 8,
+          "a": 9,
+          "blockquote": 10,
           "br": 1,
+          "details": 1,
           "div": 1,
+          "em": 7,
           "h2": 1,
-          "h3": 1,
+          "h3": 2,
           "iframe": 1,
           "li": 5,
-          "p": 7,
+          "p": 17,
           "section": 1,
-          "span": 3,
+          "span": 4,
+          "strong": 10,
+          "summary": 1,
           "ul": 1
         },
-        "linkCount": 8,
+        "linkCount": 9,
         "imageCount": 0,
         "buttonCount": 0,
-        "headingCount": 2,
+        "headingCount": 3,
         "listItemCount": 5,
-        "elementCount": 30,
-        "textLength": 1099
+        "elementCount": 72,
+        "textLength": 1142
       },
       "bbox": {
         "x": 16,
         "y": 0.91,
         "width": 361,
-        "height": 2122.44
+        "height": 2246.17
       },
       "image": "tests/visual/baselines/montreal-en/main/pixel-5-dark.png"
+    },
+    {
+      "page": "/en/montreal.html",
+      "device": "pixel-5",
+      "mode": "dark",
+      "region": "quotes",
+      "text": "10 quotes from AI leaders “If… [a future AI] model wanted to wreak havoc and destroy humanity or whatever, I think we have basically no ability to stop it.” — Dario Amodei, CEO of Anthropic (Claude) “AI will probably lead to the end of the world… but in the meantime, there’ll be great companies.” — Sam Altman, CEO of OpenAI (ChatGPT) “We must take the risks of AI as seriously as other major global challenges.” — Demis Hassabis, Nobel Prize Winning CEO of DeepMind (Google’s AI Lab) “There’s the possibility that AIs will run out of control.” — Bill Gates “At some stage… we should have to expect the machines to take control.” — Alan Turing, Inventor of the Modern Computer “Superintelligent AI could lead to the disempowerment of humanity or even human extinction.” — Ilya Sutskever, Former Chief Scientist at OpenAI (ChatGPT) “AI labs are playing dice with humanity’s future.” — Yoshua Bengio, Leading AI Researcher “The development of full artificial intelligence could spell the end of the human race.” — Stephen Hawking “In the near future AI may be used to create terrible new viruses and horrendous lethal weapons that decide by themselves who to kill or maim.” — Geoff Hinton, Nobel Prize Winning “Godfather of AI” “AI is far more dangerous than nukes. Far.” — Elon Musk",
+      "structure": {
+        "tagCounts": {
+          "blockquote": 10,
+          "em": 7,
+          "p": 10,
+          "strong": 10,
+          "summary": 1
+        },
+        "linkCount": 0,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 38,
+        "textLength": 1282
+      },
+      "bbox": {
+        "x": 16,
+        "y": 16.98,
+        "width": 361,
+        "height": 1935.19
+      },
+      "image": "tests/visual/baselines/montreal-en/quotes/pixel-5-dark.png"
     },
     {
       "page": "/en/montreal.html",
@@ -1857,7 +2254,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 2123.34,
+        "y": 2247.08,
         "width": 361,
         "height": 111.25
       },
@@ -1902,36 +2299,71 @@
       "device": "pixel-5",
       "mode": "light",
       "region": "main",
-      "text": "To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Join us Subscribe Discord We are a community of volunteers that aims to mitigate the risks of AI by convincing governments to pause the development of superhuman AI. PauseAI informs the public, talks to policy-makers, and organizes events. Join us at one of our events ! Or talk to us on discord. To subscribe to our mailing list, send an email to pauseai-mtl-subscribe@lists.riseup.net. At PauseAI Montréal, we: Find people already concerned about AI at meetups around Montréal Meet and discuss how AI should be regulated, deployed, to make it safe and help humanity rather than cause issues Put up posters around the city Email and talk to local politicians to push them to vote for AI regulation … and more to come! For more content on the risks of AI see pauseai.info Events",
+      "text": "To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Join us Subscribe Discord We are a community of volunteers that aims to mitigate the risks of AI by convincing governments to pause the development of superhuman AI. PauseAI informs the public, talks to policy-makers, and organizes events. Join us at one of our events ! Or talk to us on discord. To subscribe to our mailing list, send an email to pauseai-mtl-subscribe@lists.riseup.net. At PauseAI Montréal, we: Find people already concerned about AI at meetups around Montréal Meet and discuss how AI should be regulated, deployed, to make it safe and help humanity rather than cause issues Put up posters around the city Email and talk to local politicians to push them to vote for AI regulation … and more to come! For more content on the risks of AI see pauseai.info What experts say 10 quotes from AI leaders Events",
       "structure": {
         "tagCounts": {
-          "a": 8,
+          "a": 9,
+          "blockquote": 10,
           "br": 1,
+          "details": 1,
           "div": 1,
+          "em": 7,
           "h2": 1,
-          "h3": 1,
+          "h3": 2,
           "iframe": 1,
           "li": 5,
-          "p": 7,
+          "p": 17,
           "section": 1,
-          "span": 3,
+          "span": 4,
+          "strong": 10,
+          "summary": 1,
           "ul": 1
         },
-        "linkCount": 8,
+        "linkCount": 9,
         "imageCount": 0,
         "buttonCount": 0,
-        "headingCount": 2,
+        "headingCount": 3,
         "listItemCount": 5,
-        "elementCount": 30,
-        "textLength": 1099
+        "elementCount": 72,
+        "textLength": 1142
       },
       "bbox": {
         "x": 16,
         "y": 0.91,
         "width": 361,
-        "height": 2122.44
+        "height": 2246.17
       },
       "image": "tests/visual/baselines/montreal-en/main/pixel-5-light.png"
+    },
+    {
+      "page": "/en/montreal.html",
+      "device": "pixel-5",
+      "mode": "light",
+      "region": "quotes",
+      "text": "10 quotes from AI leaders “If… [a future AI] model wanted to wreak havoc and destroy humanity or whatever, I think we have basically no ability to stop it.” — Dario Amodei, CEO of Anthropic (Claude) “AI will probably lead to the end of the world… but in the meantime, there’ll be great companies.” — Sam Altman, CEO of OpenAI (ChatGPT) “We must take the risks of AI as seriously as other major global challenges.” — Demis Hassabis, Nobel Prize Winning CEO of DeepMind (Google’s AI Lab) “There’s the possibility that AIs will run out of control.” — Bill Gates “At some stage… we should have to expect the machines to take control.” — Alan Turing, Inventor of the Modern Computer “Superintelligent AI could lead to the disempowerment of humanity or even human extinction.” — Ilya Sutskever, Former Chief Scientist at OpenAI (ChatGPT) “AI labs are playing dice with humanity’s future.” — Yoshua Bengio, Leading AI Researcher “The development of full artificial intelligence could spell the end of the human race.” — Stephen Hawking “In the near future AI may be used to create terrible new viruses and horrendous lethal weapons that decide by themselves who to kill or maim.” — Geoff Hinton, Nobel Prize Winning “Godfather of AI” “AI is far more dangerous than nukes. Far.” — Elon Musk",
+      "structure": {
+        "tagCounts": {
+          "blockquote": 10,
+          "em": 7,
+          "p": 10,
+          "strong": 10,
+          "summary": 1
+        },
+        "linkCount": 0,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 38,
+        "textLength": 1282
+      },
+      "bbox": {
+        "x": 16,
+        "y": 16.98,
+        "width": 361,
+        "height": 1935.19
+      },
+      "image": "tests/visual/baselines/montreal-en/quotes/pixel-5-light.png"
     },
     {
       "page": "/fr/",
@@ -1956,7 +2388,7 @@
       },
       "bbox": {
         "x": 90,
-        "y": 361,
+        "y": 510.72,
         "width": 1100,
         "height": 76
       },
@@ -2001,30 +2433,67 @@
       "device": "desktop",
       "mode": "dark",
       "region": "main",
-      "text": "Rejoignez notre Discord. Communauté PauseAI locale au Canada: Montréal Si vous organisez une communauté PauseAI locale au Canada et souhaitez être ajouté à cette liste, svp envoyer un courriel à nicolas.m.lacombe@gmail.com.",
+      "text": "Rejoignez notre Discord. Communauté PauseAI locale au Canada: Montréal Toronto Si vous organisez une communauté PauseAI locale au Canada et souhaitez être ajouté à cette liste, svp envoyer un courriel à nicolas.m.lacombe@gmail.com. Ce que disent les experts 10 citations de leaders en IA",
       "structure": {
         "tagCounts": {
-          "a": 3,
-          "li": 1,
+          "a": 5,
+          "blockquote": 10,
+          "details": 1,
+          "em": 7,
+          "h3": 1,
+          "li": 2,
           "nav": 1,
-          "p": 3,
+          "p": 13,
+          "span": 1,
+          "strong": 10,
+          "summary": 1,
           "ul": 1
         },
-        "linkCount": 3,
+        "linkCount": 5,
         "imageCount": 0,
         "buttonCount": 0,
-        "headingCount": 0,
-        "listItemCount": 1,
-        "elementCount": 9,
-        "textLength": 223
+        "headingCount": 1,
+        "listItemCount": 2,
+        "elementCount": 53,
+        "textLength": 287
       },
       "bbox": {
         "x": 90,
         "y": 102.25,
         "width": 1100,
-        "height": 236.25
+        "height": 408.47
       },
       "image": "tests/visual/baselines/home-fr/main/desktop-dark.png"
+    },
+    {
+      "page": "/fr/",
+      "device": "desktop",
+      "mode": "dark",
+      "region": "quotes",
+      "text": "10 citations de leaders en IA “Si… un [futur modèle d’IA] voulait semer le chaos et détruire l’humanité ou autre, je pense que nous n’avons fondamentalement aucune capacité de l’arrêter.” — Dario Amodei, PDG d’Anthropic (Claude) “L’IA mènera probablement à la fin du monde… mais en attendant, il y aura de grandes entreprises.” — Sam Altman, PDG d’OpenAI (ChatGPT) “Nous devons prendre les risques de l’IA aussi au sérieux que d’autres défis mondiaux majeurs.” — Demis Hassabis, PDG lauréat du prix Nobel de DeepMind (laboratoire IA de Google) “Il y a la possibilité que les IA échappent à tout contrôle.” — Bill Gates “À un certain stade… nous devons nous attendre à ce que les machines prennent le contrôle.” — Alan Turing, Inventeur de l’ordinateur moderne “L’IA superintelligente pourrait mener à la mise sous tutelle de l’humanité ou même à l’extinction humaine.” — Ilya Sutskever, Ancien scientifique en chef d’OpenAI (ChatGPT) “Les laboratoires d’IA jouent aux dés avec l’avenir de l’humanité.” — Yoshua Bengio, Chercheur de pointe en IA “Le développement d’une intelligence artificielle complète pourrait signifier la fin de la race humaine.” — Stephen Hawking “Dans un avenir proche, l’IA pourrait être utilisée pour créer de terribles nouveaux virus et d’horribles armes létales qui décident par elles-mêmes qui tuer ou mutiler.” — Geoff Hinton, “le parrain de l’IA” lauréat du prix Nobel “L’IA est bien plus dangereuse que les armes nucléaires. De loin.” — Elon Musk",
+      "structure": {
+        "tagCounts": {
+          "blockquote": 10,
+          "em": 7,
+          "p": 10,
+          "strong": 10,
+          "summary": 1
+        },
+        "linkCount": 0,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 38,
+        "textLength": 1477
+      },
+      "bbox": {
+        "x": 90,
+        "y": 464.36,
+        "width": 1100,
+        "height": 1542.61
+      },
+      "image": "tests/visual/baselines/home-fr/quotes/desktop-dark.png"
     },
     {
       "page": "/fr/",
@@ -2049,7 +2518,7 @@
       },
       "bbox": {
         "x": 90,
-        "y": 361,
+        "y": 510.72,
         "width": 1100,
         "height": 76
       },
@@ -2094,30 +2563,67 @@
       "device": "desktop",
       "mode": "light",
       "region": "main",
-      "text": "Rejoignez notre Discord. Communauté PauseAI locale au Canada: Montréal Si vous organisez une communauté PauseAI locale au Canada et souhaitez être ajouté à cette liste, svp envoyer un courriel à nicolas.m.lacombe@gmail.com.",
+      "text": "Rejoignez notre Discord. Communauté PauseAI locale au Canada: Montréal Toronto Si vous organisez une communauté PauseAI locale au Canada et souhaitez être ajouté à cette liste, svp envoyer un courriel à nicolas.m.lacombe@gmail.com. Ce que disent les experts 10 citations de leaders en IA",
       "structure": {
         "tagCounts": {
-          "a": 3,
-          "li": 1,
+          "a": 5,
+          "blockquote": 10,
+          "details": 1,
+          "em": 7,
+          "h3": 1,
+          "li": 2,
           "nav": 1,
-          "p": 3,
+          "p": 13,
+          "span": 1,
+          "strong": 10,
+          "summary": 1,
           "ul": 1
         },
-        "linkCount": 3,
+        "linkCount": 5,
         "imageCount": 0,
         "buttonCount": 0,
-        "headingCount": 0,
-        "listItemCount": 1,
-        "elementCount": 9,
-        "textLength": 223
+        "headingCount": 1,
+        "listItemCount": 2,
+        "elementCount": 53,
+        "textLength": 287
       },
       "bbox": {
         "x": 90,
         "y": 102.25,
         "width": 1100,
-        "height": 236.25
+        "height": 408.47
       },
       "image": "tests/visual/baselines/home-fr/main/desktop-light.png"
+    },
+    {
+      "page": "/fr/",
+      "device": "desktop",
+      "mode": "light",
+      "region": "quotes",
+      "text": "10 citations de leaders en IA “Si… un [futur modèle d’IA] voulait semer le chaos et détruire l’humanité ou autre, je pense que nous n’avons fondamentalement aucune capacité de l’arrêter.” — Dario Amodei, PDG d’Anthropic (Claude) “L’IA mènera probablement à la fin du monde… mais en attendant, il y aura de grandes entreprises.” — Sam Altman, PDG d’OpenAI (ChatGPT) “Nous devons prendre les risques de l’IA aussi au sérieux que d’autres défis mondiaux majeurs.” — Demis Hassabis, PDG lauréat du prix Nobel de DeepMind (laboratoire IA de Google) “Il y a la possibilité que les IA échappent à tout contrôle.” — Bill Gates “À un certain stade… nous devons nous attendre à ce que les machines prennent le contrôle.” — Alan Turing, Inventeur de l’ordinateur moderne “L’IA superintelligente pourrait mener à la mise sous tutelle de l’humanité ou même à l’extinction humaine.” — Ilya Sutskever, Ancien scientifique en chef d’OpenAI (ChatGPT) “Les laboratoires d’IA jouent aux dés avec l’avenir de l’humanité.” — Yoshua Bengio, Chercheur de pointe en IA “Le développement d’une intelligence artificielle complète pourrait signifier la fin de la race humaine.” — Stephen Hawking “Dans un avenir proche, l’IA pourrait être utilisée pour créer de terribles nouveaux virus et d’horribles armes létales qui décident par elles-mêmes qui tuer ou mutiler.” — Geoff Hinton, “le parrain de l’IA” lauréat du prix Nobel “L’IA est bien plus dangereuse que les armes nucléaires. De loin.” — Elon Musk",
+      "structure": {
+        "tagCounts": {
+          "blockquote": 10,
+          "em": 7,
+          "p": 10,
+          "strong": 10,
+          "summary": 1
+        },
+        "linkCount": 0,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 38,
+        "textLength": 1477
+      },
+      "bbox": {
+        "x": 90,
+        "y": 464.36,
+        "width": 1100,
+        "height": 1542.61
+      },
+      "image": "tests/visual/baselines/home-fr/quotes/desktop-light.png"
     },
     {
       "page": "/fr/",
@@ -2142,7 +2648,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 331.88,
+        "y": 465.08,
         "width": 358,
         "height": 111.25
       },
@@ -2187,30 +2693,67 @@
       "device": "iphone-13",
       "mode": "dark",
       "region": "main",
-      "text": "Rejoignez notre Discord. Communauté PauseAI locale au Canada: Montréal Si vous organisez une communauté PauseAI locale au Canada et souhaitez être ajouté à cette liste, svp envoyer un courriel à nicolas.m.lacombe@gmail.com.",
+      "text": "Rejoignez notre Discord. Communauté PauseAI locale au Canada: Montréal Toronto Si vous organisez une communauté PauseAI locale au Canada et souhaitez être ajouté à cette liste, svp envoyer un courriel à nicolas.m.lacombe@gmail.com. Ce que disent les experts 10 citations de leaders en IA",
       "structure": {
         "tagCounts": {
-          "a": 3,
-          "li": 1,
+          "a": 5,
+          "blockquote": 10,
+          "details": 1,
+          "em": 7,
+          "h3": 1,
+          "li": 2,
           "nav": 1,
-          "p": 3,
+          "p": 13,
+          "span": 1,
+          "strong": 10,
+          "summary": 1,
           "ul": 1
         },
-        "linkCount": 3,
+        "linkCount": 5,
         "imageCount": 0,
         "buttonCount": 0,
-        "headingCount": 0,
-        "listItemCount": 1,
-        "elementCount": 9,
-        "textLength": 223
+        "headingCount": 1,
+        "listItemCount": 2,
+        "elementCount": 53,
+        "textLength": 287
       },
       "bbox": {
         "x": 16,
         "y": 57.8,
         "width": 358,
-        "height": 255.19
+        "height": 407.28
       },
       "image": "tests/visual/baselines/home-fr/main/iphone-13-dark.png"
+    },
+    {
+      "page": "/fr/",
+      "device": "iphone-13",
+      "mode": "dark",
+      "region": "quotes",
+      "text": "10 citations de leaders en IA “Si… un [futur modèle d’IA] voulait semer le chaos et détruire l’humanité ou autre, je pense que nous n’avons fondamentalement aucune capacité de l’arrêter.” — Dario Amodei, PDG d’Anthropic (Claude) “L’IA mènera probablement à la fin du monde… mais en attendant, il y aura de grandes entreprises.” — Sam Altman, PDG d’OpenAI (ChatGPT) “Nous devons prendre les risques de l’IA aussi au sérieux que d’autres défis mondiaux majeurs.” — Demis Hassabis, PDG lauréat du prix Nobel de DeepMind (laboratoire IA de Google) “Il y a la possibilité que les IA échappent à tout contrôle.” — Bill Gates “À un certain stade… nous devons nous attendre à ce que les machines prennent le contrôle.” — Alan Turing, Inventeur de l’ordinateur moderne “L’IA superintelligente pourrait mener à la mise sous tutelle de l’humanité ou même à l’extinction humaine.” — Ilya Sutskever, Ancien scientifique en chef d’OpenAI (ChatGPT) “Les laboratoires d’IA jouent aux dés avec l’avenir de l’humanité.” — Yoshua Bengio, Chercheur de pointe en IA “Le développement d’une intelligence artificielle complète pourrait signifier la fin de la race humaine.” — Stephen Hawking “Dans un avenir proche, l’IA pourrait être utilisée pour créer de terribles nouveaux virus et d’horribles armes létales qui décident par elles-mêmes qui tuer ou mutiler.” — Geoff Hinton, “le parrain de l’IA” lauréat du prix Nobel “L’IA est bien plus dangereuse que les armes nucléaires. De loin.” — Elon Musk",
+      "structure": {
+        "tagCounts": {
+          "blockquote": 10,
+          "em": 7,
+          "p": 10,
+          "strong": 10,
+          "summary": 1
+        },
+        "linkCount": 0,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 38,
+        "textLength": 1477
+      },
+      "bbox": {
+        "x": 16,
+        "y": 418.72,
+        "width": 358,
+        "height": 2190.42
+      },
+      "image": "tests/visual/baselines/home-fr/quotes/iphone-13-dark.png"
     },
     {
       "page": "/fr/",
@@ -2235,7 +2778,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 331.88,
+        "y": 465.08,
         "width": 358,
         "height": 111.25
       },
@@ -2280,30 +2823,67 @@
       "device": "iphone-13",
       "mode": "light",
       "region": "main",
-      "text": "Rejoignez notre Discord. Communauté PauseAI locale au Canada: Montréal Si vous organisez une communauté PauseAI locale au Canada et souhaitez être ajouté à cette liste, svp envoyer un courriel à nicolas.m.lacombe@gmail.com.",
+      "text": "Rejoignez notre Discord. Communauté PauseAI locale au Canada: Montréal Toronto Si vous organisez une communauté PauseAI locale au Canada et souhaitez être ajouté à cette liste, svp envoyer un courriel à nicolas.m.lacombe@gmail.com. Ce que disent les experts 10 citations de leaders en IA",
       "structure": {
         "tagCounts": {
-          "a": 3,
-          "li": 1,
+          "a": 5,
+          "blockquote": 10,
+          "details": 1,
+          "em": 7,
+          "h3": 1,
+          "li": 2,
           "nav": 1,
-          "p": 3,
+          "p": 13,
+          "span": 1,
+          "strong": 10,
+          "summary": 1,
           "ul": 1
         },
-        "linkCount": 3,
+        "linkCount": 5,
         "imageCount": 0,
         "buttonCount": 0,
-        "headingCount": 0,
-        "listItemCount": 1,
-        "elementCount": 9,
-        "textLength": 223
+        "headingCount": 1,
+        "listItemCount": 2,
+        "elementCount": 53,
+        "textLength": 287
       },
       "bbox": {
         "x": 16,
         "y": 57.8,
         "width": 358,
-        "height": 255.19
+        "height": 407.28
       },
       "image": "tests/visual/baselines/home-fr/main/iphone-13-light.png"
+    },
+    {
+      "page": "/fr/",
+      "device": "iphone-13",
+      "mode": "light",
+      "region": "quotes",
+      "text": "10 citations de leaders en IA “Si… un [futur modèle d’IA] voulait semer le chaos et détruire l’humanité ou autre, je pense que nous n’avons fondamentalement aucune capacité de l’arrêter.” — Dario Amodei, PDG d’Anthropic (Claude) “L’IA mènera probablement à la fin du monde… mais en attendant, il y aura de grandes entreprises.” — Sam Altman, PDG d’OpenAI (ChatGPT) “Nous devons prendre les risques de l’IA aussi au sérieux que d’autres défis mondiaux majeurs.” — Demis Hassabis, PDG lauréat du prix Nobel de DeepMind (laboratoire IA de Google) “Il y a la possibilité que les IA échappent à tout contrôle.” — Bill Gates “À un certain stade… nous devons nous attendre à ce que les machines prennent le contrôle.” — Alan Turing, Inventeur de l’ordinateur moderne “L’IA superintelligente pourrait mener à la mise sous tutelle de l’humanité ou même à l’extinction humaine.” — Ilya Sutskever, Ancien scientifique en chef d’OpenAI (ChatGPT) “Les laboratoires d’IA jouent aux dés avec l’avenir de l’humanité.” — Yoshua Bengio, Chercheur de pointe en IA “Le développement d’une intelligence artificielle complète pourrait signifier la fin de la race humaine.” — Stephen Hawking “Dans un avenir proche, l’IA pourrait être utilisée pour créer de terribles nouveaux virus et d’horribles armes létales qui décident par elles-mêmes qui tuer ou mutiler.” — Geoff Hinton, “le parrain de l’IA” lauréat du prix Nobel “L’IA est bien plus dangereuse que les armes nucléaires. De loin.” — Elon Musk",
+      "structure": {
+        "tagCounts": {
+          "blockquote": 10,
+          "em": 7,
+          "p": 10,
+          "strong": 10,
+          "summary": 1
+        },
+        "linkCount": 0,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 38,
+        "textLength": 1477
+      },
+      "bbox": {
+        "x": 16,
+        "y": 418.72,
+        "width": 358,
+        "height": 2190.42
+      },
+      "image": "tests/visual/baselines/home-fr/quotes/iphone-13-light.png"
     },
     {
       "page": "/fr/",
@@ -2328,7 +2908,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 331.88,
+        "y": 465.08,
         "width": 361,
         "height": 111.25
       },
@@ -2373,30 +2953,67 @@
       "device": "pixel-5",
       "mode": "dark",
       "region": "main",
-      "text": "Rejoignez notre Discord. Communauté PauseAI locale au Canada: Montréal Si vous organisez une communauté PauseAI locale au Canada et souhaitez être ajouté à cette liste, svp envoyer un courriel à nicolas.m.lacombe@gmail.com.",
+      "text": "Rejoignez notre Discord. Communauté PauseAI locale au Canada: Montréal Toronto Si vous organisez une communauté PauseAI locale au Canada et souhaitez être ajouté à cette liste, svp envoyer un courriel à nicolas.m.lacombe@gmail.com. Ce que disent les experts 10 citations de leaders en IA",
       "structure": {
         "tagCounts": {
-          "a": 3,
-          "li": 1,
+          "a": 5,
+          "blockquote": 10,
+          "details": 1,
+          "em": 7,
+          "h3": 1,
+          "li": 2,
           "nav": 1,
-          "p": 3,
+          "p": 13,
+          "span": 1,
+          "strong": 10,
+          "summary": 1,
           "ul": 1
         },
-        "linkCount": 3,
+        "linkCount": 5,
         "imageCount": 0,
         "buttonCount": 0,
-        "headingCount": 0,
-        "listItemCount": 1,
-        "elementCount": 9,
-        "textLength": 223
+        "headingCount": 1,
+        "listItemCount": 2,
+        "elementCount": 53,
+        "textLength": 287
       },
       "bbox": {
         "x": 16,
         "y": 57.8,
         "width": 361,
-        "height": 255.19
+        "height": 407.28
       },
       "image": "tests/visual/baselines/home-fr/main/pixel-5-dark.png"
+    },
+    {
+      "page": "/fr/",
+      "device": "pixel-5",
+      "mode": "dark",
+      "region": "quotes",
+      "text": "10 citations de leaders en IA “Si… un [futur modèle d’IA] voulait semer le chaos et détruire l’humanité ou autre, je pense que nous n’avons fondamentalement aucune capacité de l’arrêter.” — Dario Amodei, PDG d’Anthropic (Claude) “L’IA mènera probablement à la fin du monde… mais en attendant, il y aura de grandes entreprises.” — Sam Altman, PDG d’OpenAI (ChatGPT) “Nous devons prendre les risques de l’IA aussi au sérieux que d’autres défis mondiaux majeurs.” — Demis Hassabis, PDG lauréat du prix Nobel de DeepMind (laboratoire IA de Google) “Il y a la possibilité que les IA échappent à tout contrôle.” — Bill Gates “À un certain stade… nous devons nous attendre à ce que les machines prennent le contrôle.” — Alan Turing, Inventeur de l’ordinateur moderne “L’IA superintelligente pourrait mener à la mise sous tutelle de l’humanité ou même à l’extinction humaine.” — Ilya Sutskever, Ancien scientifique en chef d’OpenAI (ChatGPT) “Les laboratoires d’IA jouent aux dés avec l’avenir de l’humanité.” — Yoshua Bengio, Chercheur de pointe en IA “Le développement d’une intelligence artificielle complète pourrait signifier la fin de la race humaine.” — Stephen Hawking “Dans un avenir proche, l’IA pourrait être utilisée pour créer de terribles nouveaux virus et d’horribles armes létales qui décident par elles-mêmes qui tuer ou mutiler.” — Geoff Hinton, “le parrain de l’IA” lauréat du prix Nobel “L’IA est bien plus dangereuse que les armes nucléaires. De loin.” — Elon Musk",
+      "structure": {
+        "tagCounts": {
+          "blockquote": 10,
+          "em": 7,
+          "p": 10,
+          "strong": 10,
+          "summary": 1
+        },
+        "linkCount": 0,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 38,
+        "textLength": 1477
+      },
+      "bbox": {
+        "x": 16,
+        "y": 418.72,
+        "width": 361,
+        "height": 2162.06
+      },
+      "image": "tests/visual/baselines/home-fr/quotes/pixel-5-dark.png"
     },
     {
       "page": "/fr/",
@@ -2421,7 +3038,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 331.88,
+        "y": 465.08,
         "width": 361,
         "height": 111.25
       },
@@ -2466,30 +3083,67 @@
       "device": "pixel-5",
       "mode": "light",
       "region": "main",
-      "text": "Rejoignez notre Discord. Communauté PauseAI locale au Canada: Montréal Si vous organisez une communauté PauseAI locale au Canada et souhaitez être ajouté à cette liste, svp envoyer un courriel à nicolas.m.lacombe@gmail.com.",
+      "text": "Rejoignez notre Discord. Communauté PauseAI locale au Canada: Montréal Toronto Si vous organisez une communauté PauseAI locale au Canada et souhaitez être ajouté à cette liste, svp envoyer un courriel à nicolas.m.lacombe@gmail.com. Ce que disent les experts 10 citations de leaders en IA",
       "structure": {
         "tagCounts": {
-          "a": 3,
-          "li": 1,
+          "a": 5,
+          "blockquote": 10,
+          "details": 1,
+          "em": 7,
+          "h3": 1,
+          "li": 2,
           "nav": 1,
-          "p": 3,
+          "p": 13,
+          "span": 1,
+          "strong": 10,
+          "summary": 1,
           "ul": 1
         },
-        "linkCount": 3,
+        "linkCount": 5,
         "imageCount": 0,
         "buttonCount": 0,
-        "headingCount": 0,
-        "listItemCount": 1,
-        "elementCount": 9,
-        "textLength": 223
+        "headingCount": 1,
+        "listItemCount": 2,
+        "elementCount": 53,
+        "textLength": 287
       },
       "bbox": {
         "x": 16,
         "y": 57.8,
         "width": 361,
-        "height": 255.19
+        "height": 407.28
       },
       "image": "tests/visual/baselines/home-fr/main/pixel-5-light.png"
+    },
+    {
+      "page": "/fr/",
+      "device": "pixel-5",
+      "mode": "light",
+      "region": "quotes",
+      "text": "10 citations de leaders en IA “Si… un [futur modèle d’IA] voulait semer le chaos et détruire l’humanité ou autre, je pense que nous n’avons fondamentalement aucune capacité de l’arrêter.” — Dario Amodei, PDG d’Anthropic (Claude) “L’IA mènera probablement à la fin du monde… mais en attendant, il y aura de grandes entreprises.” — Sam Altman, PDG d’OpenAI (ChatGPT) “Nous devons prendre les risques de l’IA aussi au sérieux que d’autres défis mondiaux majeurs.” — Demis Hassabis, PDG lauréat du prix Nobel de DeepMind (laboratoire IA de Google) “Il y a la possibilité que les IA échappent à tout contrôle.” — Bill Gates “À un certain stade… nous devons nous attendre à ce que les machines prennent le contrôle.” — Alan Turing, Inventeur de l’ordinateur moderne “L’IA superintelligente pourrait mener à la mise sous tutelle de l’humanité ou même à l’extinction humaine.” — Ilya Sutskever, Ancien scientifique en chef d’OpenAI (ChatGPT) “Les laboratoires d’IA jouent aux dés avec l’avenir de l’humanité.” — Yoshua Bengio, Chercheur de pointe en IA “Le développement d’une intelligence artificielle complète pourrait signifier la fin de la race humaine.” — Stephen Hawking “Dans un avenir proche, l’IA pourrait être utilisée pour créer de terribles nouveaux virus et d’horribles armes létales qui décident par elles-mêmes qui tuer ou mutiler.” — Geoff Hinton, “le parrain de l’IA” lauréat du prix Nobel “L’IA est bien plus dangereuse que les armes nucléaires. De loin.” — Elon Musk",
+      "structure": {
+        "tagCounts": {
+          "blockquote": 10,
+          "em": 7,
+          "p": 10,
+          "strong": 10,
+          "summary": 1
+        },
+        "linkCount": 0,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 38,
+        "textLength": 1477
+      },
+      "bbox": {
+        "x": 16,
+        "y": 418.72,
+        "width": 361,
+        "height": 2162.06
+      },
+      "image": "tests/visual/baselines/home-fr/quotes/pixel-5-light.png"
     },
     {
       "page": "/fr/montreal.html",
@@ -2544,7 +3198,7 @@
       },
       "bbox": {
         "x": 90,
-        "y": 1922.81,
+        "y": 2061.28,
         "width": 1100,
         "height": 76
       },
@@ -2589,36 +3243,71 @@
       "device": "desktop",
       "mode": "dark",
       "region": "main",
-      "text": "Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Rejoindre S'abonner Discord Nous sommes une communauté de bénévoles qui visent à mitiger les risques de l’IA en convaincant les gouvernements à mettre sur pause le développement d’une IA superhumaine. PauseAI informe le public, parle aux décideurs politiques, et organise des événements. Rejoins-nous à l’un de nos événements ! Ou viens nous parler sur Discord. Pour vous abonner, envoyez un courriel à pauseai-mtl-subscribe@lists.riseup.net. À PauseAI Montréal, nous : Trouvons des personnes déjà sensibilisées à propos de l’IA à travers des événements ouverts à toutes et tous Se rencontrons et discutons de l’encadrement et du déploiement sécuritaire de l’IA, afin que son impact soit bénéfique plutôt que nuisible Faisons de l’affichage et des activités de mobilisation à travers la ville Entrons en contact et parlons aux décideurs politiques afin de les pousser à légiférer pour rendre l’IA plus sûre … et plus à venir! Pour plus de contenu sur les risques de l’IA, visitez pauseai.info (site principale de PauseAI en anglais) ou pauseia.fr (site de PauseIA France en français). Événements",
+      "text": "Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Rejoindre S'abonner Discord Nous sommes une communauté de bénévoles qui visent à mitiger les risques de l’IA en convaincant les gouvernements à mettre sur pause le développement d’une IA superhumaine. PauseAI informe le public, parle aux décideurs politiques, et organise des événements. Rejoins-nous à l’un de nos événements ! Ou viens nous parler sur Discord. Pour vous abonner, envoyez un courriel à pauseai-mtl-subscribe@lists.riseup.net. À PauseAI Montréal, nous : Trouvons des personnes déjà sensibilisées à propos de l’IA à travers des événements ouverts à toutes et tous Nous rencontrons et discutons de l’encadrement et du déploiement sécuritaire de l’IA, afin que son impact soit bénéfique plutôt que nuisible Faisons de l’affichage et des activités de mobilisation à travers la ville Entrons en contact et parlons aux décideurs politiques afin de les pousser à légiférer pour rendre l’IA plus sûre … et plus à venir! Pour plus de contenu sur les risques de l’IA, visitez pauseai.info (site principale de PauseAI en anglais) ou pauseia.fr (site de PauseIA France en français). Ce que disent les experts 10 citations de leaders en IA Événements",
       "structure": {
         "tagCounts": {
-          "a": 9,
+          "a": 10,
+          "blockquote": 10,
           "br": 1,
+          "details": 1,
           "div": 1,
+          "em": 7,
           "h2": 1,
-          "h3": 1,
+          "h3": 2,
           "iframe": 1,
           "li": 5,
-          "p": 7,
+          "p": 17,
           "section": 1,
-          "span": 3,
+          "span": 4,
+          "strong": 10,
+          "summary": 1,
           "ul": 1
         },
-        "linkCount": 9,
+        "linkCount": 10,
         "imageCount": 0,
         "buttonCount": 0,
-        "headingCount": 2,
+        "headingCount": 3,
         "listItemCount": 5,
-        "elementCount": 31,
-        "textLength": 1501
+        "elementCount": 73,
+        "textLength": 1559
       },
       "bbox": {
         "x": 90,
         "y": 52.94,
         "width": 1100,
-        "height": 1922.88
+        "height": 2061.34
       },
       "image": "tests/visual/baselines/montreal-fr/main/desktop-dark.png"
+    },
+    {
+      "page": "/fr/montreal.html",
+      "device": "desktop",
+      "mode": "dark",
+      "region": "quotes",
+      "text": "10 citations de leaders en IA “Si… un [futur modèle d’IA] voulait semer le chaos et détruire l’humanité ou autre, je pense que nous n’avons fondamentalement aucune capacité de l’arrêter.” — Dario Amodei, PDG d’Anthropic (Claude) “L’IA mènera probablement à la fin du monde… mais en attendant, il y aura de grandes entreprises.” — Sam Altman, PDG d’OpenAI (ChatGPT) “Nous devons prendre les risques de l’IA aussi au sérieux que d’autres défis mondiaux majeurs.” — Demis Hassabis, PDG lauréat du prix Nobel de DeepMind (laboratoire IA de Google) “Il y a la possibilité que les IA échappent à tout contrôle.” — Bill Gates “À un certain stade… nous devons nous attendre à ce que les machines prennent le contrôle.” — Alan Turing, Inventeur de l’ordinateur moderne “L’IA superintelligente pourrait mener à la mise sous tutelle de l’humanité ou même à l’extinction humaine.” — Ilya Sutskever, Ancien scientifique en chef d’OpenAI (ChatGPT) “Les laboratoires d’IA jouent aux dés avec l’avenir de l’humanité.” — Yoshua Bengio, Chercheur de pointe en IA “Le développement d’une intelligence artificielle complète pourrait signifier la fin de la race humaine.” — Stephen Hawking “Dans un avenir proche, l’IA pourrait être utilisée pour créer de terribles nouveaux virus et d’horribles armes létales qui décident par elles-mêmes qui tuer ou mutiler.” — Geoff Hinton, “le parrain de l’IA” lauréat du prix Nobel “L’IA est bien plus dangereuse que les armes nucléaires. De loin.” — Elon Musk",
+      "structure": {
+        "tagCounts": {
+          "blockquote": 10,
+          "em": 7,
+          "p": 10,
+          "strong": 10,
+          "summary": 1
+        },
+        "linkCount": 0,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 38,
+        "textLength": 1477
+      },
+      "bbox": {
+        "x": 90,
+        "y": 27.06,
+        "width": 1100,
+        "height": 1542.61
+      },
+      "image": "tests/visual/baselines/montreal-fr/quotes/desktop-dark.png"
     },
     {
       "page": "/fr/montreal.html",
@@ -2673,7 +3362,7 @@
       },
       "bbox": {
         "x": 90,
-        "y": 1922.81,
+        "y": 2061.28,
         "width": 1100,
         "height": 76
       },
@@ -2718,36 +3407,71 @@
       "device": "desktop",
       "mode": "light",
       "region": "main",
-      "text": "Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Rejoindre S'abonner Discord Nous sommes une communauté de bénévoles qui visent à mitiger les risques de l’IA en convaincant les gouvernements à mettre sur pause le développement d’une IA superhumaine. PauseAI informe le public, parle aux décideurs politiques, et organise des événements. Rejoins-nous à l’un de nos événements ! Ou viens nous parler sur Discord. Pour vous abonner, envoyez un courriel à pauseai-mtl-subscribe@lists.riseup.net. À PauseAI Montréal, nous : Trouvons des personnes déjà sensibilisées à propos de l’IA à travers des événements ouverts à toutes et tous Se rencontrons et discutons de l’encadrement et du déploiement sécuritaire de l’IA, afin que son impact soit bénéfique plutôt que nuisible Faisons de l’affichage et des activités de mobilisation à travers la ville Entrons en contact et parlons aux décideurs politiques afin de les pousser à légiférer pour rendre l’IA plus sûre … et plus à venir! Pour plus de contenu sur les risques de l’IA, visitez pauseai.info (site principale de PauseAI en anglais) ou pauseia.fr (site de PauseIA France en français). Événements",
+      "text": "Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Rejoindre S'abonner Discord Nous sommes une communauté de bénévoles qui visent à mitiger les risques de l’IA en convaincant les gouvernements à mettre sur pause le développement d’une IA superhumaine. PauseAI informe le public, parle aux décideurs politiques, et organise des événements. Rejoins-nous à l’un de nos événements ! Ou viens nous parler sur Discord. Pour vous abonner, envoyez un courriel à pauseai-mtl-subscribe@lists.riseup.net. À PauseAI Montréal, nous : Trouvons des personnes déjà sensibilisées à propos de l’IA à travers des événements ouverts à toutes et tous Nous rencontrons et discutons de l’encadrement et du déploiement sécuritaire de l’IA, afin que son impact soit bénéfique plutôt que nuisible Faisons de l’affichage et des activités de mobilisation à travers la ville Entrons en contact et parlons aux décideurs politiques afin de les pousser à légiférer pour rendre l’IA plus sûre … et plus à venir! Pour plus de contenu sur les risques de l’IA, visitez pauseai.info (site principale de PauseAI en anglais) ou pauseia.fr (site de PauseIA France en français). Ce que disent les experts 10 citations de leaders en IA Événements",
       "structure": {
         "tagCounts": {
-          "a": 9,
+          "a": 10,
+          "blockquote": 10,
           "br": 1,
+          "details": 1,
           "div": 1,
+          "em": 7,
           "h2": 1,
-          "h3": 1,
+          "h3": 2,
           "iframe": 1,
           "li": 5,
-          "p": 7,
+          "p": 17,
           "section": 1,
-          "span": 3,
+          "span": 4,
+          "strong": 10,
+          "summary": 1,
           "ul": 1
         },
-        "linkCount": 9,
+        "linkCount": 10,
         "imageCount": 0,
         "buttonCount": 0,
-        "headingCount": 2,
+        "headingCount": 3,
         "listItemCount": 5,
-        "elementCount": 31,
-        "textLength": 1501
+        "elementCount": 73,
+        "textLength": 1559
       },
       "bbox": {
         "x": 90,
         "y": 52.94,
         "width": 1100,
-        "height": 1922.88
+        "height": 2061.34
       },
       "image": "tests/visual/baselines/montreal-fr/main/desktop-light.png"
+    },
+    {
+      "page": "/fr/montreal.html",
+      "device": "desktop",
+      "mode": "light",
+      "region": "quotes",
+      "text": "10 citations de leaders en IA “Si… un [futur modèle d’IA] voulait semer le chaos et détruire l’humanité ou autre, je pense que nous n’avons fondamentalement aucune capacité de l’arrêter.” — Dario Amodei, PDG d’Anthropic (Claude) “L’IA mènera probablement à la fin du monde… mais en attendant, il y aura de grandes entreprises.” — Sam Altman, PDG d’OpenAI (ChatGPT) “Nous devons prendre les risques de l’IA aussi au sérieux que d’autres défis mondiaux majeurs.” — Demis Hassabis, PDG lauréat du prix Nobel de DeepMind (laboratoire IA de Google) “Il y a la possibilité que les IA échappent à tout contrôle.” — Bill Gates “À un certain stade… nous devons nous attendre à ce que les machines prennent le contrôle.” — Alan Turing, Inventeur de l’ordinateur moderne “L’IA superintelligente pourrait mener à la mise sous tutelle de l’humanité ou même à l’extinction humaine.” — Ilya Sutskever, Ancien scientifique en chef d’OpenAI (ChatGPT) “Les laboratoires d’IA jouent aux dés avec l’avenir de l’humanité.” — Yoshua Bengio, Chercheur de pointe en IA “Le développement d’une intelligence artificielle complète pourrait signifier la fin de la race humaine.” — Stephen Hawking “Dans un avenir proche, l’IA pourrait être utilisée pour créer de terribles nouveaux virus et d’horribles armes létales qui décident par elles-mêmes qui tuer ou mutiler.” — Geoff Hinton, “le parrain de l’IA” lauréat du prix Nobel “L’IA est bien plus dangereuse que les armes nucléaires. De loin.” — Elon Musk",
+      "structure": {
+        "tagCounts": {
+          "blockquote": 10,
+          "em": 7,
+          "p": 10,
+          "strong": 10,
+          "summary": 1
+        },
+        "linkCount": 0,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 38,
+        "textLength": 1477
+      },
+      "bbox": {
+        "x": 90,
+        "y": 27.06,
+        "width": 1100,
+        "height": 1542.61
+      },
+      "image": "tests/visual/baselines/montreal-fr/quotes/desktop-light.png"
     },
     {
       "page": "/fr/montreal.html",
@@ -2802,7 +3526,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 2474.89,
+        "y": 2598.63,
         "width": 358,
         "height": 111.25
       },
@@ -2847,36 +3571,71 @@
       "device": "iphone-13",
       "mode": "dark",
       "region": "main",
-      "text": "Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Rejoindre S'abonner Discord Nous sommes une communauté de bénévoles qui visent à mitiger les risques de l’IA en convaincant les gouvernements à mettre sur pause le développement d’une IA superhumaine. PauseAI informe le public, parle aux décideurs politiques, et organise des événements. Rejoins-nous à l’un de nos événements ! Ou viens nous parler sur Discord. Pour vous abonner, envoyez un courriel à pauseai-mtl-subscribe@lists.riseup.net. À PauseAI Montréal, nous : Trouvons des personnes déjà sensibilisées à propos de l’IA à travers des événements ouverts à toutes et tous Se rencontrons et discutons de l’encadrement et du déploiement sécuritaire de l’IA, afin que son impact soit bénéfique plutôt que nuisible Faisons de l’affichage et des activités de mobilisation à travers la ville Entrons en contact et parlons aux décideurs politiques afin de les pousser à légiférer pour rendre l’IA plus sûre … et plus à venir! Pour plus de contenu sur les risques de l’IA, visitez pauseai.info (site principale de PauseAI en anglais) ou pauseia.fr (site de PauseIA France en français). Événements",
+      "text": "Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Rejoindre S'abonner Discord Nous sommes une communauté de bénévoles qui visent à mitiger les risques de l’IA en convaincant les gouvernements à mettre sur pause le développement d’une IA superhumaine. PauseAI informe le public, parle aux décideurs politiques, et organise des événements. Rejoins-nous à l’un de nos événements ! Ou viens nous parler sur Discord. Pour vous abonner, envoyez un courriel à pauseai-mtl-subscribe@lists.riseup.net. À PauseAI Montréal, nous : Trouvons des personnes déjà sensibilisées à propos de l’IA à travers des événements ouverts à toutes et tous Nous rencontrons et discutons de l’encadrement et du déploiement sécuritaire de l’IA, afin que son impact soit bénéfique plutôt que nuisible Faisons de l’affichage et des activités de mobilisation à travers la ville Entrons en contact et parlons aux décideurs politiques afin de les pousser à légiférer pour rendre l’IA plus sûre … et plus à venir! Pour plus de contenu sur les risques de l’IA, visitez pauseai.info (site principale de PauseAI en anglais) ou pauseia.fr (site de PauseIA France en français). Ce que disent les experts 10 citations de leaders en IA Événements",
       "structure": {
         "tagCounts": {
-          "a": 9,
+          "a": 10,
+          "blockquote": 10,
           "br": 1,
+          "details": 1,
           "div": 1,
+          "em": 7,
           "h2": 1,
-          "h3": 1,
+          "h3": 2,
           "iframe": 1,
           "li": 5,
-          "p": 7,
+          "p": 17,
           "section": 1,
-          "span": 3,
+          "span": 4,
+          "strong": 10,
+          "summary": 1,
           "ul": 1
         },
-        "linkCount": 9,
+        "linkCount": 10,
         "imageCount": 0,
         "buttonCount": 0,
-        "headingCount": 2,
+        "headingCount": 3,
         "listItemCount": 5,
-        "elementCount": 31,
-        "textLength": 1501
+        "elementCount": 73,
+        "textLength": 1559
       },
       "bbox": {
         "x": 16,
         "y": 0.91,
         "width": 358,
-        "height": 2473.98
+        "height": 2597.72
       },
       "image": "tests/visual/baselines/montreal-fr/main/iphone-13-dark.png"
+    },
+    {
+      "page": "/fr/montreal.html",
+      "device": "iphone-13",
+      "mode": "dark",
+      "region": "quotes",
+      "text": "10 citations de leaders en IA “Si… un [futur modèle d’IA] voulait semer le chaos et détruire l’humanité ou autre, je pense que nous n’avons fondamentalement aucune capacité de l’arrêter.” — Dario Amodei, PDG d’Anthropic (Claude) “L’IA mènera probablement à la fin du monde… mais en attendant, il y aura de grandes entreprises.” — Sam Altman, PDG d’OpenAI (ChatGPT) “Nous devons prendre les risques de l’IA aussi au sérieux que d’autres défis mondiaux majeurs.” — Demis Hassabis, PDG lauréat du prix Nobel de DeepMind (laboratoire IA de Google) “Il y a la possibilité que les IA échappent à tout contrôle.” — Bill Gates “À un certain stade… nous devons nous attendre à ce que les machines prennent le contrôle.” — Alan Turing, Inventeur de l’ordinateur moderne “L’IA superintelligente pourrait mener à la mise sous tutelle de l’humanité ou même à l’extinction humaine.” — Ilya Sutskever, Ancien scientifique en chef d’OpenAI (ChatGPT) “Les laboratoires d’IA jouent aux dés avec l’avenir de l’humanité.” — Yoshua Bengio, Chercheur de pointe en IA “Le développement d’une intelligence artificielle complète pourrait signifier la fin de la race humaine.” — Stephen Hawking “Dans un avenir proche, l’IA pourrait être utilisée pour créer de terribles nouveaux virus et d’horribles armes létales qui décident par elles-mêmes qui tuer ou mutiler.” — Geoff Hinton, “le parrain de l’IA” lauréat du prix Nobel “L’IA est bien plus dangereuse que les armes nucléaires. De loin.” — Elon Musk",
+      "structure": {
+        "tagCounts": {
+          "blockquote": 10,
+          "em": 7,
+          "p": 10,
+          "strong": 10,
+          "summary": 1
+        },
+        "linkCount": 0,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 38,
+        "textLength": 1477
+      },
+      "bbox": {
+        "x": 16,
+        "y": -2190.47,
+        "width": 358,
+        "height": 2190.42
+      },
+      "image": "tests/visual/baselines/montreal-fr/quotes/iphone-13-dark.png"
     },
     {
       "page": "/fr/montreal.html",
@@ -2931,7 +3690,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 2474.89,
+        "y": 2598.63,
         "width": 358,
         "height": 111.25
       },
@@ -2976,36 +3735,71 @@
       "device": "iphone-13",
       "mode": "light",
       "region": "main",
-      "text": "Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Rejoindre S'abonner Discord Nous sommes une communauté de bénévoles qui visent à mitiger les risques de l’IA en convaincant les gouvernements à mettre sur pause le développement d’une IA superhumaine. PauseAI informe le public, parle aux décideurs politiques, et organise des événements. Rejoins-nous à l’un de nos événements ! Ou viens nous parler sur Discord. Pour vous abonner, envoyez un courriel à pauseai-mtl-subscribe@lists.riseup.net. À PauseAI Montréal, nous : Trouvons des personnes déjà sensibilisées à propos de l’IA à travers des événements ouverts à toutes et tous Se rencontrons et discutons de l’encadrement et du déploiement sécuritaire de l’IA, afin que son impact soit bénéfique plutôt que nuisible Faisons de l’affichage et des activités de mobilisation à travers la ville Entrons en contact et parlons aux décideurs politiques afin de les pousser à légiférer pour rendre l’IA plus sûre … et plus à venir! Pour plus de contenu sur les risques de l’IA, visitez pauseai.info (site principale de PauseAI en anglais) ou pauseia.fr (site de PauseIA France en français). Événements",
+      "text": "Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Rejoindre S'abonner Discord Nous sommes une communauté de bénévoles qui visent à mitiger les risques de l’IA en convaincant les gouvernements à mettre sur pause le développement d’une IA superhumaine. PauseAI informe le public, parle aux décideurs politiques, et organise des événements. Rejoins-nous à l’un de nos événements ! Ou viens nous parler sur Discord. Pour vous abonner, envoyez un courriel à pauseai-mtl-subscribe@lists.riseup.net. À PauseAI Montréal, nous : Trouvons des personnes déjà sensibilisées à propos de l’IA à travers des événements ouverts à toutes et tous Nous rencontrons et discutons de l’encadrement et du déploiement sécuritaire de l’IA, afin que son impact soit bénéfique plutôt que nuisible Faisons de l’affichage et des activités de mobilisation à travers la ville Entrons en contact et parlons aux décideurs politiques afin de les pousser à légiférer pour rendre l’IA plus sûre … et plus à venir! Pour plus de contenu sur les risques de l’IA, visitez pauseai.info (site principale de PauseAI en anglais) ou pauseia.fr (site de PauseIA France en français). Ce que disent les experts 10 citations de leaders en IA Événements",
       "structure": {
         "tagCounts": {
-          "a": 9,
+          "a": 10,
+          "blockquote": 10,
           "br": 1,
+          "details": 1,
           "div": 1,
+          "em": 7,
           "h2": 1,
-          "h3": 1,
+          "h3": 2,
           "iframe": 1,
           "li": 5,
-          "p": 7,
+          "p": 17,
           "section": 1,
-          "span": 3,
+          "span": 4,
+          "strong": 10,
+          "summary": 1,
           "ul": 1
         },
-        "linkCount": 9,
+        "linkCount": 10,
         "imageCount": 0,
         "buttonCount": 0,
-        "headingCount": 2,
+        "headingCount": 3,
         "listItemCount": 5,
-        "elementCount": 31,
-        "textLength": 1501
+        "elementCount": 73,
+        "textLength": 1559
       },
       "bbox": {
         "x": 16,
         "y": 0.91,
         "width": 358,
-        "height": 2473.98
+        "height": 2597.72
       },
       "image": "tests/visual/baselines/montreal-fr/main/iphone-13-light.png"
+    },
+    {
+      "page": "/fr/montreal.html",
+      "device": "iphone-13",
+      "mode": "light",
+      "region": "quotes",
+      "text": "10 citations de leaders en IA “Si… un [futur modèle d’IA] voulait semer le chaos et détruire l’humanité ou autre, je pense que nous n’avons fondamentalement aucune capacité de l’arrêter.” — Dario Amodei, PDG d’Anthropic (Claude) “L’IA mènera probablement à la fin du monde… mais en attendant, il y aura de grandes entreprises.” — Sam Altman, PDG d’OpenAI (ChatGPT) “Nous devons prendre les risques de l’IA aussi au sérieux que d’autres défis mondiaux majeurs.” — Demis Hassabis, PDG lauréat du prix Nobel de DeepMind (laboratoire IA de Google) “Il y a la possibilité que les IA échappent à tout contrôle.” — Bill Gates “À un certain stade… nous devons nous attendre à ce que les machines prennent le contrôle.” — Alan Turing, Inventeur de l’ordinateur moderne “L’IA superintelligente pourrait mener à la mise sous tutelle de l’humanité ou même à l’extinction humaine.” — Ilya Sutskever, Ancien scientifique en chef d’OpenAI (ChatGPT) “Les laboratoires d’IA jouent aux dés avec l’avenir de l’humanité.” — Yoshua Bengio, Chercheur de pointe en IA “Le développement d’une intelligence artificielle complète pourrait signifier la fin de la race humaine.” — Stephen Hawking “Dans un avenir proche, l’IA pourrait être utilisée pour créer de terribles nouveaux virus et d’horribles armes létales qui décident par elles-mêmes qui tuer ou mutiler.” — Geoff Hinton, “le parrain de l’IA” lauréat du prix Nobel “L’IA est bien plus dangereuse que les armes nucléaires. De loin.” — Elon Musk",
+      "structure": {
+        "tagCounts": {
+          "blockquote": 10,
+          "em": 7,
+          "p": 10,
+          "strong": 10,
+          "summary": 1
+        },
+        "linkCount": 0,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 38,
+        "textLength": 1477
+      },
+      "bbox": {
+        "x": 16,
+        "y": -2190.47,
+        "width": 358,
+        "height": 2190.42
+      },
+      "image": "tests/visual/baselines/montreal-fr/quotes/iphone-13-light.png"
     },
     {
       "page": "/fr/montreal.html",
@@ -3060,7 +3854,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 2446.53,
+        "y": 2570.27,
         "width": 361,
         "height": 111.25
       },
@@ -3105,36 +3899,71 @@
       "device": "pixel-5",
       "mode": "dark",
       "region": "main",
-      "text": "Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Rejoindre S'abonner Discord Nous sommes une communauté de bénévoles qui visent à mitiger les risques de l’IA en convaincant les gouvernements à mettre sur pause le développement d’une IA superhumaine. PauseAI informe le public, parle aux décideurs politiques, et organise des événements. Rejoins-nous à l’un de nos événements ! Ou viens nous parler sur Discord. Pour vous abonner, envoyez un courriel à pauseai-mtl-subscribe@lists.riseup.net. À PauseAI Montréal, nous : Trouvons des personnes déjà sensibilisées à propos de l’IA à travers des événements ouverts à toutes et tous Se rencontrons et discutons de l’encadrement et du déploiement sécuritaire de l’IA, afin que son impact soit bénéfique plutôt que nuisible Faisons de l’affichage et des activités de mobilisation à travers la ville Entrons en contact et parlons aux décideurs politiques afin de les pousser à légiférer pour rendre l’IA plus sûre … et plus à venir! Pour plus de contenu sur les risques de l’IA, visitez pauseai.info (site principale de PauseAI en anglais) ou pauseia.fr (site de PauseIA France en français). Événements",
+      "text": "Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Rejoindre S'abonner Discord Nous sommes une communauté de bénévoles qui visent à mitiger les risques de l’IA en convaincant les gouvernements à mettre sur pause le développement d’une IA superhumaine. PauseAI informe le public, parle aux décideurs politiques, et organise des événements. Rejoins-nous à l’un de nos événements ! Ou viens nous parler sur Discord. Pour vous abonner, envoyez un courriel à pauseai-mtl-subscribe@lists.riseup.net. À PauseAI Montréal, nous : Trouvons des personnes déjà sensibilisées à propos de l’IA à travers des événements ouverts à toutes et tous Nous rencontrons et discutons de l’encadrement et du déploiement sécuritaire de l’IA, afin que son impact soit bénéfique plutôt que nuisible Faisons de l’affichage et des activités de mobilisation à travers la ville Entrons en contact et parlons aux décideurs politiques afin de les pousser à légiférer pour rendre l’IA plus sûre … et plus à venir! Pour plus de contenu sur les risques de l’IA, visitez pauseai.info (site principale de PauseAI en anglais) ou pauseia.fr (site de PauseIA France en français). Ce que disent les experts 10 citations de leaders en IA Événements",
       "structure": {
         "tagCounts": {
-          "a": 9,
+          "a": 10,
+          "blockquote": 10,
           "br": 1,
+          "details": 1,
           "div": 1,
+          "em": 7,
           "h2": 1,
-          "h3": 1,
+          "h3": 2,
           "iframe": 1,
           "li": 5,
-          "p": 7,
+          "p": 17,
           "section": 1,
-          "span": 3,
+          "span": 4,
+          "strong": 10,
+          "summary": 1,
           "ul": 1
         },
-        "linkCount": 9,
+        "linkCount": 10,
         "imageCount": 0,
         "buttonCount": 0,
-        "headingCount": 2,
+        "headingCount": 3,
         "listItemCount": 5,
-        "elementCount": 31,
-        "textLength": 1501
+        "elementCount": 73,
+        "textLength": 1559
       },
       "bbox": {
         "x": 16,
         "y": 0.91,
         "width": 361,
-        "height": 2445.63
+        "height": 2569.36
       },
       "image": "tests/visual/baselines/montreal-fr/main/pixel-5-dark.png"
+    },
+    {
+      "page": "/fr/montreal.html",
+      "device": "pixel-5",
+      "mode": "dark",
+      "region": "quotes",
+      "text": "10 citations de leaders en IA “Si… un [futur modèle d’IA] voulait semer le chaos et détruire l’humanité ou autre, je pense que nous n’avons fondamentalement aucune capacité de l’arrêter.” — Dario Amodei, PDG d’Anthropic (Claude) “L’IA mènera probablement à la fin du monde… mais en attendant, il y aura de grandes entreprises.” — Sam Altman, PDG d’OpenAI (ChatGPT) “Nous devons prendre les risques de l’IA aussi au sérieux que d’autres défis mondiaux majeurs.” — Demis Hassabis, PDG lauréat du prix Nobel de DeepMind (laboratoire IA de Google) “Il y a la possibilité que les IA échappent à tout contrôle.” — Bill Gates “À un certain stade… nous devons nous attendre à ce que les machines prennent le contrôle.” — Alan Turing, Inventeur de l’ordinateur moderne “L’IA superintelligente pourrait mener à la mise sous tutelle de l’humanité ou même à l’extinction humaine.” — Ilya Sutskever, Ancien scientifique en chef d’OpenAI (ChatGPT) “Les laboratoires d’IA jouent aux dés avec l’avenir de l’humanité.” — Yoshua Bengio, Chercheur de pointe en IA “Le développement d’une intelligence artificielle complète pourrait signifier la fin de la race humaine.” — Stephen Hawking “Dans un avenir proche, l’IA pourrait être utilisée pour créer de terribles nouveaux virus et d’horribles armes létales qui décident par elles-mêmes qui tuer ou mutiler.” — Geoff Hinton, “le parrain de l’IA” lauréat du prix Nobel “L’IA est bien plus dangereuse que les armes nucléaires. De loin.” — Elon Musk",
+      "structure": {
+        "tagCounts": {
+          "blockquote": 10,
+          "em": 7,
+          "p": 10,
+          "strong": 10,
+          "summary": 1
+        },
+        "linkCount": 0,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 38,
+        "textLength": 1477
+      },
+      "bbox": {
+        "x": 16,
+        "y": 17.17,
+        "width": 361,
+        "height": 2162.06
+      },
+      "image": "tests/visual/baselines/montreal-fr/quotes/pixel-5-dark.png"
     },
     {
       "page": "/fr/montreal.html",
@@ -3189,7 +4018,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 2446.53,
+        "y": 2570.27,
         "width": 361,
         "height": 111.25
       },
@@ -3234,36 +4063,71 @@
       "device": "pixel-5",
       "mode": "light",
       "region": "main",
-      "text": "Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Rejoindre S'abonner Discord Nous sommes une communauté de bénévoles qui visent à mitiger les risques de l’IA en convaincant les gouvernements à mettre sur pause le développement d’une IA superhumaine. PauseAI informe le public, parle aux décideurs politiques, et organise des événements. Rejoins-nous à l’un de nos événements ! Ou viens nous parler sur Discord. Pour vous abonner, envoyez un courriel à pauseai-mtl-subscribe@lists.riseup.net. À PauseAI Montréal, nous : Trouvons des personnes déjà sensibilisées à propos de l’IA à travers des événements ouverts à toutes et tous Se rencontrons et discutons de l’encadrement et du déploiement sécuritaire de l’IA, afin que son impact soit bénéfique plutôt que nuisible Faisons de l’affichage et des activités de mobilisation à travers la ville Entrons en contact et parlons aux décideurs politiques afin de les pousser à légiférer pour rendre l’IA plus sûre … et plus à venir! Pour plus de contenu sur les risques de l’IA, visitez pauseai.info (site principale de PauseAI en anglais) ou pauseia.fr (site de PauseIA France en français). Événements",
+      "text": "Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Rejoindre S'abonner Discord Nous sommes une communauté de bénévoles qui visent à mitiger les risques de l’IA en convaincant les gouvernements à mettre sur pause le développement d’une IA superhumaine. PauseAI informe le public, parle aux décideurs politiques, et organise des événements. Rejoins-nous à l’un de nos événements ! Ou viens nous parler sur Discord. Pour vous abonner, envoyez un courriel à pauseai-mtl-subscribe@lists.riseup.net. À PauseAI Montréal, nous : Trouvons des personnes déjà sensibilisées à propos de l’IA à travers des événements ouverts à toutes et tous Nous rencontrons et discutons de l’encadrement et du déploiement sécuritaire de l’IA, afin que son impact soit bénéfique plutôt que nuisible Faisons de l’affichage et des activités de mobilisation à travers la ville Entrons en contact et parlons aux décideurs politiques afin de les pousser à légiférer pour rendre l’IA plus sûre … et plus à venir! Pour plus de contenu sur les risques de l’IA, visitez pauseai.info (site principale de PauseAI en anglais) ou pauseia.fr (site de PauseIA France en français). Ce que disent les experts 10 citations de leaders en IA Événements",
       "structure": {
         "tagCounts": {
-          "a": 9,
+          "a": 10,
+          "blockquote": 10,
           "br": 1,
+          "details": 1,
           "div": 1,
+          "em": 7,
           "h2": 1,
-          "h3": 1,
+          "h3": 2,
           "iframe": 1,
           "li": 5,
-          "p": 7,
+          "p": 17,
           "section": 1,
-          "span": 3,
+          "span": 4,
+          "strong": 10,
+          "summary": 1,
           "ul": 1
         },
-        "linkCount": 9,
+        "linkCount": 10,
         "imageCount": 0,
         "buttonCount": 0,
-        "headingCount": 2,
+        "headingCount": 3,
         "listItemCount": 5,
-        "elementCount": 31,
-        "textLength": 1501
+        "elementCount": 73,
+        "textLength": 1559
       },
       "bbox": {
         "x": 16,
         "y": 0.91,
         "width": 361,
-        "height": 2445.63
+        "height": 2569.36
       },
       "image": "tests/visual/baselines/montreal-fr/main/pixel-5-light.png"
+    },
+    {
+      "page": "/fr/montreal.html",
+      "device": "pixel-5",
+      "mode": "light",
+      "region": "quotes",
+      "text": "10 citations de leaders en IA “Si… un [futur modèle d’IA] voulait semer le chaos et détruire l’humanité ou autre, je pense que nous n’avons fondamentalement aucune capacité de l’arrêter.” — Dario Amodei, PDG d’Anthropic (Claude) “L’IA mènera probablement à la fin du monde… mais en attendant, il y aura de grandes entreprises.” — Sam Altman, PDG d’OpenAI (ChatGPT) “Nous devons prendre les risques de l’IA aussi au sérieux que d’autres défis mondiaux majeurs.” — Demis Hassabis, PDG lauréat du prix Nobel de DeepMind (laboratoire IA de Google) “Il y a la possibilité que les IA échappent à tout contrôle.” — Bill Gates “À un certain stade… nous devons nous attendre à ce que les machines prennent le contrôle.” — Alan Turing, Inventeur de l’ordinateur moderne “L’IA superintelligente pourrait mener à la mise sous tutelle de l’humanité ou même à l’extinction humaine.” — Ilya Sutskever, Ancien scientifique en chef d’OpenAI (ChatGPT) “Les laboratoires d’IA jouent aux dés avec l’avenir de l’humanité.” — Yoshua Bengio, Chercheur de pointe en IA “Le développement d’une intelligence artificielle complète pourrait signifier la fin de la race humaine.” — Stephen Hawking “Dans un avenir proche, l’IA pourrait être utilisée pour créer de terribles nouveaux virus et d’horribles armes létales qui décident par elles-mêmes qui tuer ou mutiler.” — Geoff Hinton, “le parrain de l’IA” lauréat du prix Nobel “L’IA est bien plus dangereuse que les armes nucléaires. De loin.” — Elon Musk",
+      "structure": {
+        "tagCounts": {
+          "blockquote": 10,
+          "em": 7,
+          "p": 10,
+          "strong": 10,
+          "summary": 1
+        },
+        "linkCount": 0,
+        "imageCount": 0,
+        "buttonCount": 0,
+        "headingCount": 0,
+        "listItemCount": 0,
+        "elementCount": 38,
+        "textLength": 1477
+      },
+      "bbox": {
+        "x": 16,
+        "y": 17.17,
+        "width": 361,
+        "height": 2162.06
+      },
+      "image": "tests/visual/baselines/montreal-fr/quotes/pixel-5-light.png"
     }
   ]
 }
