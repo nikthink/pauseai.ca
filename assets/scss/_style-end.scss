@@ -305,3 +305,21 @@ a:focus-visible {
     max-width: 30ch;
   }
 }
+
+details summary {
+  cursor: pointer;
+  color: var(--accent-color);
+  font-weight: 600;
+  font-size: 1.05rem;
+  padding: 0.5rem 0;
+}
+
+details summary:hover {
+  color: var(--accent-color-strong);
+}
+
+details blockquote {
+  border-left: 3px solid var(--accent-color);
+  margin: 1.25rem 0;
+  padding: 0.5rem 1rem;
+}

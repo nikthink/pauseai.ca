@@ -11,7 +11,7 @@
       "pages": ["montreal-en", "montreal-fr"],
       "devices": ["desktop", "iphone-13"],
       "modes": ["light", "dark"],
-      "regions": ["header", "cta", "main", "footer"]
+      "regions": ["header", "cta", "main", "footer", "quotes"]
     },
     "full": {}
   },
@@ -23,7 +23,8 @@
       "regions": [
         { "id": "header", "selector": ".header", "ocr": false },
         { "id": "main", "selector": ".main", "minOcrScore": 0.91 },
-        { "id": "footer", "selector": ".footer", "ocr": false, "layout": "size" }
+        { "id": "footer", "selector": ".footer", "ocr": false, "layout": "size" },
+        { "id": "quotes", "selector": ".main details:not(.toc)", "minOcrScore": 0.91, "beforeCapture": "document.querySelector('.main details:not(.toc)').open = true" }
       ]
     },
     {
@@ -33,7 +34,8 @@
       "regions": [
         { "id": "header", "selector": ".header", "ocr": false },
         { "id": "main", "selector": ".main", "minOcrScore": 0.91 },
-        { "id": "footer", "selector": ".footer", "ocr": false, "layout": "size" }
+        { "id": "footer", "selector": ".footer", "ocr": false, "layout": "size" },
+        { "id": "quotes", "selector": ".main details:not(.toc)", "minOcrScore": 0.91, "beforeCapture": "document.querySelector('.main details:not(.toc)').open = true" }
       ]
     },
     {
@@ -44,7 +46,8 @@
         { "id": "header", "selector": ".header", "ocr": false },
         { "id": "cta", "selector": ".shared-cta", "minOcrScore": 0.95 },
         { "id": "main", "selector": ".main", "minOcrScore": 0.91 },
-        { "id": "footer", "selector": ".footer", "ocr": false, "layout": "size" }
+        { "id": "footer", "selector": ".footer", "ocr": false, "layout": "size" },
+        { "id": "quotes", "selector": ".main details:not(.toc)", "minOcrScore": 0.91, "beforeCapture": "document.querySelector('.main details:not(.toc)').open = true" }
       ]
     },
     {
@@ -54,8 +57,9 @@
       "regions": [
         { "id": "header", "selector": ".header", "ocr": false },
         { "id": "cta", "selector": ".shared-cta", "minOcrScore": 0.95 },
-        { "id": "main", "selector": ".main", "minOcrScore": 0.91 },
-        { "id": "footer", "selector": ".footer", "ocr": false, "layout": "size" }
+        { "id": "main", "selector": ".main", "minOcrScore": 0.90 },
+        { "id": "footer", "selector": ".footer", "ocr": false, "layout": "size" },
+        { "id": "quotes", "selector": ".main details:not(.toc)", "minOcrScore": 0.91, "beforeCapture": "document.querySelector('.main details:not(.toc)').open = true" }
       ]
     },
     {

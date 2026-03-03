@@ -10,6 +10,10 @@ markup:
     _merge: deep
     tableOfContents:
         ordered: true
+        startLevel: 3
+    goldmark:
+        renderer:
+            unsafe: true
 
 pagination:
     pagerSize: 100
