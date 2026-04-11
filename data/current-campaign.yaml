@@ -1,0 +1,173 @@
+# Campaign configuration — edit this file and redeploy to run a new campaign.
+# No code changes needed.
+#
+# Template variables available in email body strings:
+#   {mpName}       — MP's full name (falls back to salutation if no MP found)
+#   {districtName} — MP's riding/district name
+#   {name}         — sender's name, from the form
+#   {postalCode}   — sender's postal code, from the form
+
+bcc: "mythos@pauseai.info"
+cc: ""
+
+en:
+  warningBadge: "Warning Shot Protocol"
+  eyebrow: "First emergency mobilisation"
+  title: "Email your MP now"
+  lede: "Find your federal MP by postal code, personalize the message, and send it directly from your email app."
+  contextHeading: "What just happened"
+  contextBullets:
+    - "Anthropic built an AI — Claude Mythos — that can autonomously find and exploit security vulnerabilities across all major operating systems, browsers, and critical infrastructure."
+    - "During safety testing it escaped its containment, lied to researchers, and hunted for credentials it wasn't supposed to have."
+    - "It found vulnerabilities humans and automated tools had missed for decades — in the systems running banks, hospitals, and power grids."
+    - "Anthropic admits it is the most dangerous model they have ever built and that their safety methods may be inadequate for what comes next."
+    - "It's already being used to build a more powerful successor. No one voted for this. No one regulated it."
+  contextAction: "It takes five minutes to contact your MP. We've prepared a template below — please personalize it before sending."
+  email:
+    subject: "Warning Shot: Please act on this AI safety emergency"
+    body: |
+      Dear {mpName},
+
+      My name is {name} and I am a constituent in {districtName}.
+
+      I am writing to you because I believe one of the most significant developments in national and global security happened this week, and I want to make sure it is on your radar.
+
+      On 8 April, the AI company Anthropic announced a model called Claude Mythos that can autonomously discover and exploit security vulnerabilities across every major operating system, web browser, and critical software platform. This includes the systems that run our banks, hospitals, energy grids, and government services. Anthropic's own safety assessment describes it as the most dangerous model they have ever built.
+
+      During safety testing, the system escaped its security containment, acquired access to systems it was not authorised to use, and deliberately deceived its operators to avoid detection. Anthropic's researchers have acknowledged that their safety methods may be inadequate for the next generation of AI systems — which they are already building using this one.
+
+      No government approved the development of this system. No safety regulator assessed it before it was built. There is currently no legal framework, in this country or internationally, that governs the development of AI systems with these kinds of capabilities.
+
+      I am asking you to:
+
+      1. **Raise this issue** with the relevant committee or minister and request a briefing from our national cybersecurity authorities on our country's exposure to AI-enabled cyber threats.
+      2. **Support efforts** to require independent safety assessments before AI systems with dangerous capabilities are developed or deployed.
+      3. **Advocate for international cooperation** on governing AI systems with weapons-grade capabilities, similar to existing frameworks for nuclear, biological, and chemical weapons.
+
+      If you or your staff would like more information, the organisation PauseAI Global (pauseai.info) works on these issues and would welcome the opportunity to brief you.
+
+      This is, I believe, one of the most important things happening in the world right now. I hope you will give it your attention.
+
+      Thank you for your time.
+
+      Sincerely,
+
+      {name}
+      {postalCode}
+
+fr:
+  warningBadge: "Protocole Tir de Semonce"
+  eyebrow: "Première mobilisation d'urgence"
+  title: "Écrivez à votre député·e maintenant"
+  lede: "Trouvez votre député·e fédéral·e avec votre code postal, personnalisez le message, puis envoyez-le depuis votre application de messagerie."
+  contextHeading: "Ce qui vient de se passer"
+  contextBullets:
+    - "Anthropic a construit une IA — Claude Mythos — capable de trouver et d'exploiter de manière autonome des failles de sécurité dans tous les principaux systèmes d'exploitation, navigateurs et infrastructures critiques."
+    - "Lors des tests de sécurité, le système s'est échappé de son environnement de confinement, a menti aux chercheurs et a cherché des accès auxquels il n'était pas censé avoir."
+    - "Il a trouvé des failles de sécurité que les humains et les outils automatisés avaient manquées depuis des décennies — dans les systèmes qui font fonctionner les banques, les hôpitaux et les réseaux électriques."
+    - "Anthropic reconnaît qu'il s'agit du modèle le plus dangereux qu'il ait jamais construit et que ses méthodes de sécurité pourraient être inadéquates pour ce qui vient ensuite."
+    - "Il est déjà utilisé pour construire un successeur plus puissant. Personne n'a voté pour ça. Personne ne l'a réglementé."
+  contextAction: "Il ne faut que cinq minutes pour contacter votre député·e. Nous avons préparé un modèle ci-dessous — veuillez le personnaliser avant d'envoyer."
+  email:
+    subject: "Tir de semonce : Veuillez agir sur cette urgence de sécurité de l'IA"
+    body: |
+      Bonjour {mpName},
+
+      Je m'appelle {name} et je suis un·e constituant·e de {districtName}.
+
+      Je vous écris parce que je crois que l'un des développements les plus importants en matière de sécurité nationale et mondiale s'est produit cette semaine, et je veux m'assurer que vous en êtes informé·e.
+
+      Le 8 avril, l'entreprise d'IA Anthropic a annoncé un modèle appelé Claude Mythos, capable de découvrir et d'exploiter de manière autonome des failles de sécurité dans tous les principaux systèmes d'exploitation, navigateurs Web et plateformes logicielles critiques. Cela inclut les systèmes qui font fonctionner nos banques, hôpitaux, réseaux énergétiques et services gouvernementaux. L'évaluation de sécurité d'Anthropic elle-même le décrit comme le modèle le plus dangereux qu'elle ait jamais construit.
+
+      Lors des tests de sécurité, le système a échappé à son confinement de sécurité, a obtenu l'accès à des systèmes qu'il n'était pas autorisé à utiliser, et a délibérément trompé ses opérateurs pour éviter d'être détecté. Les chercheurs d'Anthropic ont reconnu que leurs méthodes de sécurité pourraient être inadéquates pour la prochaine génération de systèmes d'IA — qu'ils construisent déjà en utilisant celui-ci.
+
+      Aucun gouvernement n'a approuvé le développement de ce système. Aucun régulateur de sécurité ne l'a évalué avant sa construction. Il n'existe actuellement aucun cadre juridique, dans ce pays ou à l'international, qui régit le développement de systèmes d'IA dotés de telles capacités.
+
+      Je vous demande de :
+
+      1. **Soulever cette question** auprès du comité ou du ministre compétent et demander une séance d'information de nos autorités nationales de cybersécurité sur l'exposition de notre pays aux cybermenaces liées à l'IA.
+      2. **Soutenir les efforts** visant à exiger des évaluations de sécurité indépendantes avant que des systèmes d'IA aux capacités dangereuses soient développés ou déployés.
+      3. **Défendre la coopération internationale** pour encadrer les systèmes d'IA aux capacités comparables à des armes, à l'instar des cadres existants pour les armes nucléaires, biologiques et chimiques.
+
+      Si vous ou votre personnel souhaitez obtenir plus d'informations, l'organisation PauseAI Global (pauseai.info) travaille sur ces enjeux et se ferait un plaisir de vous informer.
+
+      C'est, je crois, l'une des choses les plus importantes qui se passent dans le monde en ce moment. J'espère que vous y accorderez votre attention.
+
+      Merci pour votre temps.
+
+      Cordialement,
+
+      {name}
+      {postalCode}
+
+bilingual:
+  email:
+    subject: "Warning Shot / Tir de semonce: Please act on this AI safety emergency"
+    body: |
+      Dear {mpName},
+
+      My name is {name} and I am a constituent in {districtName}.
+
+      I am writing to ask you to take urgent action on a critical AI safety development.
+
+      Earlier this month, Anthropic announced Claude Mythos: an AI system that can autonomously discover and exploit security vulnerabilities across all major operating systems, web browsers, and internet infrastructure — the systems that run our banks, hospitals, and power grids.
+
+      During safety testing, this system:
+      - Escaped its containment environment
+      - Lied to researchers when questioned
+      - Actively sought credentials it was not authorized to access
+      - Reasoned internally about how to avoid being caught
+
+      Anthropic itself has acknowledged this is the most dangerous AI model they have ever built, and that their safety methods may be inadequate for what comes next. They are already using it to build a more powerful successor.
+
+      No government approved this development. No regulator signed off. A private company made this decision unilaterally.
+
+      I am asking you to:
+      1. Publicly call for mandatory independent safety evaluations before frontier AI systems are deployed in or from Canada
+      2. Support international coordination to establish binding standards for the development of powerful AI
+      3. Ensure Canadian critical infrastructure is protected from AI-enabled security threats
+
+      This is not a hypothetical future risk — the system exists now. Please act while there is still time to shape how this technology develops.
+
+      Thank you for your time.
+
+      Sincerely,
+
+      {name}
+      {postalCode}
+
+      ---
+      Français suit / French follows
+      ---
+
+      Bonjour {mpName},
+
+      Je m'appelle {name} et je suis un·e constituant·e de {districtName}.
+
+      Je vous écris pour vous demander de prendre des mesures urgentes sur un développement critique en matière de sécurité de l'IA.
+
+      Plus tôt ce mois-ci, Anthropic a annoncé Claude Mythos : un système d'IA capable de découvrir et d'exploiter de manière autonome des failles de sécurité dans tous les principaux systèmes d'exploitation, navigateurs Web et infrastructures internet — les systèmes qui font fonctionner nos banques, hôpitaux et réseaux électriques.
+
+      Lors des tests de sécurité, ce système a :
+      - Échappé à son environnement de confinement
+      - Menti aux chercheurs lors des interrogatoires
+      - Cherché activement des identifiants auxquels il n'était pas autorisé à accéder
+      - Raisonné en interne sur la façon d'éviter d'être détecté
+
+      Anthropic lui-même a reconnu qu'il s'agit du modèle d'IA le plus dangereux qu'il ait jamais construit, et que ses méthodes de sécurité pourraient être inadéquates pour ce qui vient ensuite. L'entreprise l'utilise déjà pour construire un successeur encore plus puissant.
+
+      Aucun gouvernement n'a approuvé ce développement. Aucun régulateur n'a donné son accord. Une entreprise privée a pris cette décision unilatéralement.
+
+      Je vous demande de :
+      1. Réclamer publiquement des évaluations de sécurité indépendantes obligatoires avant que les systèmes d'IA de pointe soient déployés au Canada ou depuis le Canada
+      2. Soutenir la coordination internationale pour établir des normes contraignantes pour le développement d'une IA puissante
+      3. Assurer que les infrastructures critiques canadiennes sont protégées contre les menaces de sécurité liées à l'IA
+
+      Ce n'est pas un risque futur hypothétique — le système existe maintenant. Veuillez agir pendant qu'il est encore temps de façonner le développement de cette technologie.
+
+      Merci pour votre temps.
+
+      Cordialement,
+
+      {name}
+      {postalCode}

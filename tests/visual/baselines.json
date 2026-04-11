@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-10T00:37:07.167Z",
+  "generatedAt": "2026-04-11T23:18:54.089Z",
   "entries": [
     {
       "page": "/en/",
@@ -24,7 +24,7 @@
       },
       "bbox": {
         "x": 90,
-        "y": 361,
+        "y": 2893.53,
         "width": 1100,
         "height": 76
       },
@@ -69,28 +69,42 @@
       "device": "desktop",
       "mode": "dark",
       "region": "main",
-      "text": "Join our Discord. PauseAI local communities in Canada: Montréal If you are organizing a local pauseai community in Canada and want to be added to this list, please email nik at nicolas.m.lacombe@gmail.com.",
+      "text": "⚠ WARNING SHOT PROTOCOL ⚠ FIRST EMERGENCY MOBILISATION Email your MP now Find your federal MP by postal code, personalize the message, and send it directly from your email app. What just happened Anthropic built an AI — Claude Mythos — that can autonomously find and exploit security vulnerabilities across all major operating systems, browsers, and critical infrastructure. During safety testing it escaped its containment, lied to researchers, and hunted for credentials it wasn't supposed to have. It found vulnerabilities humans and automated tools had missed for decades — in the systems running banks, hospitals, and power grids. Anthropic admits it is the most dangerous model they have ever built and that their safety methods may be inadequate for what comes next. It's already being used to build a more powerful successor. No one voted for this. No one regulated it. It takes five minutes to contact your MP. We've prepared a template below — please personalize it before sending. Your name Postal code Use your full Canadian postal code, for example H2X 1Y4. Find my MP The result is a best match. Please review before sending. Your MP Draft language EN + FR EN only FR seulement To Cc Bcc Subject Body Tip: once your email app opens, bold the three numbered action items for emphasis. Open in your email app Copy email text Join our Discord. PauseAI local communities in Canada: Montréal Toronto If you are organizing a local pauseai community in Canada and want to be added to this list, please email nik at nicolas.m.lacombe@gmail.com.",
       "structure": {
         "tagCounts": {
-          "a": 3,
-          "li": 1,
+          "a": 4,
+          "button": 3,
+          "div": 19,
+          "fieldset": 1,
+          "form": 1,
+          "h2": 1,
+          "h3": 2,
+          "img": 1,
+          "input": 9,
+          "label": 10,
+          "legend": 1,
+          "li": 7,
           "nav": 1,
-          "p": 3,
-          "ul": 1
+          "p": 9,
+          "script": 1,
+          "section": 1,
+          "span": 4,
+          "textarea": 1,
+          "ul": 2
         },
-        "linkCount": 3,
-        "imageCount": 0,
-        "buttonCount": 0,
-        "headingCount": 0,
-        "listItemCount": 1,
-        "elementCount": 9,
-        "textLength": 205
+        "linkCount": 4,
+        "imageCount": 1,
+        "buttonCount": 3,
+        "headingCount": 3,
+        "listItemCount": 7,
+        "elementCount": 78,
+        "textLength": 1550
       },
       "bbox": {
         "x": 90,
-        "y": 102.25,
+        "y": 130.94,
         "width": 1100,
-        "height": 236.25
+        "height": 2871.09
       },
       "image": "tests/visual/baselines/home-en/main/desktop-dark.png"
     },
@@ -117,7 +131,7 @@
       },
       "bbox": {
         "x": 90,
-        "y": 361,
+        "y": 2893.53,
         "width": 1100,
         "height": 76
       },
@@ -162,28 +176,42 @@
       "device": "desktop",
       "mode": "light",
       "region": "main",
-      "text": "Join our Discord. PauseAI local communities in Canada: Montréal If you are organizing a local pauseai community in Canada and want to be added to this list, please email nik at nicolas.m.lacombe@gmail.com.",
+      "text": "⚠ WARNING SHOT PROTOCOL ⚠ FIRST EMERGENCY MOBILISATION Email your MP now Find your federal MP by postal code, personalize the message, and send it directly from your email app. What just happened Anthropic built an AI — Claude Mythos — that can autonomously find and exploit security vulnerabilities across all major operating systems, browsers, and critical infrastructure. During safety testing it escaped its containment, lied to researchers, and hunted for credentials it wasn't supposed to have. It found vulnerabilities humans and automated tools had missed for decades — in the systems running banks, hospitals, and power grids. Anthropic admits it is the most dangerous model they have ever built and that their safety methods may be inadequate for what comes next. It's already being used to build a more powerful successor. No one voted for this. No one regulated it. It takes five minutes to contact your MP. We've prepared a template below — please personalize it before sending. Your name Postal code Use your full Canadian postal code, for example H2X 1Y4. Find my MP The result is a best match. Please review before sending. Your MP Draft language EN + FR EN only FR seulement To Cc Bcc Subject Body Tip: once your email app opens, bold the three numbered action items for emphasis. Open in your email app Copy email text Join our Discord. PauseAI local communities in Canada: Montréal Toronto If you are organizing a local pauseai community in Canada and want to be added to this list, please email nik at nicolas.m.lacombe@gmail.com.",
       "structure": {
         "tagCounts": {
-          "a": 3,
-          "li": 1,
+          "a": 4,
+          "button": 3,
+          "div": 19,
+          "fieldset": 1,
+          "form": 1,
+          "h2": 1,
+          "h3": 2,
+          "img": 1,
+          "input": 9,
+          "label": 10,
+          "legend": 1,
+          "li": 7,
           "nav": 1,
-          "p": 3,
-          "ul": 1
+          "p": 9,
+          "script": 1,
+          "section": 1,
+          "span": 4,
+          "textarea": 1,
+          "ul": 2
         },
-        "linkCount": 3,
-        "imageCount": 0,
-        "buttonCount": 0,
-        "headingCount": 0,
-        "listItemCount": 1,
-        "elementCount": 9,
-        "textLength": 205
+        "linkCount": 4,
+        "imageCount": 1,
+        "buttonCount": 3,
+        "headingCount": 3,
+        "listItemCount": 7,
+        "elementCount": 78,
+        "textLength": 1550
       },
       "bbox": {
         "x": 90,
-        "y": 102.25,
+        "y": 130.94,
         "width": 1100,
-        "height": 236.25
+        "height": 2871.09
       },
       "image": "tests/visual/baselines/home-en/main/desktop-light.png"
     },
@@ -210,7 +238,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 331.88,
+        "y": 3624.86,
         "width": 358,
         "height": 111.25
       },
@@ -255,28 +283,42 @@
       "device": "iphone-13",
       "mode": "dark",
       "region": "main",
-      "text": "Join our Discord. PauseAI local communities in Canada: Montréal If you are organizing a local pauseai community in Canada and want to be added to this list, please email nik at nicolas.m.lacombe@gmail.com.",
+      "text": "⚠ WARNING SHOT PROTOCOL ⚠ FIRST EMERGENCY MOBILISATION Email your MP now Find your federal MP by postal code, personalize the message, and send it directly from your email app. What just happened Anthropic built an AI — Claude Mythos — that can autonomously find and exploit security vulnerabilities across all major operating systems, browsers, and critical infrastructure. During safety testing it escaped its containment, lied to researchers, and hunted for credentials it wasn't supposed to have. It found vulnerabilities humans and automated tools had missed for decades — in the systems running banks, hospitals, and power grids. Anthropic admits it is the most dangerous model they have ever built and that their safety methods may be inadequate for what comes next. It's already being used to build a more powerful successor. No one voted for this. No one regulated it. It takes five minutes to contact your MP. We've prepared a template below — please personalize it before sending. Your name Postal code Use your full Canadian postal code, for example H2X 1Y4. Find my MP The result is a best match. Please review before sending. Your MP Draft language EN + FR EN only FR seulement To Cc Bcc Subject Body Tip: once your email app opens, bold the three numbered action items for emphasis. Open in your email app Copy email text Join our Discord. PauseAI local communities in Canada: Montréal Toronto If you are organizing a local pauseai community in Canada and want to be added to this list, please email nik at nicolas.m.lacombe@gmail.com.",
       "structure": {
         "tagCounts": {
-          "a": 3,
-          "li": 1,
+          "a": 4,
+          "button": 3,
+          "div": 19,
+          "fieldset": 1,
+          "form": 1,
+          "h2": 1,
+          "h3": 2,
+          "img": 1,
+          "input": 9,
+          "label": 10,
+          "legend": 1,
+          "li": 7,
           "nav": 1,
-          "p": 3,
-          "ul": 1
+          "p": 9,
+          "script": 1,
+          "section": 1,
+          "span": 4,
+          "textarea": 1,
+          "ul": 2
         },
-        "linkCount": 3,
-        "imageCount": 0,
-        "buttonCount": 0,
-        "headingCount": 0,
-        "listItemCount": 1,
-        "elementCount": 9,
-        "textLength": 205
+        "linkCount": 4,
+        "imageCount": 1,
+        "buttonCount": 3,
+        "headingCount": 3,
+        "listItemCount": 7,
+        "elementCount": 78,
+        "textLength": 1550
       },
       "bbox": {
         "x": 16,
-        "y": 57.8,
+        "y": 74.91,
         "width": 358,
-        "height": 255.19
+        "height": 3605.06
       },
       "image": "tests/visual/baselines/home-en/main/iphone-13-dark.png"
     },
@@ -303,7 +345,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 331.88,
+        "y": 3624.86,
         "width": 358,
         "height": 111.25
       },
@@ -348,28 +390,42 @@
       "device": "iphone-13",
       "mode": "light",
       "region": "main",
-      "text": "Join our Discord. PauseAI local communities in Canada: Montréal If you are organizing a local pauseai community in Canada and want to be added to this list, please email nik at nicolas.m.lacombe@gmail.com.",
+      "text": "⚠ WARNING SHOT PROTOCOL ⚠ FIRST EMERGENCY MOBILISATION Email your MP now Find your federal MP by postal code, personalize the message, and send it directly from your email app. What just happened Anthropic built an AI — Claude Mythos — that can autonomously find and exploit security vulnerabilities across all major operating systems, browsers, and critical infrastructure. During safety testing it escaped its containment, lied to researchers, and hunted for credentials it wasn't supposed to have. It found vulnerabilities humans and automated tools had missed for decades — in the systems running banks, hospitals, and power grids. Anthropic admits it is the most dangerous model they have ever built and that their safety methods may be inadequate for what comes next. It's already being used to build a more powerful successor. No one voted for this. No one regulated it. It takes five minutes to contact your MP. We've prepared a template below — please personalize it before sending. Your name Postal code Use your full Canadian postal code, for example H2X 1Y4. Find my MP The result is a best match. Please review before sending. Your MP Draft language EN + FR EN only FR seulement To Cc Bcc Subject Body Tip: once your email app opens, bold the three numbered action items for emphasis. Open in your email app Copy email text Join our Discord. PauseAI local communities in Canada: Montréal Toronto If you are organizing a local pauseai community in Canada and want to be added to this list, please email nik at nicolas.m.lacombe@gmail.com.",
       "structure": {
         "tagCounts": {
-          "a": 3,
-          "li": 1,
+          "a": 4,
+          "button": 3,
+          "div": 19,
+          "fieldset": 1,
+          "form": 1,
+          "h2": 1,
+          "h3": 2,
+          "img": 1,
+          "input": 9,
+          "label": 10,
+          "legend": 1,
+          "li": 7,
           "nav": 1,
-          "p": 3,
-          "ul": 1
+          "p": 9,
+          "script": 1,
+          "section": 1,
+          "span": 4,
+          "textarea": 1,
+          "ul": 2
         },
-        "linkCount": 3,
-        "imageCount": 0,
-        "buttonCount": 0,
-        "headingCount": 0,
-        "listItemCount": 1,
-        "elementCount": 9,
-        "textLength": 205
+        "linkCount": 4,
+        "imageCount": 1,
+        "buttonCount": 3,
+        "headingCount": 3,
+        "listItemCount": 7,
+        "elementCount": 78,
+        "textLength": 1550
       },
       "bbox": {
         "x": 16,
-        "y": 57.8,
+        "y": 74.91,
         "width": 358,
-        "height": 255.19
+        "height": 3605.06
       },
       "image": "tests/visual/baselines/home-en/main/iphone-13-light.png"
     },
@@ -396,7 +452,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 331.88,
+        "y": 3577.63,
         "width": 361,
         "height": 111.25
       },
@@ -441,28 +497,42 @@
       "device": "pixel-5",
       "mode": "dark",
       "region": "main",
-      "text": "Join our Discord. PauseAI local communities in Canada: Montréal If you are organizing a local pauseai community in Canada and want to be added to this list, please email nik at nicolas.m.lacombe@gmail.com.",
+      "text": "⚠ WARNING SHOT PROTOCOL ⚠ FIRST EMERGENCY MOBILISATION Email your MP now Find your federal MP by postal code, personalize the message, and send it directly from your email app. What just happened Anthropic built an AI — Claude Mythos — that can autonomously find and exploit security vulnerabilities across all major operating systems, browsers, and critical infrastructure. During safety testing it escaped its containment, lied to researchers, and hunted for credentials it wasn't supposed to have. It found vulnerabilities humans and automated tools had missed for decades — in the systems running banks, hospitals, and power grids. Anthropic admits it is the most dangerous model they have ever built and that their safety methods may be inadequate for what comes next. It's already being used to build a more powerful successor. No one voted for this. No one regulated it. It takes five minutes to contact your MP. We've prepared a template below — please personalize it before sending. Your name Postal code Use your full Canadian postal code, for example H2X 1Y4. Find my MP The result is a best match. Please review before sending. Your MP Draft language EN + FR EN only FR seulement To Cc Bcc Subject Body Tip: once your email app opens, bold the three numbered action items for emphasis. Open in your email app Copy email text Join our Discord. PauseAI local communities in Canada: Montréal Toronto If you are organizing a local pauseai community in Canada and want to be added to this list, please email nik at nicolas.m.lacombe@gmail.com.",
       "structure": {
         "tagCounts": {
-          "a": 3,
-          "li": 1,
+          "a": 4,
+          "button": 3,
+          "div": 19,
+          "fieldset": 1,
+          "form": 1,
+          "h2": 1,
+          "h3": 2,
+          "img": 1,
+          "input": 9,
+          "label": 10,
+          "legend": 1,
+          "li": 7,
           "nav": 1,
-          "p": 3,
-          "ul": 1
+          "p": 9,
+          "script": 1,
+          "section": 1,
+          "span": 4,
+          "textarea": 1,
+          "ul": 2
         },
-        "linkCount": 3,
-        "imageCount": 0,
-        "buttonCount": 0,
-        "headingCount": 0,
-        "listItemCount": 1,
-        "elementCount": 9,
-        "textLength": 205
+        "linkCount": 4,
+        "imageCount": 1,
+        "buttonCount": 3,
+        "headingCount": 3,
+        "listItemCount": 7,
+        "elementCount": 78,
+        "textLength": 1550
       },
       "bbox": {
         "x": 16,
-        "y": 57.8,
+        "y": 74.91,
         "width": 361,
-        "height": 255.19
+        "height": 3557.83
       },
       "image": "tests/visual/baselines/home-en/main/pixel-5-dark.png"
     },
@@ -489,7 +559,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 331.88,
+        "y": 3577.63,
         "width": 361,
         "height": 111.25
       },
@@ -534,28 +604,42 @@
       "device": "pixel-5",
       "mode": "light",
       "region": "main",
-      "text": "Join our Discord. PauseAI local communities in Canada: Montréal If you are organizing a local pauseai community in Canada and want to be added to this list, please email nik at nicolas.m.lacombe@gmail.com.",
+      "text": "⚠ WARNING SHOT PROTOCOL ⚠ FIRST EMERGENCY MOBILISATION Email your MP now Find your federal MP by postal code, personalize the message, and send it directly from your email app. What just happened Anthropic built an AI — Claude Mythos — that can autonomously find and exploit security vulnerabilities across all major operating systems, browsers, and critical infrastructure. During safety testing it escaped its containment, lied to researchers, and hunted for credentials it wasn't supposed to have. It found vulnerabilities humans and automated tools had missed for decades — in the systems running banks, hospitals, and power grids. Anthropic admits it is the most dangerous model they have ever built and that their safety methods may be inadequate for what comes next. It's already being used to build a more powerful successor. No one voted for this. No one regulated it. It takes five minutes to contact your MP. We've prepared a template below — please personalize it before sending. Your name Postal code Use your full Canadian postal code, for example H2X 1Y4. Find my MP The result is a best match. Please review before sending. Your MP Draft language EN + FR EN only FR seulement To Cc Bcc Subject Body Tip: once your email app opens, bold the three numbered action items for emphasis. Open in your email app Copy email text Join our Discord. PauseAI local communities in Canada: Montréal Toronto If you are organizing a local pauseai community in Canada and want to be added to this list, please email nik at nicolas.m.lacombe@gmail.com.",
       "structure": {
         "tagCounts": {
-          "a": 3,
-          "li": 1,
+          "a": 4,
+          "button": 3,
+          "div": 19,
+          "fieldset": 1,
+          "form": 1,
+          "h2": 1,
+          "h3": 2,
+          "img": 1,
+          "input": 9,
+          "label": 10,
+          "legend": 1,
+          "li": 7,
           "nav": 1,
-          "p": 3,
-          "ul": 1
+          "p": 9,
+          "script": 1,
+          "section": 1,
+          "span": 4,
+          "textarea": 1,
+          "ul": 2
         },
-        "linkCount": 3,
-        "imageCount": 0,
-        "buttonCount": 0,
-        "headingCount": 0,
-        "listItemCount": 1,
-        "elementCount": 9,
-        "textLength": 205
+        "linkCount": 4,
+        "imageCount": 1,
+        "buttonCount": 3,
+        "headingCount": 3,
+        "listItemCount": 7,
+        "elementCount": 78,
+        "textLength": 1550
       },
       "bbox": {
         "x": 16,
-        "y": 57.8,
+        "y": 74.91,
         "width": 361,
-        "height": 255.19
+        "height": 3557.83
       },
       "image": "tests/visual/baselines/home-en/main/pixel-5-light.png"
     },
@@ -582,7 +666,7 @@
       },
       "bbox": {
         "x": 90,
-        "y": 1365.97,
+        "y": 3995.75,
         "width": 1100,
         "height": 76
       },
@@ -627,35 +711,46 @@
       "device": "desktop",
       "mode": "dark",
       "region": "main",
-      "text": "Action (MTL) Table of Contents Here’s a list of actions you can do right now to help. To be notified of new action opportunities, subscribe to our mailing list, by sending an email to pauseai-mtl-subscribe@lists.riseup.net. Quick actions Read more about pauseai on pauseai’s website Example, fully read https://pauseai.info/proposal Fill out the pauseai signup form: https://pauseai.info/join Sign the pauseai statement Sign other non-pauseai petitions International AI Treaty Statement on Superintelligence Demand responsible AI Share about ai risk on your social media. Find one of these videos you agree with and share it, or sharing https://pauseai.info can be a good start. Highlights Nothing for now. Generic actions Send email to local politician, saying why you care about AI https://pauseai.info/email-builder Call your politicians Write an opinion piece or news piece to local city newspapers, or in your university’s newspaper More More ideas on https://pauseai.info/action Online actions (petitions, social media campaigns, letter-writing to officials) Offline activities (local protests, community meetings, awareness events) Talk to friends/coworkers/partners/etc about ai safety/regulation / pauseai mtl Go to local meetups/groups to talk about ai safety/regulation / pauseai mtl",
+      "text": "Action (MTL) Table of Contents ⚠ WARNING SHOT PROTOCOL ⚠ FIRST EMERGENCY MOBILISATION Email your MP now Find your federal MP by postal code, personalize the message, and send it directly from your email app. What just happened Anthropic built an AI — Claude Mythos — that can autonomously find and exploit security vulnerabilities across all major operating systems, browsers, and critical infrastructure. During safety testing it escaped its containment, lied to researchers, and hunted for credentials it wasn't supposed to have. It found vulnerabilities humans and automated tools had missed for decades — in the systems running banks, hospitals, and power grids. Anthropic admits it is the most dangerous model they have ever built and that their safety methods may be inadequate for what comes next. It's already being used to build a more powerful successor. No one voted for this. No one regulated it. It takes five minutes to contact your MP. We've prepared a template below — please personalize it before sending. Your name Postal code Use your full Canadian postal code, for example H2X 1Y4. Find my MP The result is a best match. Please review before sending. Your MP Draft language EN + FR EN only FR seulement To Cc Bcc Subject Body Tip: once your email app opens, bold the three numbered action items for emphasis. Open in your email app Copy email text Here’s a list of actions you can do right now to help. To be notified of new action opportunities, subscribe to our mailing list, by sending an email to pauseai-mtl-subscribe@lists.riseup.net. Quick actions Read more about pauseai on pauseai’s website Example, fully read https://pauseai.info/proposal Fill out the pauseai signup form: https://pauseai.info/join Sign the pauseai statement Sign other non-pauseai petitions International AI Treaty Statement on Superintelligence Demand responsible AI Share about ai risk on your social media. Find one of these videos you agree with and share it, or sharing https://pauseai.info can be a good start. Highlights Nothing for now. Generic actions Send email to local politician, saying why you care about AI https://pauseai.info/email-builder Call your politicians Write an opinion piece or news piece to local city newspapers, or in your university’s newspaper More More ideas on https://pauseai.info/action Online actions (petitions, social media campaigns, letter-writing to officials) Offline activities (local protests, community meetings, awareness events) Talk to friends/coworkers/partners/etc about ai safety/regulation / pauseai mtl Go to local meetups/groups to talk about ai safety/regulation / pauseai mtl",
       "structure": {
         "tagCounts": {
           "a": 19,
+          "button": 3,
           "details": 1,
+          "div": 19,
+          "fieldset": 1,
+          "form": 1,
           "h1": 1,
-          "h3": 4,
-          "input": 8,
-          "li": 23,
+          "h2": 1,
+          "h3": 6,
+          "img": 1,
+          "input": 17,
+          "label": 10,
+          "legend": 1,
+          "li": 28,
           "nav": 1,
           "ol": 2,
-          "p": 4,
-          "span": 4,
+          "p": 10,
+          "script": 1,
+          "section": 1,
+          "span": 8,
           "summary": 1,
-          "ul": 8
+          "textarea": 1,
+          "ul": 9
         },
         "linkCount": 19,
-        "imageCount": 0,
-        "buttonCount": 0,
-        "headingCount": 5,
-        "listItemCount": 23,
-        "elementCount": 76,
-        "textLength": 1294
+        "imageCount": 1,
+        "buttonCount": 3,
+        "headingCount": 8,
+        "listItemCount": 28,
+        "elementCount": 143,
+        "textLength": 2631
       },
       "bbox": {
         "x": 90,
         "y": 109.89,
         "width": 1100,
-        "height": 1343.58
+        "height": 3973.36
       },
       "image": "tests/visual/baselines/action-mtl-en/main/desktop-dark.png"
     },
@@ -682,7 +777,7 @@
       },
       "bbox": {
         "x": 90,
-        "y": 1365.97,
+        "y": 3995.75,
         "width": 1100,
         "height": 76
       },
@@ -727,35 +822,46 @@
       "device": "desktop",
       "mode": "light",
       "region": "main",
-      "text": "Action (MTL) Table of Contents Here’s a list of actions you can do right now to help. To be notified of new action opportunities, subscribe to our mailing list, by sending an email to pauseai-mtl-subscribe@lists.riseup.net. Quick actions Read more about pauseai on pauseai’s website Example, fully read https://pauseai.info/proposal Fill out the pauseai signup form: https://pauseai.info/join Sign the pauseai statement Sign other non-pauseai petitions International AI Treaty Statement on Superintelligence Demand responsible AI Share about ai risk on your social media. Find one of these videos you agree with and share it, or sharing https://pauseai.info can be a good start. Highlights Nothing for now. Generic actions Send email to local politician, saying why you care about AI https://pauseai.info/email-builder Call your politicians Write an opinion piece or news piece to local city newspapers, or in your university’s newspaper More More ideas on https://pauseai.info/action Online actions (petitions, social media campaigns, letter-writing to officials) Offline activities (local protests, community meetings, awareness events) Talk to friends/coworkers/partners/etc about ai safety/regulation / pauseai mtl Go to local meetups/groups to talk about ai safety/regulation / pauseai mtl",
+      "text": "Action (MTL) Table of Contents ⚠ WARNING SHOT PROTOCOL ⚠ FIRST EMERGENCY MOBILISATION Email your MP now Find your federal MP by postal code, personalize the message, and send it directly from your email app. What just happened Anthropic built an AI — Claude Mythos — that can autonomously find and exploit security vulnerabilities across all major operating systems, browsers, and critical infrastructure. During safety testing it escaped its containment, lied to researchers, and hunted for credentials it wasn't supposed to have. It found vulnerabilities humans and automated tools had missed for decades — in the systems running banks, hospitals, and power grids. Anthropic admits it is the most dangerous model they have ever built and that their safety methods may be inadequate for what comes next. It's already being used to build a more powerful successor. No one voted for this. No one regulated it. It takes five minutes to contact your MP. We've prepared a template below — please personalize it before sending. Your name Postal code Use your full Canadian postal code, for example H2X 1Y4. Find my MP The result is a best match. Please review before sending. Your MP Draft language EN + FR EN only FR seulement To Cc Bcc Subject Body Tip: once your email app opens, bold the three numbered action items for emphasis. Open in your email app Copy email text Here’s a list of actions you can do right now to help. To be notified of new action opportunities, subscribe to our mailing list, by sending an email to pauseai-mtl-subscribe@lists.riseup.net. Quick actions Read more about pauseai on pauseai’s website Example, fully read https://pauseai.info/proposal Fill out the pauseai signup form: https://pauseai.info/join Sign the pauseai statement Sign other non-pauseai petitions International AI Treaty Statement on Superintelligence Demand responsible AI Share about ai risk on your social media. Find one of these videos you agree with and share it, or sharing https://pauseai.info can be a good start. Highlights Nothing for now. Generic actions Send email to local politician, saying why you care about AI https://pauseai.info/email-builder Call your politicians Write an opinion piece or news piece to local city newspapers, or in your university’s newspaper More More ideas on https://pauseai.info/action Online actions (petitions, social media campaigns, letter-writing to officials) Offline activities (local protests, community meetings, awareness events) Talk to friends/coworkers/partners/etc about ai safety/regulation / pauseai mtl Go to local meetups/groups to talk about ai safety/regulation / pauseai mtl",
       "structure": {
         "tagCounts": {
           "a": 19,
+          "button": 3,
           "details": 1,
+          "div": 19,
+          "fieldset": 1,
+          "form": 1,
           "h1": 1,
-          "h3": 4,
-          "input": 8,
-          "li": 23,
+          "h2": 1,
+          "h3": 6,
+          "img": 1,
+          "input": 17,
+          "label": 10,
+          "legend": 1,
+          "li": 28,
           "nav": 1,
           "ol": 2,
-          "p": 4,
-          "span": 4,
+          "p": 10,
+          "script": 1,
+          "section": 1,
+          "span": 8,
           "summary": 1,
-          "ul": 8
+          "textarea": 1,
+          "ul": 9
         },
         "linkCount": 19,
-        "imageCount": 0,
-        "buttonCount": 0,
-        "headingCount": 5,
-        "listItemCount": 23,
-        "elementCount": 76,
-        "textLength": 1294
+        "imageCount": 1,
+        "buttonCount": 3,
+        "headingCount": 8,
+        "listItemCount": 28,
+        "elementCount": 143,
+        "textLength": 2631
       },
       "bbox": {
         "x": 90,
         "y": 109.89,
         "width": 1100,
-        "height": 1343.58
+        "height": 3973.36
       },
       "image": "tests/visual/baselines/action-mtl-en/main/desktop-light.png"
     },
@@ -782,7 +888,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 1744.45,
+        "y": 5083.08,
         "width": 358,
         "height": 111.25
       },
@@ -827,35 +933,46 @@
       "device": "iphone-13",
       "mode": "dark",
       "region": "main",
-      "text": "Action (MTL) Table of Contents Here’s a list of actions you can do right now to help. To be notified of new action opportunities, subscribe to our mailing list, by sending an email to pauseai-mtl-subscribe@lists.riseup.net. Quick actions Read more about pauseai on pauseai’s website Example, fully read https://pauseai.info/proposal Fill out the pauseai signup form: https://pauseai.info/join Sign the pauseai statement Sign other non-pauseai petitions International AI Treaty Statement on Superintelligence Demand responsible AI Share about ai risk on your social media. Find one of these videos you agree with and share it, or sharing https://pauseai.info can be a good start. Highlights Nothing for now. Generic actions Send email to local politician, saying why you care about AI https://pauseai.info/email-builder Call your politicians Write an opinion piece or news piece to local city newspapers, or in your university’s newspaper More More ideas on https://pauseai.info/action Online actions (petitions, social media campaigns, letter-writing to officials) Offline activities (local protests, community meetings, awareness events) Talk to friends/coworkers/partners/etc about ai safety/regulation / pauseai mtl Go to local meetups/groups to talk about ai safety/regulation / pauseai mtl",
+      "text": "Action (MTL) Table of Contents ⚠ WARNING SHOT PROTOCOL ⚠ FIRST EMERGENCY MOBILISATION Email your MP now Find your federal MP by postal code, personalize the message, and send it directly from your email app. What just happened Anthropic built an AI — Claude Mythos — that can autonomously find and exploit security vulnerabilities across all major operating systems, browsers, and critical infrastructure. During safety testing it escaped its containment, lied to researchers, and hunted for credentials it wasn't supposed to have. It found vulnerabilities humans and automated tools had missed for decades — in the systems running banks, hospitals, and power grids. Anthropic admits it is the most dangerous model they have ever built and that their safety methods may be inadequate for what comes next. It's already being used to build a more powerful successor. No one voted for this. No one regulated it. It takes five minutes to contact your MP. We've prepared a template below — please personalize it before sending. Your name Postal code Use your full Canadian postal code, for example H2X 1Y4. Find my MP The result is a best match. Please review before sending. Your MP Draft language EN + FR EN only FR seulement To Cc Bcc Subject Body Tip: once your email app opens, bold the three numbered action items for emphasis. Open in your email app Copy email text Here’s a list of actions you can do right now to help. To be notified of new action opportunities, subscribe to our mailing list, by sending an email to pauseai-mtl-subscribe@lists.riseup.net. Quick actions Read more about pauseai on pauseai’s website Example, fully read https://pauseai.info/proposal Fill out the pauseai signup form: https://pauseai.info/join Sign the pauseai statement Sign other non-pauseai petitions International AI Treaty Statement on Superintelligence Demand responsible AI Share about ai risk on your social media. Find one of these videos you agree with and share it, or sharing https://pauseai.info can be a good start. Highlights Nothing for now. Generic actions Send email to local politician, saying why you care about AI https://pauseai.info/email-builder Call your politicians Write an opinion piece or news piece to local city newspapers, or in your university’s newspaper More More ideas on https://pauseai.info/action Online actions (petitions, social media campaigns, letter-writing to officials) Offline activities (local protests, community meetings, awareness events) Talk to friends/coworkers/partners/etc about ai safety/regulation / pauseai mtl Go to local meetups/groups to talk about ai safety/regulation / pauseai mtl",
       "structure": {
         "tagCounts": {
           "a": 19,
+          "button": 3,
           "details": 1,
+          "div": 19,
+          "fieldset": 1,
+          "form": 1,
           "h1": 1,
-          "h3": 4,
-          "input": 8,
-          "li": 23,
+          "h2": 1,
+          "h3": 6,
+          "img": 1,
+          "input": 17,
+          "label": 10,
+          "legend": 1,
+          "li": 28,
           "nav": 1,
           "ol": 2,
-          "p": 4,
-          "span": 4,
+          "p": 10,
+          "script": 1,
+          "section": 1,
+          "span": 8,
           "summary": 1,
-          "ul": 8
+          "textarea": 1,
+          "ul": 9
         },
         "linkCount": 19,
-        "imageCount": 0,
-        "buttonCount": 0,
-        "headingCount": 5,
-        "listItemCount": 23,
-        "elementCount": 76,
-        "textLength": 1294
+        "imageCount": 1,
+        "buttonCount": 3,
+        "headingCount": 8,
+        "listItemCount": 28,
+        "elementCount": 143,
+        "textLength": 2631
       },
       "bbox": {
         "x": 16,
         "y": 64.22,
         "width": 358,
-        "height": 1724.34
+        "height": 5062.97
       },
       "image": "tests/visual/baselines/action-mtl-en/main/iphone-13-dark.png"
     },
@@ -882,7 +999,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 1744.45,
+        "y": 5083.08,
         "width": 358,
         "height": 111.25
       },
@@ -927,35 +1044,46 @@
       "device": "iphone-13",
       "mode": "light",
       "region": "main",
-      "text": "Action (MTL) Table of Contents Here’s a list of actions you can do right now to help. To be notified of new action opportunities, subscribe to our mailing list, by sending an email to pauseai-mtl-subscribe@lists.riseup.net. Quick actions Read more about pauseai on pauseai’s website Example, fully read https://pauseai.info/proposal Fill out the pauseai signup form: https://pauseai.info/join Sign the pauseai statement Sign other non-pauseai petitions International AI Treaty Statement on Superintelligence Demand responsible AI Share about ai risk on your social media. Find one of these videos you agree with and share it, or sharing https://pauseai.info can be a good start. Highlights Nothing for now. Generic actions Send email to local politician, saying why you care about AI https://pauseai.info/email-builder Call your politicians Write an opinion piece or news piece to local city newspapers, or in your university’s newspaper More More ideas on https://pauseai.info/action Online actions (petitions, social media campaigns, letter-writing to officials) Offline activities (local protests, community meetings, awareness events) Talk to friends/coworkers/partners/etc about ai safety/regulation / pauseai mtl Go to local meetups/groups to talk about ai safety/regulation / pauseai mtl",
+      "text": "Action (MTL) Table of Contents ⚠ WARNING SHOT PROTOCOL ⚠ FIRST EMERGENCY MOBILISATION Email your MP now Find your federal MP by postal code, personalize the message, and send it directly from your email app. What just happened Anthropic built an AI — Claude Mythos — that can autonomously find and exploit security vulnerabilities across all major operating systems, browsers, and critical infrastructure. During safety testing it escaped its containment, lied to researchers, and hunted for credentials it wasn't supposed to have. It found vulnerabilities humans and automated tools had missed for decades — in the systems running banks, hospitals, and power grids. Anthropic admits it is the most dangerous model they have ever built and that their safety methods may be inadequate for what comes next. It's already being used to build a more powerful successor. No one voted for this. No one regulated it. It takes five minutes to contact your MP. We've prepared a template below — please personalize it before sending. Your name Postal code Use your full Canadian postal code, for example H2X 1Y4. Find my MP The result is a best match. Please review before sending. Your MP Draft language EN + FR EN only FR seulement To Cc Bcc Subject Body Tip: once your email app opens, bold the three numbered action items for emphasis. Open in your email app Copy email text Here’s a list of actions you can do right now to help. To be notified of new action opportunities, subscribe to our mailing list, by sending an email to pauseai-mtl-subscribe@lists.riseup.net. Quick actions Read more about pauseai on pauseai’s website Example, fully read https://pauseai.info/proposal Fill out the pauseai signup form: https://pauseai.info/join Sign the pauseai statement Sign other non-pauseai petitions International AI Treaty Statement on Superintelligence Demand responsible AI Share about ai risk on your social media. Find one of these videos you agree with and share it, or sharing https://pauseai.info can be a good start. Highlights Nothing for now. Generic actions Send email to local politician, saying why you care about AI https://pauseai.info/email-builder Call your politicians Write an opinion piece or news piece to local city newspapers, or in your university’s newspaper More More ideas on https://pauseai.info/action Online actions (petitions, social media campaigns, letter-writing to officials) Offline activities (local protests, community meetings, awareness events) Talk to friends/coworkers/partners/etc about ai safety/regulation / pauseai mtl Go to local meetups/groups to talk about ai safety/regulation / pauseai mtl",
       "structure": {
         "tagCounts": {
           "a": 19,
+          "button": 3,
           "details": 1,
+          "div": 19,
+          "fieldset": 1,
+          "form": 1,
           "h1": 1,
-          "h3": 4,
-          "input": 8,
-          "li": 23,
+          "h2": 1,
+          "h3": 6,
+          "img": 1,
+          "input": 17,
+          "label": 10,
+          "legend": 1,
+          "li": 28,
           "nav": 1,
           "ol": 2,
-          "p": 4,
-          "span": 4,
+          "p": 10,
+          "script": 1,
+          "section": 1,
+          "span": 8,
           "summary": 1,
-          "ul": 8
+          "textarea": 1,
+          "ul": 9
         },
         "linkCount": 19,
-        "imageCount": 0,
-        "buttonCount": 0,
-        "headingCount": 5,
-        "listItemCount": 23,
-        "elementCount": 76,
-        "textLength": 1294
+        "imageCount": 1,
+        "buttonCount": 3,
+        "headingCount": 8,
+        "listItemCount": 28,
+        "elementCount": 143,
+        "textLength": 2631
       },
       "bbox": {
         "x": 16,
         "y": 64.22,
         "width": 358,
-        "height": 1724.34
+        "height": 5062.97
       },
       "image": "tests/visual/baselines/action-mtl-en/main/iphone-13-light.png"
     },
@@ -982,7 +1110,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 1744.45,
+        "y": 5035.84,
         "width": 361,
         "height": 111.25
       },
@@ -1027,35 +1155,46 @@
       "device": "pixel-5",
       "mode": "dark",
       "region": "main",
-      "text": "Action (MTL) Table of Contents Here’s a list of actions you can do right now to help. To be notified of new action opportunities, subscribe to our mailing list, by sending an email to pauseai-mtl-subscribe@lists.riseup.net. Quick actions Read more about pauseai on pauseai’s website Example, fully read https://pauseai.info/proposal Fill out the pauseai signup form: https://pauseai.info/join Sign the pauseai statement Sign other non-pauseai petitions International AI Treaty Statement on Superintelligence Demand responsible AI Share about ai risk on your social media. Find one of these videos you agree with and share it, or sharing https://pauseai.info can be a good start. Highlights Nothing for now. Generic actions Send email to local politician, saying why you care about AI https://pauseai.info/email-builder Call your politicians Write an opinion piece or news piece to local city newspapers, or in your university’s newspaper More More ideas on https://pauseai.info/action Online actions (petitions, social media campaigns, letter-writing to officials) Offline activities (local protests, community meetings, awareness events) Talk to friends/coworkers/partners/etc about ai safety/regulation / pauseai mtl Go to local meetups/groups to talk about ai safety/regulation / pauseai mtl",
+      "text": "Action (MTL) Table of Contents ⚠ WARNING SHOT PROTOCOL ⚠ FIRST EMERGENCY MOBILISATION Email your MP now Find your federal MP by postal code, personalize the message, and send it directly from your email app. What just happened Anthropic built an AI — Claude Mythos — that can autonomously find and exploit security vulnerabilities across all major operating systems, browsers, and critical infrastructure. During safety testing it escaped its containment, lied to researchers, and hunted for credentials it wasn't supposed to have. It found vulnerabilities humans and automated tools had missed for decades — in the systems running banks, hospitals, and power grids. Anthropic admits it is the most dangerous model they have ever built and that their safety methods may be inadequate for what comes next. It's already being used to build a more powerful successor. No one voted for this. No one regulated it. It takes five minutes to contact your MP. We've prepared a template below — please personalize it before sending. Your name Postal code Use your full Canadian postal code, for example H2X 1Y4. Find my MP The result is a best match. Please review before sending. Your MP Draft language EN + FR EN only FR seulement To Cc Bcc Subject Body Tip: once your email app opens, bold the three numbered action items for emphasis. Open in your email app Copy email text Here’s a list of actions you can do right now to help. To be notified of new action opportunities, subscribe to our mailing list, by sending an email to pauseai-mtl-subscribe@lists.riseup.net. Quick actions Read more about pauseai on pauseai’s website Example, fully read https://pauseai.info/proposal Fill out the pauseai signup form: https://pauseai.info/join Sign the pauseai statement Sign other non-pauseai petitions International AI Treaty Statement on Superintelligence Demand responsible AI Share about ai risk on your social media. Find one of these videos you agree with and share it, or sharing https://pauseai.info can be a good start. Highlights Nothing for now. Generic actions Send email to local politician, saying why you care about AI https://pauseai.info/email-builder Call your politicians Write an opinion piece or news piece to local city newspapers, or in your university’s newspaper More More ideas on https://pauseai.info/action Online actions (petitions, social media campaigns, letter-writing to officials) Offline activities (local protests, community meetings, awareness events) Talk to friends/coworkers/partners/etc about ai safety/regulation / pauseai mtl Go to local meetups/groups to talk about ai safety/regulation / pauseai mtl",
       "structure": {
         "tagCounts": {
           "a": 19,
+          "button": 3,
           "details": 1,
+          "div": 19,
+          "fieldset": 1,
+          "form": 1,
           "h1": 1,
-          "h3": 4,
-          "input": 8,
-          "li": 23,
+          "h2": 1,
+          "h3": 6,
+          "img": 1,
+          "input": 17,
+          "label": 10,
+          "legend": 1,
+          "li": 28,
           "nav": 1,
           "ol": 2,
-          "p": 4,
-          "span": 4,
+          "p": 10,
+          "script": 1,
+          "section": 1,
+          "span": 8,
           "summary": 1,
-          "ul": 8
+          "textarea": 1,
+          "ul": 9
         },
         "linkCount": 19,
-        "imageCount": 0,
-        "buttonCount": 0,
-        "headingCount": 5,
-        "listItemCount": 23,
-        "elementCount": 76,
-        "textLength": 1294
+        "imageCount": 1,
+        "buttonCount": 3,
+        "headingCount": 8,
+        "listItemCount": 28,
+        "elementCount": 143,
+        "textLength": 2631
       },
       "bbox": {
         "x": 16,
         "y": 64.22,
         "width": 361,
-        "height": 1724.34
+        "height": 5015.73
       },
       "image": "tests/visual/baselines/action-mtl-en/main/pixel-5-dark.png"
     },
@@ -1082,7 +1221,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 1744.45,
+        "y": 5035.84,
         "width": 361,
         "height": 111.25
       },
@@ -1127,35 +1266,46 @@
       "device": "pixel-5",
       "mode": "light",
       "region": "main",
-      "text": "Action (MTL) Table of Contents Here’s a list of actions you can do right now to help. To be notified of new action opportunities, subscribe to our mailing list, by sending an email to pauseai-mtl-subscribe@lists.riseup.net. Quick actions Read more about pauseai on pauseai’s website Example, fully read https://pauseai.info/proposal Fill out the pauseai signup form: https://pauseai.info/join Sign the pauseai statement Sign other non-pauseai petitions International AI Treaty Statement on Superintelligence Demand responsible AI Share about ai risk on your social media. Find one of these videos you agree with and share it, or sharing https://pauseai.info can be a good start. Highlights Nothing for now. Generic actions Send email to local politician, saying why you care about AI https://pauseai.info/email-builder Call your politicians Write an opinion piece or news piece to local city newspapers, or in your university’s newspaper More More ideas on https://pauseai.info/action Online actions (petitions, social media campaigns, letter-writing to officials) Offline activities (local protests, community meetings, awareness events) Talk to friends/coworkers/partners/etc about ai safety/regulation / pauseai mtl Go to local meetups/groups to talk about ai safety/regulation / pauseai mtl",
+      "text": "Action (MTL) Table of Contents ⚠ WARNING SHOT PROTOCOL ⚠ FIRST EMERGENCY MOBILISATION Email your MP now Find your federal MP by postal code, personalize the message, and send it directly from your email app. What just happened Anthropic built an AI — Claude Mythos — that can autonomously find and exploit security vulnerabilities across all major operating systems, browsers, and critical infrastructure. During safety testing it escaped its containment, lied to researchers, and hunted for credentials it wasn't supposed to have. It found vulnerabilities humans and automated tools had missed for decades — in the systems running banks, hospitals, and power grids. Anthropic admits it is the most dangerous model they have ever built and that their safety methods may be inadequate for what comes next. It's already being used to build a more powerful successor. No one voted for this. No one regulated it. It takes five minutes to contact your MP. We've prepared a template below — please personalize it before sending. Your name Postal code Use your full Canadian postal code, for example H2X 1Y4. Find my MP The result is a best match. Please review before sending. Your MP Draft language EN + FR EN only FR seulement To Cc Bcc Subject Body Tip: once your email app opens, bold the three numbered action items for emphasis. Open in your email app Copy email text Here’s a list of actions you can do right now to help. To be notified of new action opportunities, subscribe to our mailing list, by sending an email to pauseai-mtl-subscribe@lists.riseup.net. Quick actions Read more about pauseai on pauseai’s website Example, fully read https://pauseai.info/proposal Fill out the pauseai signup form: https://pauseai.info/join Sign the pauseai statement Sign other non-pauseai petitions International AI Treaty Statement on Superintelligence Demand responsible AI Share about ai risk on your social media. Find one of these videos you agree with and share it, or sharing https://pauseai.info can be a good start. Highlights Nothing for now. Generic actions Send email to local politician, saying why you care about AI https://pauseai.info/email-builder Call your politicians Write an opinion piece or news piece to local city newspapers, or in your university’s newspaper More More ideas on https://pauseai.info/action Online actions (petitions, social media campaigns, letter-writing to officials) Offline activities (local protests, community meetings, awareness events) Talk to friends/coworkers/partners/etc about ai safety/regulation / pauseai mtl Go to local meetups/groups to talk about ai safety/regulation / pauseai mtl",
       "structure": {
         "tagCounts": {
           "a": 19,
+          "button": 3,
           "details": 1,
+          "div": 19,
+          "fieldset": 1,
+          "form": 1,
           "h1": 1,
-          "h3": 4,
-          "input": 8,
-          "li": 23,
+          "h2": 1,
+          "h3": 6,
+          "img": 1,
+          "input": 17,
+          "label": 10,
+          "legend": 1,
+          "li": 28,
           "nav": 1,
           "ol": 2,
-          "p": 4,
-          "span": 4,
+          "p": 10,
+          "script": 1,
+          "section": 1,
+          "span": 8,
           "summary": 1,
-          "ul": 8
+          "textarea": 1,
+          "ul": 9
         },
         "linkCount": 19,
-        "imageCount": 0,
-        "buttonCount": 0,
-        "headingCount": 5,
-        "listItemCount": 23,
-        "elementCount": 76,
-        "textLength": 1294
+        "imageCount": 1,
+        "buttonCount": 3,
+        "headingCount": 8,
+        "listItemCount": 28,
+        "elementCount": 143,
+        "textLength": 2631
       },
       "bbox": {
         "x": 16,
         "y": 64.22,
         "width": 361,
-        "height": 1724.34
+        "height": 5015.73
       },
       "image": "tests/visual/baselines/action-mtl-en/main/pixel-5-light.png"
     },
@@ -1183,7 +1333,7 @@
       },
       "bbox": {
         "x": 260,
-        "y": 130.94,
+        "y": 2732.03,
         "width": 760,
         "height": 633.58
       },
@@ -1212,7 +1362,7 @@
       },
       "bbox": {
         "x": 90,
-        "y": 1787.81,
+        "y": 1830.91,
         "width": 1100,
         "height": 76
       },
@@ -1257,34 +1407,43 @@
       "device": "desktop",
       "mode": "dark",
       "region": "main",
-      "text": "To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Join us Subscribe Discord We are a community of volunteers that aims to mitigate the risks of AI by convincing governments to pause the development of superhuman AI. PauseAI informs the public, talks to policy-makers, and organizes events. Join us at one of our events ! Or talk to us on discord. To subscribe to our mailing list, send an email to pauseai-mtl-subscribe@lists.riseup.net. At PauseAI Montréal, we: Find people already concerned about AI at meetups around Montréal Meet and discuss how AI should be regulated, deployed, to make it safe and help humanity rather than cause issues Put up posters around the city Email and talk to local politicians to push them to vote for AI regulation … and more to come! For more content on the risks of AI see pauseai.info Events",
+      "text": "⚠ WARNING SHOT PROTOCOL ⚠ FIRST EMERGENCY MOBILISATION Email your MP now Find your federal MP by postal code, personalize the message, and send it directly from your email app. What just happened Anthropic built an AI — Claude Mythos — that can autonomously find and exploit security vulnerabilities across all major operating systems, browsers, and critical infrastructure. During safety testing it escaped its containment, lied to researchers, and hunted for credentials it wasn't supposed to have. It found vulnerabilities humans and automated tools had missed for decades — in the systems running banks, hospitals, and power grids. Anthropic admits it is the most dangerous model they have ever built and that their safety methods may be inadequate for what comes next. It's already being used to build a more powerful successor. No one voted for this. No one regulated it. It takes five minutes to contact your MP. We've prepared a template below — please personalize it before sending. Your name Postal code Use your full Canadian postal code, for example H2X 1Y4. Find my MP The result is a best match. Please review before sending. Your MP Draft language EN + FR EN only FR seulement To Cc Bcc Subject Body Tip: once your email app opens, bold the three numbered action items for emphasis. Open in your email app Copy email text To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Join us Subscribe Discord We are a community of volunteers that aims to mitigate the risks of AI by convincing governments to pause the development of superhuman AI. PauseAI informs the public, talks to policy-makers, and organizes events. Join us at one of our events ! Or talk to us on discord. To subscribe to our mailing list, send an email to pauseai-mtl-subscribe@lists.riseup.net. At PauseAI Montréal, we: Find people already concerned about AI at meetups around Montréal Meet and discuss how AI should be regulated, deployed, to make it safe and help humanity rather than cause issues Put up posters around the city Email and talk to local politicians to push them to vote for AI regulation … and more to come! For more content on the risks of AI see pauseai.info Events",
       "structure": {
         "tagCounts": {
           "a": 8,
           "br": 1,
-          "div": 1,
-          "h2": 1,
-          "h3": 1,
+          "button": 3,
+          "div": 20,
+          "fieldset": 1,
+          "form": 1,
+          "h2": 2,
+          "h3": 3,
           "iframe": 1,
-          "li": 5,
-          "p": 7,
-          "section": 1,
-          "span": 3,
-          "ul": 1
+          "img": 1,
+          "input": 9,
+          "label": 10,
+          "legend": 1,
+          "li": 10,
+          "p": 13,
+          "script": 1,
+          "section": 2,
+          "span": 7,
+          "textarea": 1,
+          "ul": 2
         },
         "linkCount": 8,
-        "imageCount": 0,
-        "buttonCount": 0,
-        "headingCount": 2,
-        "listItemCount": 5,
-        "elementCount": 30,
-        "textLength": 1099
+        "imageCount": 1,
+        "buttonCount": 3,
+        "headingCount": 5,
+        "listItemCount": 10,
+        "elementCount": 97,
+        "textLength": 2436
       },
       "bbox": {
         "x": 90,
-        "y": 85.94,
+        "y": -2558.06,
         "width": 1100,
-        "height": 1787.88
+        "height": 4388.97
       },
       "image": "tests/visual/baselines/montreal-en/main/desktop-dark.png"
     },
@@ -1312,7 +1471,7 @@
       },
       "bbox": {
         "x": 260,
-        "y": 130.94,
+        "y": 2732.03,
         "width": 760,
         "height": 633.58
       },
@@ -1341,7 +1500,7 @@
       },
       "bbox": {
         "x": 90,
-        "y": 1787.81,
+        "y": 1830.91,
         "width": 1100,
         "height": 76
       },
@@ -1386,34 +1545,43 @@
       "device": "desktop",
       "mode": "light",
       "region": "main",
-      "text": "To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Join us Subscribe Discord We are a community of volunteers that aims to mitigate the risks of AI by convincing governments to pause the development of superhuman AI. PauseAI informs the public, talks to policy-makers, and organizes events. Join us at one of our events ! Or talk to us on discord. To subscribe to our mailing list, send an email to pauseai-mtl-subscribe@lists.riseup.net. At PauseAI Montréal, we: Find people already concerned about AI at meetups around Montréal Meet and discuss how AI should be regulated, deployed, to make it safe and help humanity rather than cause issues Put up posters around the city Email and talk to local politicians to push them to vote for AI regulation … and more to come! For more content on the risks of AI see pauseai.info Events",
+      "text": "⚠ WARNING SHOT PROTOCOL ⚠ FIRST EMERGENCY MOBILISATION Email your MP now Find your federal MP by postal code, personalize the message, and send it directly from your email app. What just happened Anthropic built an AI — Claude Mythos — that can autonomously find and exploit security vulnerabilities across all major operating systems, browsers, and critical infrastructure. During safety testing it escaped its containment, lied to researchers, and hunted for credentials it wasn't supposed to have. It found vulnerabilities humans and automated tools had missed for decades — in the systems running banks, hospitals, and power grids. Anthropic admits it is the most dangerous model they have ever built and that their safety methods may be inadequate for what comes next. It's already being used to build a more powerful successor. No one voted for this. No one regulated it. It takes five minutes to contact your MP. We've prepared a template below — please personalize it before sending. Your name Postal code Use your full Canadian postal code, for example H2X 1Y4. Find my MP The result is a best match. Please review before sending. Your MP Draft language EN + FR EN only FR seulement To Cc Bcc Subject Body Tip: once your email app opens, bold the three numbered action items for emphasis. Open in your email app Copy email text To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Join us Subscribe Discord We are a community of volunteers that aims to mitigate the risks of AI by convincing governments to pause the development of superhuman AI. PauseAI informs the public, talks to policy-makers, and organizes events. Join us at one of our events ! Or talk to us on discord. To subscribe to our mailing list, send an email to pauseai-mtl-subscribe@lists.riseup.net. At PauseAI Montréal, we: Find people already concerned about AI at meetups around Montréal Meet and discuss how AI should be regulated, deployed, to make it safe and help humanity rather than cause issues Put up posters around the city Email and talk to local politicians to push them to vote for AI regulation … and more to come! For more content on the risks of AI see pauseai.info Events",
       "structure": {
         "tagCounts": {
           "a": 8,
           "br": 1,
-          "div": 1,
-          "h2": 1,
-          "h3": 1,
+          "button": 3,
+          "div": 20,
+          "fieldset": 1,
+          "form": 1,
+          "h2": 2,
+          "h3": 3,
           "iframe": 1,
-          "li": 5,
-          "p": 7,
-          "section": 1,
-          "span": 3,
-          "ul": 1
+          "img": 1,
+          "input": 9,
+          "label": 10,
+          "legend": 1,
+          "li": 10,
+          "p": 13,
+          "script": 1,
+          "section": 2,
+          "span": 7,
+          "textarea": 1,
+          "ul": 2
         },
         "linkCount": 8,
-        "imageCount": 0,
-        "buttonCount": 0,
-        "headingCount": 2,
-        "listItemCount": 5,
-        "elementCount": 30,
-        "textLength": 1099
+        "imageCount": 1,
+        "buttonCount": 3,
+        "headingCount": 5,
+        "listItemCount": 10,
+        "elementCount": 97,
+        "textLength": 2436
       },
       "bbox": {
         "x": 90,
-        "y": 85.94,
+        "y": -2558.06,
         "width": 1100,
-        "height": 1787.88
+        "height": 4388.97
       },
       "image": "tests/visual/baselines/montreal-en/main/desktop-light.png"
     },
@@ -1441,7 +1609,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 74.91,
+        "y": 3396.42,
         "width": 358,
         "height": 802.98
       },
@@ -1470,7 +1638,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 2151.7,
+        "y": 2083.22,
         "width": 358,
         "height": 111.25
       },
@@ -1515,34 +1683,43 @@
       "device": "iphone-13",
       "mode": "dark",
       "region": "main",
-      "text": "To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Join us Subscribe Discord We are a community of volunteers that aims to mitigate the risks of AI by convincing governments to pause the development of superhuman AI. PauseAI informs the public, talks to policy-makers, and organizes events. Join us at one of our events ! Or talk to us on discord. To subscribe to our mailing list, send an email to pauseai-mtl-subscribe@lists.riseup.net. At PauseAI Montréal, we: Find people already concerned about AI at meetups around Montréal Meet and discuss how AI should be regulated, deployed, to make it safe and help humanity rather than cause issues Put up posters around the city Email and talk to local politicians to push them to vote for AI regulation … and more to come! For more content on the risks of AI see pauseai.info Events",
+      "text": "⚠ WARNING SHOT PROTOCOL ⚠ FIRST EMERGENCY MOBILISATION Email your MP now Find your federal MP by postal code, personalize the message, and send it directly from your email app. What just happened Anthropic built an AI — Claude Mythos — that can autonomously find and exploit security vulnerabilities across all major operating systems, browsers, and critical infrastructure. During safety testing it escaped its containment, lied to researchers, and hunted for credentials it wasn't supposed to have. It found vulnerabilities humans and automated tools had missed for decades — in the systems running banks, hospitals, and power grids. Anthropic admits it is the most dangerous model they have ever built and that their safety methods may be inadequate for what comes next. It's already being used to build a more powerful successor. No one voted for this. No one regulated it. It takes five minutes to contact your MP. We've prepared a template below — please personalize it before sending. Your name Postal code Use your full Canadian postal code, for example H2X 1Y4. Find my MP The result is a best match. Please review before sending. Your MP Draft language EN + FR EN only FR seulement To Cc Bcc Subject Body Tip: once your email app opens, bold the three numbered action items for emphasis. Open in your email app Copy email text To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Join us Subscribe Discord We are a community of volunteers that aims to mitigate the risks of AI by convincing governments to pause the development of superhuman AI. PauseAI informs the public, talks to policy-makers, and organizes events. Join us at one of our events ! Or talk to us on discord. To subscribe to our mailing list, send an email to pauseai-mtl-subscribe@lists.riseup.net. At PauseAI Montréal, we: Find people already concerned about AI at meetups around Montréal Meet and discuss how AI should be regulated, deployed, to make it safe and help humanity rather than cause issues Put up posters around the city Email and talk to local politicians to push them to vote for AI regulation … and more to come! For more content on the risks of AI see pauseai.info Events",
       "structure": {
         "tagCounts": {
           "a": 8,
           "br": 1,
-          "div": 1,
-          "h2": 1,
-          "h3": 1,
+          "button": 3,
+          "div": 20,
+          "fieldset": 1,
+          "form": 1,
+          "h2": 2,
+          "h3": 3,
           "iframe": 1,
-          "li": 5,
-          "p": 7,
-          "section": 1,
-          "span": 3,
-          "ul": 1
+          "img": 1,
+          "input": 9,
+          "label": 10,
+          "legend": 1,
+          "li": 10,
+          "p": 13,
+          "script": 1,
+          "section": 2,
+          "span": 7,
+          "textarea": 1,
+          "ul": 2
         },
         "linkCount": 8,
-        "imageCount": 0,
-        "buttonCount": 0,
-        "headingCount": 2,
-        "listItemCount": 5,
-        "elementCount": 30,
-        "textLength": 1099
+        "imageCount": 1,
+        "buttonCount": 3,
+        "headingCount": 5,
+        "listItemCount": 10,
+        "elementCount": 97,
+        "textLength": 2436
       },
       "bbox": {
         "x": 16,
-        "y": -0.09,
+        "y": -3390.09,
         "width": 358,
-        "height": 2150.8
+        "height": 5472.31
       },
       "image": "tests/visual/baselines/montreal-en/main/iphone-13-dark.png"
     },
@@ -1570,7 +1747,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 74.91,
+        "y": 3396.42,
         "width": 358,
         "height": 802.98
       },
@@ -1599,7 +1776,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 2151.7,
+        "y": 2083.22,
         "width": 358,
         "height": 111.25
       },
@@ -1644,34 +1821,43 @@
       "device": "iphone-13",
       "mode": "light",
       "region": "main",
-      "text": "To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Join us Subscribe Discord We are a community of volunteers that aims to mitigate the risks of AI by convincing governments to pause the development of superhuman AI. PauseAI informs the public, talks to policy-makers, and organizes events. Join us at one of our events ! Or talk to us on discord. To subscribe to our mailing list, send an email to pauseai-mtl-subscribe@lists.riseup.net. At PauseAI Montréal, we: Find people already concerned about AI at meetups around Montréal Meet and discuss how AI should be regulated, deployed, to make it safe and help humanity rather than cause issues Put up posters around the city Email and talk to local politicians to push them to vote for AI regulation … and more to come! For more content on the risks of AI see pauseai.info Events",
+      "text": "⚠ WARNING SHOT PROTOCOL ⚠ FIRST EMERGENCY MOBILISATION Email your MP now Find your federal MP by postal code, personalize the message, and send it directly from your email app. What just happened Anthropic built an AI — Claude Mythos — that can autonomously find and exploit security vulnerabilities across all major operating systems, browsers, and critical infrastructure. During safety testing it escaped its containment, lied to researchers, and hunted for credentials it wasn't supposed to have. It found vulnerabilities humans and automated tools had missed for decades — in the systems running banks, hospitals, and power grids. Anthropic admits it is the most dangerous model they have ever built and that their safety methods may be inadequate for what comes next. It's already being used to build a more powerful successor. No one voted for this. No one regulated it. It takes five minutes to contact your MP. We've prepared a template below — please personalize it before sending. Your name Postal code Use your full Canadian postal code, for example H2X 1Y4. Find my MP The result is a best match. Please review before sending. Your MP Draft language EN + FR EN only FR seulement To Cc Bcc Subject Body Tip: once your email app opens, bold the three numbered action items for emphasis. Open in your email app Copy email text To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Join us Subscribe Discord We are a community of volunteers that aims to mitigate the risks of AI by convincing governments to pause the development of superhuman AI. PauseAI informs the public, talks to policy-makers, and organizes events. Join us at one of our events ! Or talk to us on discord. To subscribe to our mailing list, send an email to pauseai-mtl-subscribe@lists.riseup.net. At PauseAI Montréal, we: Find people already concerned about AI at meetups around Montréal Meet and discuss how AI should be regulated, deployed, to make it safe and help humanity rather than cause issues Put up posters around the city Email and talk to local politicians to push them to vote for AI regulation … and more to come! For more content on the risks of AI see pauseai.info Events",
       "structure": {
         "tagCounts": {
           "a": 8,
           "br": 1,
-          "div": 1,
-          "h2": 1,
-          "h3": 1,
+          "button": 3,
+          "div": 20,
+          "fieldset": 1,
+          "form": 1,
+          "h2": 2,
+          "h3": 3,
           "iframe": 1,
-          "li": 5,
-          "p": 7,
-          "section": 1,
-          "span": 3,
-          "ul": 1
+          "img": 1,
+          "input": 9,
+          "label": 10,
+          "legend": 1,
+          "li": 10,
+          "p": 13,
+          "script": 1,
+          "section": 2,
+          "span": 7,
+          "textarea": 1,
+          "ul": 2
         },
         "linkCount": 8,
-        "imageCount": 0,
-        "buttonCount": 0,
-        "headingCount": 2,
-        "listItemCount": 5,
-        "elementCount": 30,
-        "textLength": 1099
+        "imageCount": 1,
+        "buttonCount": 3,
+        "headingCount": 5,
+        "listItemCount": 10,
+        "elementCount": 97,
+        "textLength": 2436
       },
       "bbox": {
         "x": 16,
-        "y": -0.09,
+        "y": -3390.09,
         "width": 358,
-        "height": 2150.8
+        "height": 5472.31
       },
       "image": "tests/visual/baselines/montreal-en/main/iphone-13-light.png"
     },
@@ -1699,7 +1885,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 74.91,
+        "y": 3349.19,
         "width": 361,
         "height": 774.63
       },
@@ -1728,7 +1914,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 2123.34,
+        "y": 2100.63,
         "width": 361,
         "height": 111.25
       },
@@ -1773,34 +1959,43 @@
       "device": "pixel-5",
       "mode": "dark",
       "region": "main",
-      "text": "To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Join us Subscribe Discord We are a community of volunteers that aims to mitigate the risks of AI by convincing governments to pause the development of superhuman AI. PauseAI informs the public, talks to policy-makers, and organizes events. Join us at one of our events ! Or talk to us on discord. To subscribe to our mailing list, send an email to pauseai-mtl-subscribe@lists.riseup.net. At PauseAI Montréal, we: Find people already concerned about AI at meetups around Montréal Meet and discuss how AI should be regulated, deployed, to make it safe and help humanity rather than cause issues Put up posters around the city Email and talk to local politicians to push them to vote for AI regulation … and more to come! For more content on the risks of AI see pauseai.info Events",
+      "text": "⚠ WARNING SHOT PROTOCOL ⚠ FIRST EMERGENCY MOBILISATION Email your MP now Find your federal MP by postal code, personalize the message, and send it directly from your email app. What just happened Anthropic built an AI — Claude Mythos — that can autonomously find and exploit security vulnerabilities across all major operating systems, browsers, and critical infrastructure. During safety testing it escaped its containment, lied to researchers, and hunted for credentials it wasn't supposed to have. It found vulnerabilities humans and automated tools had missed for decades — in the systems running banks, hospitals, and power grids. Anthropic admits it is the most dangerous model they have ever built and that their safety methods may be inadequate for what comes next. It's already being used to build a more powerful successor. No one voted for this. No one regulated it. It takes five minutes to contact your MP. We've prepared a template below — please personalize it before sending. Your name Postal code Use your full Canadian postal code, for example H2X 1Y4. Find my MP The result is a best match. Please review before sending. Your MP Draft language EN + FR EN only FR seulement To Cc Bcc Subject Body Tip: once your email app opens, bold the three numbered action items for emphasis. Open in your email app Copy email text To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Join us Subscribe Discord We are a community of volunteers that aims to mitigate the risks of AI by convincing governments to pause the development of superhuman AI. PauseAI informs the public, talks to policy-makers, and organizes events. Join us at one of our events ! Or talk to us on discord. To subscribe to our mailing list, send an email to pauseai-mtl-subscribe@lists.riseup.net. At PauseAI Montréal, we: Find people already concerned about AI at meetups around Montréal Meet and discuss how AI should be regulated, deployed, to make it safe and help humanity rather than cause issues Put up posters around the city Email and talk to local politicians to push them to vote for AI regulation … and more to come! For more content on the risks of AI see pauseai.info Events",
       "structure": {
         "tagCounts": {
           "a": 8,
           "br": 1,
-          "div": 1,
-          "h2": 1,
-          "h3": 1,
+          "button": 3,
+          "div": 20,
+          "fieldset": 1,
+          "form": 1,
+          "h2": 2,
+          "h3": 3,
           "iframe": 1,
-          "li": 5,
-          "p": 7,
-          "section": 1,
-          "span": 3,
-          "ul": 1
+          "img": 1,
+          "input": 9,
+          "label": 10,
+          "legend": 1,
+          "li": 10,
+          "p": 13,
+          "script": 1,
+          "section": 2,
+          "span": 7,
+          "textarea": 1,
+          "ul": 2
         },
         "linkCount": 8,
-        "imageCount": 0,
-        "buttonCount": 0,
-        "headingCount": 2,
-        "listItemCount": 5,
-        "elementCount": 30,
-        "textLength": 1099
+        "imageCount": 1,
+        "buttonCount": 3,
+        "headingCount": 5,
+        "listItemCount": 10,
+        "elementCount": 97,
+        "textLength": 2436
       },
       "bbox": {
         "x": 16,
-        "y": 0.91,
+        "y": -3297.09,
         "width": 361,
-        "height": 2122.44
+        "height": 5396.72
       },
       "image": "tests/visual/baselines/montreal-en/main/pixel-5-dark.png"
     },
@@ -1828,7 +2023,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 74.91,
+        "y": 3349.19,
         "width": 361,
         "height": 774.63
       },
@@ -1857,7 +2052,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 2123.34,
+        "y": 2100.63,
         "width": 361,
         "height": 111.25
       },
@@ -1902,34 +2097,43 @@
       "device": "pixel-5",
       "mode": "light",
       "region": "main",
-      "text": "To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Join us Subscribe Discord We are a community of volunteers that aims to mitigate the risks of AI by convincing governments to pause the development of superhuman AI. PauseAI informs the public, talks to policy-makers, and organizes events. Join us at one of our events ! Or talk to us on discord. To subscribe to our mailing list, send an email to pauseai-mtl-subscribe@lists.riseup.net. At PauseAI Montréal, we: Find people already concerned about AI at meetups around Montréal Meet and discuss how AI should be regulated, deployed, to make it safe and help humanity rather than cause issues Put up posters around the city Email and talk to local politicians to push them to vote for AI regulation … and more to come! For more content on the risks of AI see pauseai.info Events",
+      "text": "⚠ WARNING SHOT PROTOCOL ⚠ FIRST EMERGENCY MOBILISATION Email your MP now Find your federal MP by postal code, personalize the message, and send it directly from your email app. What just happened Anthropic built an AI — Claude Mythos — that can autonomously find and exploit security vulnerabilities across all major operating systems, browsers, and critical infrastructure. During safety testing it escaped its containment, lied to researchers, and hunted for credentials it wasn't supposed to have. It found vulnerabilities humans and automated tools had missed for decades — in the systems running banks, hospitals, and power grids. Anthropic admits it is the most dangerous model they have ever built and that their safety methods may be inadequate for what comes next. It's already being used to build a more powerful successor. No one voted for this. No one regulated it. It takes five minutes to contact your MP. We've prepared a template below — please personalize it before sending. Your name Postal code Use your full Canadian postal code, for example H2X 1Y4. Find my MP The result is a best match. Please review before sending. Your MP Draft language EN + FR EN only FR seulement To Cc Bcc Subject Body Tip: once your email app opens, bold the three numbered action items for emphasis. Open in your email app Copy email text To keep AI under control, let’s act now AI is already reshaping our jobs and daily life. Regularly, new systems surpass milestones we thought were years away. According to most AI safety experts, continuing the race without guardrails poses a catastrophic, near-term risk to humanity. The window is closing fast—act now. Join us Subscribe Discord We are a community of volunteers that aims to mitigate the risks of AI by convincing governments to pause the development of superhuman AI. PauseAI informs the public, talks to policy-makers, and organizes events. Join us at one of our events ! Or talk to us on discord. To subscribe to our mailing list, send an email to pauseai-mtl-subscribe@lists.riseup.net. At PauseAI Montréal, we: Find people already concerned about AI at meetups around Montréal Meet and discuss how AI should be regulated, deployed, to make it safe and help humanity rather than cause issues Put up posters around the city Email and talk to local politicians to push them to vote for AI regulation … and more to come! For more content on the risks of AI see pauseai.info Events",
       "structure": {
         "tagCounts": {
           "a": 8,
           "br": 1,
-          "div": 1,
-          "h2": 1,
-          "h3": 1,
+          "button": 3,
+          "div": 20,
+          "fieldset": 1,
+          "form": 1,
+          "h2": 2,
+          "h3": 3,
           "iframe": 1,
-          "li": 5,
-          "p": 7,
-          "section": 1,
-          "span": 3,
-          "ul": 1
+          "img": 1,
+          "input": 9,
+          "label": 10,
+          "legend": 1,
+          "li": 10,
+          "p": 13,
+          "script": 1,
+          "section": 2,
+          "span": 7,
+          "textarea": 1,
+          "ul": 2
         },
         "linkCount": 8,
-        "imageCount": 0,
-        "buttonCount": 0,
-        "headingCount": 2,
-        "listItemCount": 5,
-        "elementCount": 30,
-        "textLength": 1099
+        "imageCount": 1,
+        "buttonCount": 3,
+        "headingCount": 5,
+        "listItemCount": 10,
+        "elementCount": 97,
+        "textLength": 2436
       },
       "bbox": {
         "x": 16,
-        "y": 0.91,
+        "y": -3297.09,
         "width": 361,
-        "height": 2122.44
+        "height": 5396.72
       },
       "image": "tests/visual/baselines/montreal-en/main/pixel-5-light.png"
     },
@@ -1956,7 +2160,7 @@
       },
       "bbox": {
         "x": 90,
-        "y": 361,
+        "y": 2970.8,
         "width": 1100,
         "height": 76
       },
@@ -2001,28 +2205,42 @@
       "device": "desktop",
       "mode": "dark",
       "region": "main",
-      "text": "Rejoignez notre Discord. Communauté PauseAI locale au Canada: Montréal Si vous organisez une communauté PauseAI locale au Canada et souhaitez être ajouté à cette liste, svp envoyer un courriel à nicolas.m.lacombe@gmail.com.",
+      "text": "⚠ PROTOCOLE TIR DE SEMONCE ⚠ PREMIÈRE MOBILISATION D'URGENCE Écrivez à votre député·e maintenant Trouvez votre député·e fédéral·e avec votre code postal, personnalisez le message, puis envoyez-le depuis votre application de messagerie. Ce qui vient de se passer Anthropic a construit une IA — Claude Mythos — capable de trouver et d'exploiter de manière autonome des failles de sécurité dans tous les principaux systèmes d'exploitation, navigateurs et infrastructures critiques. Lors des tests de sécurité, le système s'est échappé de son environnement de confinement, a menti aux chercheurs et a cherché des accès auxquels il n'était pas censé avoir. Il a trouvé des failles de sécurité que les humains et les outils automatisés avaient manquées depuis des décennies — dans les systèmes qui font fonctionner les banques, les hôpitaux et les réseaux électriques. Anthropic reconnaît qu'il s'agit du modèle le plus dangereux qu'il ait jamais construit et que ses méthodes de sécurité pourraient être inadéquates pour ce qui vient ensuite. Il est déjà utilisé pour construire un successeur plus puissant. Personne n'a voté pour ça. Personne ne l'a réglementé. Il ne faut que cinq minutes pour contacter votre député·e. Nous avons préparé un modèle ci-dessous — veuillez le personnaliser avant d'envoyer. Votre nom Code postal Utilisez votre code postal canadien complet, par exemple H2X 1Y4. Trouver mon député·e Le résultat est une meilleure correspondance possible. Veuillez le vérifier avant l'envoi. Votre député·e Langue du brouillon EN + FR EN only FR seulement À Cc Cci Objet Message Conseil: une fois votre messagerie ouverte, mettez en gras les trois demandes numérotées pour les mettre en valeur. Ouvrir dans votre messagerie Copier le texte du courriel Rejoignez notre Discord. Communauté PauseAI locale au Canada: Montréal Toronto Si vous organisez une communauté PauseAI locale au Canada et souhaitez être ajouté à cette liste, svp envoyer un courriel à nicolas.m.lacombe@gmail.com.",
       "structure": {
         "tagCounts": {
-          "a": 3,
-          "li": 1,
+          "a": 4,
+          "button": 3,
+          "div": 19,
+          "fieldset": 1,
+          "form": 1,
+          "h2": 1,
+          "h3": 2,
+          "img": 1,
+          "input": 9,
+          "label": 10,
+          "legend": 1,
+          "li": 7,
           "nav": 1,
-          "p": 3,
-          "ul": 1
+          "p": 9,
+          "script": 1,
+          "section": 1,
+          "span": 4,
+          "textarea": 1,
+          "ul": 2
         },
-        "linkCount": 3,
-        "imageCount": 0,
-        "buttonCount": 0,
-        "headingCount": 0,
-        "listItemCount": 1,
-        "elementCount": 9,
-        "textLength": 223
+        "linkCount": 4,
+        "imageCount": 1,
+        "buttonCount": 3,
+        "headingCount": 3,
+        "listItemCount": 7,
+        "elementCount": 78,
+        "textLength": 1993
       },
       "bbox": {
         "x": 90,
-        "y": 102.25,
+        "y": 130.94,
         "width": 1100,
-        "height": 236.25
+        "height": 2948.36
       },
       "image": "tests/visual/baselines/home-fr/main/desktop-dark.png"
     },
@@ -2049,7 +2267,7 @@
       },
       "bbox": {
         "x": 90,
-        "y": 361,
+        "y": 2970.8,
         "width": 1100,
         "height": 76
       },
@@ -2094,28 +2312,42 @@
       "device": "desktop",
       "mode": "light",
       "region": "main",
-      "text": "Rejoignez notre Discord. Communauté PauseAI locale au Canada: Montréal Si vous organisez une communauté PauseAI locale au Canada et souhaitez être ajouté à cette liste, svp envoyer un courriel à nicolas.m.lacombe@gmail.com.",
+      "text": "⚠ PROTOCOLE TIR DE SEMONCE ⚠ PREMIÈRE MOBILISATION D'URGENCE Écrivez à votre député·e maintenant Trouvez votre député·e fédéral·e avec votre code postal, personnalisez le message, puis envoyez-le depuis votre application de messagerie. Ce qui vient de se passer Anthropic a construit une IA — Claude Mythos — capable de trouver et d'exploiter de manière autonome des failles de sécurité dans tous les principaux systèmes d'exploitation, navigateurs et infrastructures critiques. Lors des tests de sécurité, le système s'est échappé de son environnement de confinement, a menti aux chercheurs et a cherché des accès auxquels il n'était pas censé avoir. Il a trouvé des failles de sécurité que les humains et les outils automatisés avaient manquées depuis des décennies — dans les systèmes qui font fonctionner les banques, les hôpitaux et les réseaux électriques. Anthropic reconnaît qu'il s'agit du modèle le plus dangereux qu'il ait jamais construit et que ses méthodes de sécurité pourraient être inadéquates pour ce qui vient ensuite. Il est déjà utilisé pour construire un successeur plus puissant. Personne n'a voté pour ça. Personne ne l'a réglementé. Il ne faut que cinq minutes pour contacter votre député·e. Nous avons préparé un modèle ci-dessous — veuillez le personnaliser avant d'envoyer. Votre nom Code postal Utilisez votre code postal canadien complet, par exemple H2X 1Y4. Trouver mon député·e Le résultat est une meilleure correspondance possible. Veuillez le vérifier avant l'envoi. Votre député·e Langue du brouillon EN + FR EN only FR seulement À Cc Cci Objet Message Conseil: une fois votre messagerie ouverte, mettez en gras les trois demandes numérotées pour les mettre en valeur. Ouvrir dans votre messagerie Copier le texte du courriel Rejoignez notre Discord. Communauté PauseAI locale au Canada: Montréal Toronto Si vous organisez une communauté PauseAI locale au Canada et souhaitez être ajouté à cette liste, svp envoyer un courriel à nicolas.m.lacombe@gmail.com.",
       "structure": {
         "tagCounts": {
-          "a": 3,
-          "li": 1,
+          "a": 4,
+          "button": 3,
+          "div": 19,
+          "fieldset": 1,
+          "form": 1,
+          "h2": 1,
+          "h3": 2,
+          "img": 1,
+          "input": 9,
+          "label": 10,
+          "legend": 1,
+          "li": 7,
           "nav": 1,
-          "p": 3,
-          "ul": 1
+          "p": 9,
+          "script": 1,
+          "section": 1,
+          "span": 4,
+          "textarea": 1,
+          "ul": 2
         },
-        "linkCount": 3,
-        "imageCount": 0,
-        "buttonCount": 0,
-        "headingCount": 0,
-        "listItemCount": 1,
-        "elementCount": 9,
-        "textLength": 223
+        "linkCount": 4,
+        "imageCount": 1,
+        "buttonCount": 3,
+        "headingCount": 3,
+        "listItemCount": 7,
+        "elementCount": 78,
+        "textLength": 1993
       },
       "bbox": {
         "x": 90,
-        "y": 102.25,
+        "y": 130.94,
         "width": 1100,
-        "height": 236.25
+        "height": 2948.36
       },
       "image": "tests/visual/baselines/home-fr/main/desktop-light.png"
     },
@@ -2142,7 +2374,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 331.88,
+        "y": 3972.16,
         "width": 358,
         "height": 111.25
       },
@@ -2187,28 +2419,42 @@
       "device": "iphone-13",
       "mode": "dark",
       "region": "main",
-      "text": "Rejoignez notre Discord. Communauté PauseAI locale au Canada: Montréal Si vous organisez une communauté PauseAI locale au Canada et souhaitez être ajouté à cette liste, svp envoyer un courriel à nicolas.m.lacombe@gmail.com.",
+      "text": "⚠ PROTOCOLE TIR DE SEMONCE ⚠ PREMIÈRE MOBILISATION D'URGENCE Écrivez à votre député·e maintenant Trouvez votre député·e fédéral·e avec votre code postal, personnalisez le message, puis envoyez-le depuis votre application de messagerie. Ce qui vient de se passer Anthropic a construit une IA — Claude Mythos — capable de trouver et d'exploiter de manière autonome des failles de sécurité dans tous les principaux systèmes d'exploitation, navigateurs et infrastructures critiques. Lors des tests de sécurité, le système s'est échappé de son environnement de confinement, a menti aux chercheurs et a cherché des accès auxquels il n'était pas censé avoir. Il a trouvé des failles de sécurité que les humains et les outils automatisés avaient manquées depuis des décennies — dans les systèmes qui font fonctionner les banques, les hôpitaux et les réseaux électriques. Anthropic reconnaît qu'il s'agit du modèle le plus dangereux qu'il ait jamais construit et que ses méthodes de sécurité pourraient être inadéquates pour ce qui vient ensuite. Il est déjà utilisé pour construire un successeur plus puissant. Personne n'a voté pour ça. Personne ne l'a réglementé. Il ne faut que cinq minutes pour contacter votre député·e. Nous avons préparé un modèle ci-dessous — veuillez le personnaliser avant d'envoyer. Votre nom Code postal Utilisez votre code postal canadien complet, par exemple H2X 1Y4. Trouver mon député·e Le résultat est une meilleure correspondance possible. Veuillez le vérifier avant l'envoi. Votre député·e Langue du brouillon EN + FR EN only FR seulement À Cc Cci Objet Message Conseil: une fois votre messagerie ouverte, mettez en gras les trois demandes numérotées pour les mettre en valeur. Ouvrir dans votre messagerie Copier le texte du courriel Rejoignez notre Discord. Communauté PauseAI locale au Canada: Montréal Toronto Si vous organisez une communauté PauseAI locale au Canada et souhaitez être ajouté à cette liste, svp envoyer un courriel à nicolas.m.lacombe@gmail.com.",
       "structure": {
         "tagCounts": {
-          "a": 3,
-          "li": 1,
+          "a": 4,
+          "button": 3,
+          "div": 19,
+          "fieldset": 1,
+          "form": 1,
+          "h2": 1,
+          "h3": 2,
+          "img": 1,
+          "input": 9,
+          "label": 10,
+          "legend": 1,
+          "li": 7,
           "nav": 1,
-          "p": 3,
-          "ul": 1
+          "p": 9,
+          "script": 1,
+          "section": 1,
+          "span": 4,
+          "textarea": 1,
+          "ul": 2
         },
-        "linkCount": 3,
-        "imageCount": 0,
-        "buttonCount": 0,
-        "headingCount": 0,
-        "listItemCount": 1,
-        "elementCount": 9,
-        "textLength": 223
+        "linkCount": 4,
+        "imageCount": 1,
+        "buttonCount": 3,
+        "headingCount": 3,
+        "listItemCount": 7,
+        "elementCount": 78,
+        "textLength": 1993
       },
       "bbox": {
         "x": 16,
-        "y": 57.8,
+        "y": 74.91,
         "width": 358,
-        "height": 255.19
+        "height": 3952.36
       },
       "image": "tests/visual/baselines/home-fr/main/iphone-13-dark.png"
     },
@@ -2235,7 +2481,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 331.88,
+        "y": 3972.16,
         "width": 358,
         "height": 111.25
       },
@@ -2280,28 +2526,42 @@
       "device": "iphone-13",
       "mode": "light",
       "region": "main",
-      "text": "Rejoignez notre Discord. Communauté PauseAI locale au Canada: Montréal Si vous organisez une communauté PauseAI locale au Canada et souhaitez être ajouté à cette liste, svp envoyer un courriel à nicolas.m.lacombe@gmail.com.",
+      "text": "⚠ PROTOCOLE TIR DE SEMONCE ⚠ PREMIÈRE MOBILISATION D'URGENCE Écrivez à votre député·e maintenant Trouvez votre député·e fédéral·e avec votre code postal, personnalisez le message, puis envoyez-le depuis votre application de messagerie. Ce qui vient de se passer Anthropic a construit une IA — Claude Mythos — capable de trouver et d'exploiter de manière autonome des failles de sécurité dans tous les principaux systèmes d'exploitation, navigateurs et infrastructures critiques. Lors des tests de sécurité, le système s'est échappé de son environnement de confinement, a menti aux chercheurs et a cherché des accès auxquels il n'était pas censé avoir. Il a trouvé des failles de sécurité que les humains et les outils automatisés avaient manquées depuis des décennies — dans les systèmes qui font fonctionner les banques, les hôpitaux et les réseaux électriques. Anthropic reconnaît qu'il s'agit du modèle le plus dangereux qu'il ait jamais construit et que ses méthodes de sécurité pourraient être inadéquates pour ce qui vient ensuite. Il est déjà utilisé pour construire un successeur plus puissant. Personne n'a voté pour ça. Personne ne l'a réglementé. Il ne faut que cinq minutes pour contacter votre député·e. Nous avons préparé un modèle ci-dessous — veuillez le personnaliser avant d'envoyer. Votre nom Code postal Utilisez votre code postal canadien complet, par exemple H2X 1Y4. Trouver mon député·e Le résultat est une meilleure correspondance possible. Veuillez le vérifier avant l'envoi. Votre député·e Langue du brouillon EN + FR EN only FR seulement À Cc Cci Objet Message Conseil: une fois votre messagerie ouverte, mettez en gras les trois demandes numérotées pour les mettre en valeur. Ouvrir dans votre messagerie Copier le texte du courriel Rejoignez notre Discord. Communauté PauseAI locale au Canada: Montréal Toronto Si vous organisez une communauté PauseAI locale au Canada et souhaitez être ajouté à cette liste, svp envoyer un courriel à nicolas.m.lacombe@gmail.com.",
       "structure": {
         "tagCounts": {
-          "a": 3,
-          "li": 1,
+          "a": 4,
+          "button": 3,
+          "div": 19,
+          "fieldset": 1,
+          "form": 1,
+          "h2": 1,
+          "h3": 2,
+          "img": 1,
+          "input": 9,
+          "label": 10,
+          "legend": 1,
+          "li": 7,
           "nav": 1,
-          "p": 3,
-          "ul": 1
+          "p": 9,
+          "script": 1,
+          "section": 1,
+          "span": 4,
+          "textarea": 1,
+          "ul": 2
         },
-        "linkCount": 3,
-        "imageCount": 0,
-        "buttonCount": 0,
-        "headingCount": 0,
-        "listItemCount": 1,
-        "elementCount": 9,
-        "textLength": 223
+        "linkCount": 4,
+        "imageCount": 1,
+        "buttonCount": 3,
+        "headingCount": 3,
+        "listItemCount": 7,
+        "elementCount": 78,
+        "textLength": 1993
       },
       "bbox": {
         "x": 16,
-        "y": 57.8,
+        "y": 74.91,
         "width": 358,
-        "height": 255.19
+        "height": 3952.36
       },
       "image": "tests/visual/baselines/home-fr/main/iphone-13-light.png"
     },
@@ -2328,7 +2588,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 331.88,
+        "y": 3972.16,
         "width": 361,
         "height": 111.25
       },
@@ -2373,28 +2633,42 @@
       "device": "pixel-5",
       "mode": "dark",
       "region": "main",
-      "text": "Rejoignez notre Discord. Communauté PauseAI locale au Canada: Montréal Si vous organisez une communauté PauseAI locale au Canada et souhaitez être ajouté à cette liste, svp envoyer un courriel à nicolas.m.lacombe@gmail.com.",
+      "text": "⚠ PROTOCOLE TIR DE SEMONCE ⚠ PREMIÈRE MOBILISATION D'URGENCE Écrivez à votre député·e maintenant Trouvez votre député·e fédéral·e avec votre code postal, personnalisez le message, puis envoyez-le depuis votre application de messagerie. Ce qui vient de se passer Anthropic a construit une IA — Claude Mythos — capable de trouver et d'exploiter de manière autonome des failles de sécurité dans tous les principaux systèmes d'exploitation, navigateurs et infrastructures critiques. Lors des tests de sécurité, le système s'est échappé de son environnement de confinement, a menti aux chercheurs et a cherché des accès auxquels il n'était pas censé avoir. Il a trouvé des failles de sécurité que les humains et les outils automatisés avaient manquées depuis des décennies — dans les systèmes qui font fonctionner les banques, les hôpitaux et les réseaux électriques. Anthropic reconnaît qu'il s'agit du modèle le plus dangereux qu'il ait jamais construit et que ses méthodes de sécurité pourraient être inadéquates pour ce qui vient ensuite. Il est déjà utilisé pour construire un successeur plus puissant. Personne n'a voté pour ça. Personne ne l'a réglementé. Il ne faut que cinq minutes pour contacter votre député·e. Nous avons préparé un modèle ci-dessous — veuillez le personnaliser avant d'envoyer. Votre nom Code postal Utilisez votre code postal canadien complet, par exemple H2X 1Y4. Trouver mon député·e Le résultat est une meilleure correspondance possible. Veuillez le vérifier avant l'envoi. Votre député·e Langue du brouillon EN + FR EN only FR seulement À Cc Cci Objet Message Conseil: une fois votre messagerie ouverte, mettez en gras les trois demandes numérotées pour les mettre en valeur. Ouvrir dans votre messagerie Copier le texte du courriel Rejoignez notre Discord. Communauté PauseAI locale au Canada: Montréal Toronto Si vous organisez une communauté PauseAI locale au Canada et souhaitez être ajouté à cette liste, svp envoyer un courriel à nicolas.m.lacombe@gmail.com.",
       "structure": {
         "tagCounts": {
-          "a": 3,
-          "li": 1,
+          "a": 4,
+          "button": 3,
+          "div": 19,
+          "fieldset": 1,
+          "form": 1,
+          "h2": 1,
+          "h3": 2,
+          "img": 1,
+          "input": 9,
+          "label": 10,
+          "legend": 1,
+          "li": 7,
           "nav": 1,
-          "p": 3,
-          "ul": 1
+          "p": 9,
+          "script": 1,
+          "section": 1,
+          "span": 4,
+          "textarea": 1,
+          "ul": 2
         },
-        "linkCount": 3,
-        "imageCount": 0,
-        "buttonCount": 0,
-        "headingCount": 0,
-        "listItemCount": 1,
-        "elementCount": 9,
-        "textLength": 223
+        "linkCount": 4,
+        "imageCount": 1,
+        "buttonCount": 3,
+        "headingCount": 3,
+        "listItemCount": 7,
+        "elementCount": 78,
+        "textLength": 1993
       },
       "bbox": {
         "x": 16,
-        "y": 57.8,
+        "y": 74.91,
         "width": 361,
-        "height": 255.19
+        "height": 3952.36
       },
       "image": "tests/visual/baselines/home-fr/main/pixel-5-dark.png"
     },
@@ -2421,7 +2695,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 331.88,
+        "y": 3972.16,
         "width": 361,
         "height": 111.25
       },
@@ -2466,28 +2740,42 @@
       "device": "pixel-5",
       "mode": "light",
       "region": "main",
-      "text": "Rejoignez notre Discord. Communauté PauseAI locale au Canada: Montréal Si vous organisez une communauté PauseAI locale au Canada et souhaitez être ajouté à cette liste, svp envoyer un courriel à nicolas.m.lacombe@gmail.com.",
+      "text": "⚠ PROTOCOLE TIR DE SEMONCE ⚠ PREMIÈRE MOBILISATION D'URGENCE Écrivez à votre député·e maintenant Trouvez votre député·e fédéral·e avec votre code postal, personnalisez le message, puis envoyez-le depuis votre application de messagerie. Ce qui vient de se passer Anthropic a construit une IA — Claude Mythos — capable de trouver et d'exploiter de manière autonome des failles de sécurité dans tous les principaux systèmes d'exploitation, navigateurs et infrastructures critiques. Lors des tests de sécurité, le système s'est échappé de son environnement de confinement, a menti aux chercheurs et a cherché des accès auxquels il n'était pas censé avoir. Il a trouvé des failles de sécurité que les humains et les outils automatisés avaient manquées depuis des décennies — dans les systèmes qui font fonctionner les banques, les hôpitaux et les réseaux électriques. Anthropic reconnaît qu'il s'agit du modèle le plus dangereux qu'il ait jamais construit et que ses méthodes de sécurité pourraient être inadéquates pour ce qui vient ensuite. Il est déjà utilisé pour construire un successeur plus puissant. Personne n'a voté pour ça. Personne ne l'a réglementé. Il ne faut que cinq minutes pour contacter votre député·e. Nous avons préparé un modèle ci-dessous — veuillez le personnaliser avant d'envoyer. Votre nom Code postal Utilisez votre code postal canadien complet, par exemple H2X 1Y4. Trouver mon député·e Le résultat est une meilleure correspondance possible. Veuillez le vérifier avant l'envoi. Votre député·e Langue du brouillon EN + FR EN only FR seulement À Cc Cci Objet Message Conseil: une fois votre messagerie ouverte, mettez en gras les trois demandes numérotées pour les mettre en valeur. Ouvrir dans votre messagerie Copier le texte du courriel Rejoignez notre Discord. Communauté PauseAI locale au Canada: Montréal Toronto Si vous organisez une communauté PauseAI locale au Canada et souhaitez être ajouté à cette liste, svp envoyer un courriel à nicolas.m.lacombe@gmail.com.",
       "structure": {
         "tagCounts": {
-          "a": 3,
-          "li": 1,
+          "a": 4,
+          "button": 3,
+          "div": 19,
+          "fieldset": 1,
+          "form": 1,
+          "h2": 1,
+          "h3": 2,
+          "img": 1,
+          "input": 9,
+          "label": 10,
+          "legend": 1,
+          "li": 7,
           "nav": 1,
-          "p": 3,
-          "ul": 1
+          "p": 9,
+          "script": 1,
+          "section": 1,
+          "span": 4,
+          "textarea": 1,
+          "ul": 2
         },
-        "linkCount": 3,
-        "imageCount": 0,
-        "buttonCount": 0,
-        "headingCount": 0,
-        "listItemCount": 1,
-        "elementCount": 9,
-        "textLength": 223
+        "linkCount": 4,
+        "imageCount": 1,
+        "buttonCount": 3,
+        "headingCount": 3,
+        "listItemCount": 7,
+        "elementCount": 78,
+        "textLength": 1993
       },
       "bbox": {
         "x": 16,
-        "y": 57.8,
+        "y": 74.91,
         "width": 361,
-        "height": 255.19
+        "height": 3952.36
       },
       "image": "tests/visual/baselines/home-fr/main/pixel-5-light.png"
     },
@@ -2515,7 +2803,7 @@
       },
       "bbox": {
         "x": 260,
-        "y": 130.94,
+        "y": 2809.3,
         "width": 760,
         "height": 667.33
       },
@@ -2544,7 +2832,7 @@
       },
       "bbox": {
         "x": 90,
-        "y": 1922.81,
+        "y": 1949.17,
         "width": 1100,
         "height": 76
       },
@@ -2589,34 +2877,43 @@
       "device": "desktop",
       "mode": "dark",
       "region": "main",
-      "text": "Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Rejoindre S'abonner Discord Nous sommes une communauté de bénévoles qui visent à mitiger les risques de l’IA en convaincant les gouvernements à mettre sur pause le développement d’une IA superhumaine. PauseAI informe le public, parle aux décideurs politiques, et organise des événements. Rejoins-nous à l’un de nos événements ! Ou viens nous parler sur Discord. Pour vous abonner, envoyez un courriel à pauseai-mtl-subscribe@lists.riseup.net. À PauseAI Montréal, nous : Trouvons des personnes déjà sensibilisées à propos de l’IA à travers des événements ouverts à toutes et tous Se rencontrons et discutons de l’encadrement et du déploiement sécuritaire de l’IA, afin que son impact soit bénéfique plutôt que nuisible Faisons de l’affichage et des activités de mobilisation à travers la ville Entrons en contact et parlons aux décideurs politiques afin de les pousser à légiférer pour rendre l’IA plus sûre … et plus à venir! Pour plus de contenu sur les risques de l’IA, visitez pauseai.info (site principale de PauseAI en anglais) ou pauseia.fr (site de PauseIA France en français). Événements",
+      "text": "⚠ PROTOCOLE TIR DE SEMONCE ⚠ PREMIÈRE MOBILISATION D'URGENCE Écrivez à votre député·e maintenant Trouvez votre député·e fédéral·e avec votre code postal, personnalisez le message, puis envoyez-le depuis votre application de messagerie. Ce qui vient de se passer Anthropic a construit une IA — Claude Mythos — capable de trouver et d'exploiter de manière autonome des failles de sécurité dans tous les principaux systèmes d'exploitation, navigateurs et infrastructures critiques. Lors des tests de sécurité, le système s'est échappé de son environnement de confinement, a menti aux chercheurs et a cherché des accès auxquels il n'était pas censé avoir. Il a trouvé des failles de sécurité que les humains et les outils automatisés avaient manquées depuis des décennies — dans les systèmes qui font fonctionner les banques, les hôpitaux et les réseaux électriques. Anthropic reconnaît qu'il s'agit du modèle le plus dangereux qu'il ait jamais construit et que ses méthodes de sécurité pourraient être inadéquates pour ce qui vient ensuite. Il est déjà utilisé pour construire un successeur plus puissant. Personne n'a voté pour ça. Personne ne l'a réglementé. Il ne faut que cinq minutes pour contacter votre député·e. Nous avons préparé un modèle ci-dessous — veuillez le personnaliser avant d'envoyer. Votre nom Code postal Utilisez votre code postal canadien complet, par exemple H2X 1Y4. Trouver mon député·e Le résultat est une meilleure correspondance possible. Veuillez le vérifier avant l'envoi. Votre député·e Langue du brouillon EN + FR EN only FR seulement À Cc Cci Objet Message Conseil: une fois votre messagerie ouverte, mettez en gras les trois demandes numérotées pour les mettre en valeur. Ouvrir dans votre messagerie Copier le texte du courriel Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Rejoindre S'abonner Discord Nous sommes une communauté de bénévoles qui visent à mitiger les risques de l’IA en convaincant les gouvernements à mettre sur pause le développement d’une IA superhumaine. PauseAI informe le public, parle aux décideurs politiques, et organise des événements. Rejoins-nous à l’un de nos événements ! Ou viens nous parler sur Discord. Pour vous abonner, envoyez un courriel à pauseai-mtl-subscribe@lists.riseup.net. À PauseAI Montréal, nous : Trouvons des personnes déjà sensibilisées à propos de l’IA à travers des événements ouverts à toutes et tous Se rencontrons et discutons de l’encadrement et du déploiement sécuritaire de l’IA, afin que son impact soit bénéfique plutôt que nuisible Faisons de l’affichage et des activités de mobilisation à travers la ville Entrons en contact et parlons aux décideurs politiques afin de les pousser à légiférer pour rendre l’IA plus sûre … et plus à venir! Pour plus de contenu sur les risques de l’IA, visitez pauseai.info (site principale de PauseAI en anglais) ou pauseia.fr (site de PauseIA France en français). Événements",
       "structure": {
         "tagCounts": {
           "a": 9,
           "br": 1,
-          "div": 1,
-          "h2": 1,
-          "h3": 1,
+          "button": 3,
+          "div": 20,
+          "fieldset": 1,
+          "form": 1,
+          "h2": 2,
+          "h3": 3,
           "iframe": 1,
-          "li": 5,
-          "p": 7,
-          "section": 1,
-          "span": 3,
-          "ul": 1
+          "img": 1,
+          "input": 9,
+          "label": 10,
+          "legend": 1,
+          "li": 10,
+          "p": 13,
+          "script": 1,
+          "section": 2,
+          "span": 7,
+          "textarea": 1,
+          "ul": 2
         },
         "linkCount": 9,
-        "imageCount": 0,
-        "buttonCount": 0,
-        "headingCount": 2,
-        "listItemCount": 5,
-        "elementCount": 31,
-        "textLength": 1501
+        "imageCount": 1,
+        "buttonCount": 3,
+        "headingCount": 5,
+        "listItemCount": 10,
+        "elementCount": 98,
+        "textLength": 3263
       },
       "bbox": {
         "x": 90,
-        "y": 52.94,
+        "y": -2652.06,
         "width": 1100,
-        "height": 1922.88
+        "height": 4601.23
       },
       "image": "tests/visual/baselines/montreal-fr/main/desktop-dark.png"
     },
@@ -2644,7 +2941,7 @@
       },
       "bbox": {
         "x": 260,
-        "y": 130.94,
+        "y": 2809.3,
         "width": 760,
         "height": 667.33
       },
@@ -2673,7 +2970,7 @@
       },
       "bbox": {
         "x": 90,
-        "y": 1922.81,
+        "y": 1949.17,
         "width": 1100,
         "height": 76
       },
@@ -2718,34 +3015,43 @@
       "device": "desktop",
       "mode": "light",
       "region": "main",
-      "text": "Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Rejoindre S'abonner Discord Nous sommes une communauté de bénévoles qui visent à mitiger les risques de l’IA en convaincant les gouvernements à mettre sur pause le développement d’une IA superhumaine. PauseAI informe le public, parle aux décideurs politiques, et organise des événements. Rejoins-nous à l’un de nos événements ! Ou viens nous parler sur Discord. Pour vous abonner, envoyez un courriel à pauseai-mtl-subscribe@lists.riseup.net. À PauseAI Montréal, nous : Trouvons des personnes déjà sensibilisées à propos de l’IA à travers des événements ouverts à toutes et tous Se rencontrons et discutons de l’encadrement et du déploiement sécuritaire de l’IA, afin que son impact soit bénéfique plutôt que nuisible Faisons de l’affichage et des activités de mobilisation à travers la ville Entrons en contact et parlons aux décideurs politiques afin de les pousser à légiférer pour rendre l’IA plus sûre … et plus à venir! Pour plus de contenu sur les risques de l’IA, visitez pauseai.info (site principale de PauseAI en anglais) ou pauseia.fr (site de PauseIA France en français). Événements",
+      "text": "⚠ PROTOCOLE TIR DE SEMONCE ⚠ PREMIÈRE MOBILISATION D'URGENCE Écrivez à votre député·e maintenant Trouvez votre député·e fédéral·e avec votre code postal, personnalisez le message, puis envoyez-le depuis votre application de messagerie. Ce qui vient de se passer Anthropic a construit une IA — Claude Mythos — capable de trouver et d'exploiter de manière autonome des failles de sécurité dans tous les principaux systèmes d'exploitation, navigateurs et infrastructures critiques. Lors des tests de sécurité, le système s'est échappé de son environnement de confinement, a menti aux chercheurs et a cherché des accès auxquels il n'était pas censé avoir. Il a trouvé des failles de sécurité que les humains et les outils automatisés avaient manquées depuis des décennies — dans les systèmes qui font fonctionner les banques, les hôpitaux et les réseaux électriques. Anthropic reconnaît qu'il s'agit du modèle le plus dangereux qu'il ait jamais construit et que ses méthodes de sécurité pourraient être inadéquates pour ce qui vient ensuite. Il est déjà utilisé pour construire un successeur plus puissant. Personne n'a voté pour ça. Personne ne l'a réglementé. Il ne faut que cinq minutes pour contacter votre député·e. Nous avons préparé un modèle ci-dessous — veuillez le personnaliser avant d'envoyer. Votre nom Code postal Utilisez votre code postal canadien complet, par exemple H2X 1Y4. Trouver mon député·e Le résultat est une meilleure correspondance possible. Veuillez le vérifier avant l'envoi. Votre député·e Langue du brouillon EN + FR EN only FR seulement À Cc Cci Objet Message Conseil: une fois votre messagerie ouverte, mettez en gras les trois demandes numérotées pour les mettre en valeur. Ouvrir dans votre messagerie Copier le texte du courriel Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Rejoindre S'abonner Discord Nous sommes une communauté de bénévoles qui visent à mitiger les risques de l’IA en convaincant les gouvernements à mettre sur pause le développement d’une IA superhumaine. PauseAI informe le public, parle aux décideurs politiques, et organise des événements. Rejoins-nous à l’un de nos événements ! Ou viens nous parler sur Discord. Pour vous abonner, envoyez un courriel à pauseai-mtl-subscribe@lists.riseup.net. À PauseAI Montréal, nous : Trouvons des personnes déjà sensibilisées à propos de l’IA à travers des événements ouverts à toutes et tous Se rencontrons et discutons de l’encadrement et du déploiement sécuritaire de l’IA, afin que son impact soit bénéfique plutôt que nuisible Faisons de l’affichage et des activités de mobilisation à travers la ville Entrons en contact et parlons aux décideurs politiques afin de les pousser à légiférer pour rendre l’IA plus sûre … et plus à venir! Pour plus de contenu sur les risques de l’IA, visitez pauseai.info (site principale de PauseAI en anglais) ou pauseia.fr (site de PauseIA France en français). Événements",
       "structure": {
         "tagCounts": {
           "a": 9,
           "br": 1,
-          "div": 1,
-          "h2": 1,
-          "h3": 1,
+          "button": 3,
+          "div": 20,
+          "fieldset": 1,
+          "form": 1,
+          "h2": 2,
+          "h3": 3,
           "iframe": 1,
-          "li": 5,
-          "p": 7,
-          "section": 1,
-          "span": 3,
-          "ul": 1
+          "img": 1,
+          "input": 9,
+          "label": 10,
+          "legend": 1,
+          "li": 10,
+          "p": 13,
+          "script": 1,
+          "section": 2,
+          "span": 7,
+          "textarea": 1,
+          "ul": 2
         },
         "linkCount": 9,
-        "imageCount": 0,
-        "buttonCount": 0,
-        "headingCount": 2,
-        "listItemCount": 5,
-        "elementCount": 31,
-        "textLength": 1501
+        "imageCount": 1,
+        "buttonCount": 3,
+        "headingCount": 5,
+        "listItemCount": 10,
+        "elementCount": 98,
+        "textLength": 3263
       },
       "bbox": {
         "x": 90,
-        "y": 52.94,
+        "y": -2652.06,
         "width": 1100,
-        "height": 1922.88
+        "height": 4601.23
       },
       "image": "tests/visual/baselines/montreal-fr/main/desktop-light.png"
     },
@@ -2773,7 +3079,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 74.91,
+        "y": 3743.72,
         "width": 358,
         "height": 870.94
       },
@@ -2802,7 +3108,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 2474.89,
+        "y": 2372.7,
         "width": 358,
         "height": 111.25
       },
@@ -2847,34 +3153,43 @@
       "device": "iphone-13",
       "mode": "dark",
       "region": "main",
-      "text": "Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Rejoindre S'abonner Discord Nous sommes une communauté de bénévoles qui visent à mitiger les risques de l’IA en convaincant les gouvernements à mettre sur pause le développement d’une IA superhumaine. PauseAI informe le public, parle aux décideurs politiques, et organise des événements. Rejoins-nous à l’un de nos événements ! Ou viens nous parler sur Discord. Pour vous abonner, envoyez un courriel à pauseai-mtl-subscribe@lists.riseup.net. À PauseAI Montréal, nous : Trouvons des personnes déjà sensibilisées à propos de l’IA à travers des événements ouverts à toutes et tous Se rencontrons et discutons de l’encadrement et du déploiement sécuritaire de l’IA, afin que son impact soit bénéfique plutôt que nuisible Faisons de l’affichage et des activités de mobilisation à travers la ville Entrons en contact et parlons aux décideurs politiques afin de les pousser à légiférer pour rendre l’IA plus sûre … et plus à venir! Pour plus de contenu sur les risques de l’IA, visitez pauseai.info (site principale de PauseAI en anglais) ou pauseia.fr (site de PauseIA France en français). Événements",
+      "text": "⚠ PROTOCOLE TIR DE SEMONCE ⚠ PREMIÈRE MOBILISATION D'URGENCE Écrivez à votre député·e maintenant Trouvez votre député·e fédéral·e avec votre code postal, personnalisez le message, puis envoyez-le depuis votre application de messagerie. Ce qui vient de se passer Anthropic a construit une IA — Claude Mythos — capable de trouver et d'exploiter de manière autonome des failles de sécurité dans tous les principaux systèmes d'exploitation, navigateurs et infrastructures critiques. Lors des tests de sécurité, le système s'est échappé de son environnement de confinement, a menti aux chercheurs et a cherché des accès auxquels il n'était pas censé avoir. Il a trouvé des failles de sécurité que les humains et les outils automatisés avaient manquées depuis des décennies — dans les systèmes qui font fonctionner les banques, les hôpitaux et les réseaux électriques. Anthropic reconnaît qu'il s'agit du modèle le plus dangereux qu'il ait jamais construit et que ses méthodes de sécurité pourraient être inadéquates pour ce qui vient ensuite. Il est déjà utilisé pour construire un successeur plus puissant. Personne n'a voté pour ça. Personne ne l'a réglementé. Il ne faut que cinq minutes pour contacter votre député·e. Nous avons préparé un modèle ci-dessous — veuillez le personnaliser avant d'envoyer. Votre nom Code postal Utilisez votre code postal canadien complet, par exemple H2X 1Y4. Trouver mon député·e Le résultat est une meilleure correspondance possible. Veuillez le vérifier avant l'envoi. Votre député·e Langue du brouillon EN + FR EN only FR seulement À Cc Cci Objet Message Conseil: une fois votre messagerie ouverte, mettez en gras les trois demandes numérotées pour les mettre en valeur. Ouvrir dans votre messagerie Copier le texte du courriel Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Rejoindre S'abonner Discord Nous sommes une communauté de bénévoles qui visent à mitiger les risques de l’IA en convaincant les gouvernements à mettre sur pause le développement d’une IA superhumaine. PauseAI informe le public, parle aux décideurs politiques, et organise des événements. Rejoins-nous à l’un de nos événements ! Ou viens nous parler sur Discord. Pour vous abonner, envoyez un courriel à pauseai-mtl-subscribe@lists.riseup.net. À PauseAI Montréal, nous : Trouvons des personnes déjà sensibilisées à propos de l’IA à travers des événements ouverts à toutes et tous Se rencontrons et discutons de l’encadrement et du déploiement sécuritaire de l’IA, afin que son impact soit bénéfique plutôt que nuisible Faisons de l’affichage et des activités de mobilisation à travers la ville Entrons en contact et parlons aux décideurs politiques afin de les pousser à légiférer pour rendre l’IA plus sûre … et plus à venir! Pour plus de contenu sur les risques de l’IA, visitez pauseai.info (site principale de PauseAI en anglais) ou pauseia.fr (site de PauseIA France en français). Événements",
       "structure": {
         "tagCounts": {
           "a": 9,
           "br": 1,
-          "div": 1,
-          "h2": 1,
-          "h3": 1,
+          "button": 3,
+          "div": 20,
+          "fieldset": 1,
+          "form": 1,
+          "h2": 2,
+          "h3": 3,
           "iframe": 1,
-          "li": 5,
-          "p": 7,
-          "section": 1,
-          "span": 3,
-          "ul": 1
+          "img": 1,
+          "input": 9,
+          "label": 10,
+          "legend": 1,
+          "li": 10,
+          "p": 13,
+          "script": 1,
+          "section": 2,
+          "span": 7,
+          "textarea": 1,
+          "ul": 2
         },
         "linkCount": 9,
-        "imageCount": 0,
-        "buttonCount": 0,
-        "headingCount": 2,
-        "listItemCount": 5,
-        "elementCount": 31,
-        "textLength": 1501
+        "imageCount": 1,
+        "buttonCount": 3,
+        "headingCount": 5,
+        "listItemCount": 10,
+        "elementCount": 98,
+        "textLength": 3263
       },
       "bbox": {
         "x": 16,
-        "y": 0.91,
+        "y": -3771.09,
         "width": 358,
-        "height": 2473.98
+        "height": 6142.8
       },
       "image": "tests/visual/baselines/montreal-fr/main/iphone-13-dark.png"
     },
@@ -2902,7 +3217,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 74.91,
+        "y": 3743.72,
         "width": 358,
         "height": 870.94
       },
@@ -2931,7 +3246,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 2474.89,
+        "y": 2372.7,
         "width": 358,
         "height": 111.25
       },
@@ -2976,34 +3291,43 @@
       "device": "iphone-13",
       "mode": "light",
       "region": "main",
-      "text": "Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Rejoindre S'abonner Discord Nous sommes une communauté de bénévoles qui visent à mitiger les risques de l’IA en convaincant les gouvernements à mettre sur pause le développement d’une IA superhumaine. PauseAI informe le public, parle aux décideurs politiques, et organise des événements. Rejoins-nous à l’un de nos événements ! Ou viens nous parler sur Discord. Pour vous abonner, envoyez un courriel à pauseai-mtl-subscribe@lists.riseup.net. À PauseAI Montréal, nous : Trouvons des personnes déjà sensibilisées à propos de l’IA à travers des événements ouverts à toutes et tous Se rencontrons et discutons de l’encadrement et du déploiement sécuritaire de l’IA, afin que son impact soit bénéfique plutôt que nuisible Faisons de l’affichage et des activités de mobilisation à travers la ville Entrons en contact et parlons aux décideurs politiques afin de les pousser à légiférer pour rendre l’IA plus sûre … et plus à venir! Pour plus de contenu sur les risques de l’IA, visitez pauseai.info (site principale de PauseAI en anglais) ou pauseia.fr (site de PauseIA France en français). Événements",
+      "text": "⚠ PROTOCOLE TIR DE SEMONCE ⚠ PREMIÈRE MOBILISATION D'URGENCE Écrivez à votre député·e maintenant Trouvez votre député·e fédéral·e avec votre code postal, personnalisez le message, puis envoyez-le depuis votre application de messagerie. Ce qui vient de se passer Anthropic a construit une IA — Claude Mythos — capable de trouver et d'exploiter de manière autonome des failles de sécurité dans tous les principaux systèmes d'exploitation, navigateurs et infrastructures critiques. Lors des tests de sécurité, le système s'est échappé de son environnement de confinement, a menti aux chercheurs et a cherché des accès auxquels il n'était pas censé avoir. Il a trouvé des failles de sécurité que les humains et les outils automatisés avaient manquées depuis des décennies — dans les systèmes qui font fonctionner les banques, les hôpitaux et les réseaux électriques. Anthropic reconnaît qu'il s'agit du modèle le plus dangereux qu'il ait jamais construit et que ses méthodes de sécurité pourraient être inadéquates pour ce qui vient ensuite. Il est déjà utilisé pour construire un successeur plus puissant. Personne n'a voté pour ça. Personne ne l'a réglementé. Il ne faut que cinq minutes pour contacter votre député·e. Nous avons préparé un modèle ci-dessous — veuillez le personnaliser avant d'envoyer. Votre nom Code postal Utilisez votre code postal canadien complet, par exemple H2X 1Y4. Trouver mon député·e Le résultat est une meilleure correspondance possible. Veuillez le vérifier avant l'envoi. Votre député·e Langue du brouillon EN + FR EN only FR seulement À Cc Cci Objet Message Conseil: une fois votre messagerie ouverte, mettez en gras les trois demandes numérotées pour les mettre en valeur. Ouvrir dans votre messagerie Copier le texte du courriel Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Rejoindre S'abonner Discord Nous sommes une communauté de bénévoles qui visent à mitiger les risques de l’IA en convaincant les gouvernements à mettre sur pause le développement d’une IA superhumaine. PauseAI informe le public, parle aux décideurs politiques, et organise des événements. Rejoins-nous à l’un de nos événements ! Ou viens nous parler sur Discord. Pour vous abonner, envoyez un courriel à pauseai-mtl-subscribe@lists.riseup.net. À PauseAI Montréal, nous : Trouvons des personnes déjà sensibilisées à propos de l’IA à travers des événements ouverts à toutes et tous Se rencontrons et discutons de l’encadrement et du déploiement sécuritaire de l’IA, afin que son impact soit bénéfique plutôt que nuisible Faisons de l’affichage et des activités de mobilisation à travers la ville Entrons en contact et parlons aux décideurs politiques afin de les pousser à légiférer pour rendre l’IA plus sûre … et plus à venir! Pour plus de contenu sur les risques de l’IA, visitez pauseai.info (site principale de PauseAI en anglais) ou pauseia.fr (site de PauseIA France en français). Événements",
       "structure": {
         "tagCounts": {
           "a": 9,
           "br": 1,
-          "div": 1,
-          "h2": 1,
-          "h3": 1,
+          "button": 3,
+          "div": 20,
+          "fieldset": 1,
+          "form": 1,
+          "h2": 2,
+          "h3": 3,
           "iframe": 1,
-          "li": 5,
-          "p": 7,
-          "section": 1,
-          "span": 3,
-          "ul": 1
+          "img": 1,
+          "input": 9,
+          "label": 10,
+          "legend": 1,
+          "li": 10,
+          "p": 13,
+          "script": 1,
+          "section": 2,
+          "span": 7,
+          "textarea": 1,
+          "ul": 2
         },
         "linkCount": 9,
-        "imageCount": 0,
-        "buttonCount": 0,
-        "headingCount": 2,
-        "listItemCount": 5,
-        "elementCount": 31,
-        "textLength": 1501
+        "imageCount": 1,
+        "buttonCount": 3,
+        "headingCount": 5,
+        "listItemCount": 10,
+        "elementCount": 98,
+        "textLength": 3263
       },
       "bbox": {
         "x": 16,
-        "y": 0.91,
+        "y": -3771.09,
         "width": 358,
-        "height": 2473.98
+        "height": 6142.8
       },
       "image": "tests/visual/baselines/montreal-fr/main/iphone-13-light.png"
     },
@@ -3031,7 +3355,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 74.91,
+        "y": 3743.72,
         "width": 361,
         "height": 870.94
       },
@@ -3060,7 +3384,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 2446.53,
+        "y": 2375.34,
         "width": 361,
         "height": 111.25
       },
@@ -3105,34 +3429,43 @@
       "device": "pixel-5",
       "mode": "dark",
       "region": "main",
-      "text": "Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Rejoindre S'abonner Discord Nous sommes une communauté de bénévoles qui visent à mitiger les risques de l’IA en convaincant les gouvernements à mettre sur pause le développement d’une IA superhumaine. PauseAI informe le public, parle aux décideurs politiques, et organise des événements. Rejoins-nous à l’un de nos événements ! Ou viens nous parler sur Discord. Pour vous abonner, envoyez un courriel à pauseai-mtl-subscribe@lists.riseup.net. À PauseAI Montréal, nous : Trouvons des personnes déjà sensibilisées à propos de l’IA à travers des événements ouverts à toutes et tous Se rencontrons et discutons de l’encadrement et du déploiement sécuritaire de l’IA, afin que son impact soit bénéfique plutôt que nuisible Faisons de l’affichage et des activités de mobilisation à travers la ville Entrons en contact et parlons aux décideurs politiques afin de les pousser à légiférer pour rendre l’IA plus sûre … et plus à venir! Pour plus de contenu sur les risques de l’IA, visitez pauseai.info (site principale de PauseAI en anglais) ou pauseia.fr (site de PauseIA France en français). Événements",
+      "text": "⚠ PROTOCOLE TIR DE SEMONCE ⚠ PREMIÈRE MOBILISATION D'URGENCE Écrivez à votre député·e maintenant Trouvez votre député·e fédéral·e avec votre code postal, personnalisez le message, puis envoyez-le depuis votre application de messagerie. Ce qui vient de se passer Anthropic a construit une IA — Claude Mythos — capable de trouver et d'exploiter de manière autonome des failles de sécurité dans tous les principaux systèmes d'exploitation, navigateurs et infrastructures critiques. Lors des tests de sécurité, le système s'est échappé de son environnement de confinement, a menti aux chercheurs et a cherché des accès auxquels il n'était pas censé avoir. Il a trouvé des failles de sécurité que les humains et les outils automatisés avaient manquées depuis des décennies — dans les systèmes qui font fonctionner les banques, les hôpitaux et les réseaux électriques. Anthropic reconnaît qu'il s'agit du modèle le plus dangereux qu'il ait jamais construit et que ses méthodes de sécurité pourraient être inadéquates pour ce qui vient ensuite. Il est déjà utilisé pour construire un successeur plus puissant. Personne n'a voté pour ça. Personne ne l'a réglementé. Il ne faut que cinq minutes pour contacter votre député·e. Nous avons préparé un modèle ci-dessous — veuillez le personnaliser avant d'envoyer. Votre nom Code postal Utilisez votre code postal canadien complet, par exemple H2X 1Y4. Trouver mon député·e Le résultat est une meilleure correspondance possible. Veuillez le vérifier avant l'envoi. Votre député·e Langue du brouillon EN + FR EN only FR seulement À Cc Cci Objet Message Conseil: une fois votre messagerie ouverte, mettez en gras les trois demandes numérotées pour les mettre en valeur. Ouvrir dans votre messagerie Copier le texte du courriel Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Rejoindre S'abonner Discord Nous sommes une communauté de bénévoles qui visent à mitiger les risques de l’IA en convaincant les gouvernements à mettre sur pause le développement d’une IA superhumaine. PauseAI informe le public, parle aux décideurs politiques, et organise des événements. Rejoins-nous à l’un de nos événements ! Ou viens nous parler sur Discord. Pour vous abonner, envoyez un courriel à pauseai-mtl-subscribe@lists.riseup.net. À PauseAI Montréal, nous : Trouvons des personnes déjà sensibilisées à propos de l’IA à travers des événements ouverts à toutes et tous Se rencontrons et discutons de l’encadrement et du déploiement sécuritaire de l’IA, afin que son impact soit bénéfique plutôt que nuisible Faisons de l’affichage et des activités de mobilisation à travers la ville Entrons en contact et parlons aux décideurs politiques afin de les pousser à légiférer pour rendre l’IA plus sûre … et plus à venir! Pour plus de contenu sur les risques de l’IA, visitez pauseai.info (site principale de PauseAI en anglais) ou pauseia.fr (site de PauseIA France en français). Événements",
       "structure": {
         "tagCounts": {
           "a": 9,
           "br": 1,
-          "div": 1,
-          "h2": 1,
-          "h3": 1,
+          "button": 3,
+          "div": 20,
+          "fieldset": 1,
+          "form": 1,
+          "h2": 2,
+          "h3": 3,
           "iframe": 1,
-          "li": 5,
-          "p": 7,
-          "section": 1,
-          "span": 3,
-          "ul": 1
+          "img": 1,
+          "input": 9,
+          "label": 10,
+          "legend": 1,
+          "li": 10,
+          "p": 13,
+          "script": 1,
+          "section": 2,
+          "span": 7,
+          "textarea": 1,
+          "ul": 2
         },
         "linkCount": 9,
-        "imageCount": 0,
-        "buttonCount": 0,
-        "headingCount": 2,
-        "listItemCount": 5,
-        "elementCount": 31,
-        "textLength": 1501
+        "imageCount": 1,
+        "buttonCount": 3,
+        "headingCount": 5,
+        "listItemCount": 10,
+        "elementCount": 98,
+        "textLength": 3263
       },
       "bbox": {
         "x": 16,
-        "y": 0.91,
+        "y": -3740.09,
         "width": 361,
-        "height": 2445.63
+        "height": 6114.44
       },
       "image": "tests/visual/baselines/montreal-fr/main/pixel-5-dark.png"
     },
@@ -3160,7 +3493,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 74.91,
+        "y": 3743.72,
         "width": 361,
         "height": 870.94
       },
@@ -3189,7 +3522,7 @@
       },
       "bbox": {
         "x": 16,
-        "y": 2446.53,
+        "y": 2375.34,
         "width": 361,
         "height": 111.25
       },
@@ -3234,34 +3567,43 @@
       "device": "pixel-5",
       "mode": "light",
       "region": "main",
-      "text": "Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Rejoindre S'abonner Discord Nous sommes une communauté de bénévoles qui visent à mitiger les risques de l’IA en convaincant les gouvernements à mettre sur pause le développement d’une IA superhumaine. PauseAI informe le public, parle aux décideurs politiques, et organise des événements. Rejoins-nous à l’un de nos événements ! Ou viens nous parler sur Discord. Pour vous abonner, envoyez un courriel à pauseai-mtl-subscribe@lists.riseup.net. À PauseAI Montréal, nous : Trouvons des personnes déjà sensibilisées à propos de l’IA à travers des événements ouverts à toutes et tous Se rencontrons et discutons de l’encadrement et du déploiement sécuritaire de l’IA, afin que son impact soit bénéfique plutôt que nuisible Faisons de l’affichage et des activités de mobilisation à travers la ville Entrons en contact et parlons aux décideurs politiques afin de les pousser à légiférer pour rendre l’IA plus sûre … et plus à venir! Pour plus de contenu sur les risques de l’IA, visitez pauseai.info (site principale de PauseAI en anglais) ou pauseia.fr (site de PauseIA France en français). Événements",
+      "text": "⚠ PROTOCOLE TIR DE SEMONCE ⚠ PREMIÈRE MOBILISATION D'URGENCE Écrivez à votre député·e maintenant Trouvez votre député·e fédéral·e avec votre code postal, personnalisez le message, puis envoyez-le depuis votre application de messagerie. Ce qui vient de se passer Anthropic a construit une IA — Claude Mythos — capable de trouver et d'exploiter de manière autonome des failles de sécurité dans tous les principaux systèmes d'exploitation, navigateurs et infrastructures critiques. Lors des tests de sécurité, le système s'est échappé de son environnement de confinement, a menti aux chercheurs et a cherché des accès auxquels il n'était pas censé avoir. Il a trouvé des failles de sécurité que les humains et les outils automatisés avaient manquées depuis des décennies — dans les systèmes qui font fonctionner les banques, les hôpitaux et les réseaux électriques. Anthropic reconnaît qu'il s'agit du modèle le plus dangereux qu'il ait jamais construit et que ses méthodes de sécurité pourraient être inadéquates pour ce qui vient ensuite. Il est déjà utilisé pour construire un successeur plus puissant. Personne n'a voté pour ça. Personne ne l'a réglementé. Il ne faut que cinq minutes pour contacter votre député·e. Nous avons préparé un modèle ci-dessous — veuillez le personnaliser avant d'envoyer. Votre nom Code postal Utilisez votre code postal canadien complet, par exemple H2X 1Y4. Trouver mon député·e Le résultat est une meilleure correspondance possible. Veuillez le vérifier avant l'envoi. Votre député·e Langue du brouillon EN + FR EN only FR seulement À Cc Cci Objet Message Conseil: une fois votre messagerie ouverte, mettez en gras les trois demandes numérotées pour les mettre en valeur. Ouvrir dans votre messagerie Copier le texte du courriel Pour garder l'IA sous contrôle, agissons maintenant L’IA redéfinit déjà nos emplois et notre vie quotidienne. Régulièrement, de nouveaux systèmes franchissent des seuils que l’on pensait lointains. D'après la plupart des experts en sécurité de l'IA, poursuivre cette course sans garde-fous fait peser un risque catastrophique sur l’humanité à court terme. La fenêtre se referme vite : agissons maintenant. Rejoindre S'abonner Discord Nous sommes une communauté de bénévoles qui visent à mitiger les risques de l’IA en convaincant les gouvernements à mettre sur pause le développement d’une IA superhumaine. PauseAI informe le public, parle aux décideurs politiques, et organise des événements. Rejoins-nous à l’un de nos événements ! Ou viens nous parler sur Discord. Pour vous abonner, envoyez un courriel à pauseai-mtl-subscribe@lists.riseup.net. À PauseAI Montréal, nous : Trouvons des personnes déjà sensibilisées à propos de l’IA à travers des événements ouverts à toutes et tous Se rencontrons et discutons de l’encadrement et du déploiement sécuritaire de l’IA, afin que son impact soit bénéfique plutôt que nuisible Faisons de l’affichage et des activités de mobilisation à travers la ville Entrons en contact et parlons aux décideurs politiques afin de les pousser à légiférer pour rendre l’IA plus sûre … et plus à venir! Pour plus de contenu sur les risques de l’IA, visitez pauseai.info (site principale de PauseAI en anglais) ou pauseia.fr (site de PauseIA France en français). Événements",
       "structure": {
         "tagCounts": {
           "a": 9,
           "br": 1,
-          "div": 1,
-          "h2": 1,
-          "h3": 1,
+          "button": 3,
+          "div": 20,
+          "fieldset": 1,
+          "form": 1,
+          "h2": 2,
+          "h3": 3,
           "iframe": 1,
-          "li": 5,
-          "p": 7,
-          "section": 1,
-          "span": 3,
-          "ul": 1
+          "img": 1,
+          "input": 9,
+          "label": 10,
+          "legend": 1,
+          "li": 10,
+          "p": 13,
+          "script": 1,
+          "section": 2,
+          "span": 7,
+          "textarea": 1,
+          "ul": 2
         },
         "linkCount": 9,
-        "imageCount": 0,
-        "buttonCount": 0,
-        "headingCount": 2,
-        "listItemCount": 5,
-        "elementCount": 31,
-        "textLength": 1501
+        "imageCount": 1,
+        "buttonCount": 3,
+        "headingCount": 5,
+        "listItemCount": 10,
+        "elementCount": 98,
+        "textLength": 3263
       },
       "bbox": {
         "x": 16,
-        "y": 0.91,
+        "y": -3740.09,
         "width": 361,
-        "height": 2445.63
+        "height": 6114.44
       },
       "image": "tests/visual/baselines/montreal-fr/main/pixel-5-light.png"
     }

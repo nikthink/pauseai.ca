@@ -1,0 +1,142 @@
+{{ $lang := .Site.Language.Lang }}
+{{ $campaign := index .Site.Data "current-campaign" }}
+{{ $content := index $campaign $lang | default (index $campaign "en") }}
+{{ $en := index $campaign "en" }}
+{{ $fr := index $campaign "fr" }}
+{{ $bilingual := index $campaign "bilingual" }}
+{{ $config := dict
+  "bcc" (index $campaign "bcc")
+  "cc" (index $campaign "cc" | default "")
+  "emailEn" (index $en "email")
+  "emailFr" (index $fr "email")
+  "emailBilingual" (index $bilingual "email")
+}}
+<section id="current-campaign" class="campaign-email" data-module="current-campaign-email" data-locale="{{ $lang }}">
+  <script type="application/json" data-role="campaign-config">{{ $config | jsonify | safeJS }}</script>
+
+  <div class="campaign-email__inner">
+    {{ with $content.warningBadge }}
+    <div class="campaign-email__warning-stripe">
+      <span class="campaign-email__warning-badge">⚠&nbsp;&nbsp;{{ . }}&nbsp;&nbsp;⚠</span>
+    </div>
+    {{ end }}
+
+    <div class="campaign-email__content">
+      <div class="campaign-email__intro">
+        <img src="/images/pauseai-ca.png" alt="PauseAI Canada" class="campaign-email__logo" width="100" height="100" />
+        <p class="campaign-email__eyebrow">{{ $content.eyebrow }}</p>
+        <h2 class="campaign-email__title">{{ $content.title }}</h2>
+        <p class="campaign-email__lede">{{ $content.lede }}</p>
+      </div>
+
+      {{ with $content.contextHeading }}
+      <div class="campaign-email__context">
+        <h3 class="campaign-email__context-heading">{{ . }}</h3>
+        {{ with $content.contextBullets }}
+        <ul class="campaign-email__context-list">
+          {{ range . }}<li>{{ . }}</li>{{ end }}
+        </ul>
+        {{ end }}
+        {{ with $content.contextAction }}
+        <p class="campaign-email__context-action">{{ . }}</p>
+        {{ end }}
+      </div>
+      {{ end }}
+
+      <form class="campaign-email__form" novalidate>
+
+        <div class="campaign-email__field">
+          <label for="campaign-name" class="campaign-email__label">{{ i18n "campaign_name_label" }}</label>
+          <input
+            id="campaign-name"
+            name="name"
+            type="text"
+            autocomplete="name"
+            placeholder="{{ i18n "campaign_name_placeholder" }}"
+            class="campaign-email__input"
+          />
+        </div>
+
+        <div class="campaign-email__lookup">
+          <label for="campaign-postal-code" class="campaign-email__label">
+            {{ i18n "campaign_postal_code_label" }}
+          </label>
+          <div class="campaign-email__hint">{{ i18n "campaign_postal_code_hint" }}</div>
+          <div class="campaign-email__lookup-row">
+            <input
+              id="campaign-postal-code"
+              name="postalCode"
+              type="text"
+              inputmode="text"
+              autocomplete="postal-code"
+              maxlength="7"
+              placeholder="{{ i18n "campaign_postal_code_placeholder" }}"
+              class="campaign-email__input"
+            />
+            <button type="button" class="campaign-email__button campaign-email__button--lookup" data-action="lookup">
+              {{ i18n "campaign_lookup_cta" }}
+            </button>
+          </div>
+          <p class="campaign-email__note">{{ i18n "campaign_lookup_note" }}</p>
+          <p class="campaign-email__error" data-role="lookup-error" hidden></p>
+        </div>
+
+        <div class="campaign-email__mp" data-role="mp-panel" hidden>
+          <h3 class="campaign-email__subheading">{{ i18n "campaign_mp_heading" }}</h3>
+          <div data-role="mp-list"></div>
+        </div>
+
+        <fieldset class="campaign-email__fieldset">
+          <legend class="campaign-email__legend">{{ i18n "campaign_language_legend" }}</legend>
+          <label class="campaign-email__radio">
+            <input type="radio" name="draftLanguage" value="bilingual" checked />
+            <span>{{ i18n "campaign_language_bilingual" }}</span>
+          </label>
+          <label class="campaign-email__radio">
+            <input type="radio" name="draftLanguage" value="en" />
+            <span>{{ i18n "campaign_language_en" }}</span>
+          </label>
+          <label class="campaign-email__radio">
+            <input type="radio" name="draftLanguage" value="fr" />
+            <span>{{ i18n "campaign_language_fr" }}</span>
+          </label>
+        </fieldset>
+
+        <div class="campaign-email__fields">
+          <div class="campaign-email__field">
+            <label for="campaign-to" class="campaign-email__label">{{ i18n "campaign_to_label" }}</label>
+            <input id="campaign-to" name="to" type="email" class="campaign-email__input" />
+          </div>
+          <div class="campaign-email__field">
+            <label for="campaign-cc" class="campaign-email__label">{{ i18n "campaign_cc_label" }}</label>
+            <input id="campaign-cc" name="cc" type="text" class="campaign-email__input" />
+          </div>
+          <div class="campaign-email__field">
+            <label for="campaign-bcc" class="campaign-email__label">{{ i18n "campaign_bcc_label" }}</label>
+            <input id="campaign-bcc" name="bcc" type="text" class="campaign-email__input" />
+          </div>
+          <div class="campaign-email__field">
+            <label for="campaign-subject" class="campaign-email__label">{{ i18n "campaign_subject_label" }}</label>
+            <input id="campaign-subject" name="subject" type="text" class="campaign-email__input" />
+          </div>
+          <div class="campaign-email__field">
+            <label for="campaign-body" class="campaign-email__label">{{ i18n "campaign_body_label" }}</label>
+            <div class="campaign-email__hint">{{ i18n "campaign_body_hint" }}</div>
+            <textarea id="campaign-body" name="body" rows="18" class="campaign-email__textarea"></textarea>
+          </div>
+        </div>
+
+        <div class="campaign-email__actions">
+          <button type="button" class="campaign-email__button campaign-email__button--primary" data-action="open-mailto">
+            {{ i18n "campaign_open_mailto_cta" }}
+          </button>
+          <button type="button" class="campaign-email__button campaign-email__button--secondary" data-action="copy-body">
+            {{ i18n "campaign_copy_body_cta" }}
+          </button>
+        </div>
+
+        <p class="campaign-email__status" data-role="status" aria-live="polite"></p>
+      </form>
+    </div>
+  </div>
+</section>

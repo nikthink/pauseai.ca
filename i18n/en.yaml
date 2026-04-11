@@ -1,0 +1,59 @@
+- id: campaign_name_label
+  translation: "Your name"
+
+- id: campaign_name_placeholder
+  translation: "Jane Smith"
+
+- id: campaign_postal_code_label
+  translation: "Postal code"
+
+- id: campaign_postal_code_hint
+  translation: "Use your full Canadian postal code, for example H2X 1Y4."
+
+- id: campaign_postal_code_placeholder
+  translation: "H2X 1Y4"
+
+- id: campaign_lookup_cta
+  translation: "Find my MP"
+
+- id: campaign_lookup_note
+  translation: "The result is a best match. Please review before sending."
+
+- id: campaign_mp_heading
+  translation: "Your MP"
+
+- id: campaign_language_legend
+  translation: "Draft language"
+
+- id: campaign_language_bilingual
+  translation: "EN + FR"
+
+- id: campaign_language_en
+  translation: "EN only"
+
+- id: campaign_language_fr
+  translation: "FR seulement"
+
+- id: campaign_to_label
+  translation: "To"
+
+- id: campaign_cc_label
+  translation: "Cc"
+
+- id: campaign_bcc_label
+  translation: "Bcc"
+
+- id: campaign_subject_label
+  translation: "Subject"
+
+- id: campaign_body_label
+  translation: "Body"
+
+- id: campaign_body_hint
+  translation: "Tip: once your email app opens, bold the three numbered action items for emphasis."
+
+- id: campaign_open_mailto_cta
+  translation: "Open in your email app"
+
+- id: campaign_copy_body_cta
+  translation: "Copy email text"

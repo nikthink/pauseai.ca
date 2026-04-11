@@ -13,6 +13,8 @@ params:
     toc: false
     showTranslations: false
 ---
+{{< current-campaign-email >}}
+
 {{< shared-callout >}}
 
 Nous sommes une communauté de bénévoles qui visent à mitiger

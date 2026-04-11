@@ -3,6 +3,8 @@ title: Action (MTL)
 date: 2025-10-29T14:49:12-04:00
 draft: false
 ---
+{{< current-campaign-email >}}
+
 Here's a list of actions you can do right now to help.
 
 To be notified of new action opportunities,

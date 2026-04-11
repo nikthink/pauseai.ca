@@ -1,0 +1,59 @@
+- id: campaign_name_label
+  translation: "Votre nom"
+
+- id: campaign_name_placeholder
+  translation: "Jean Dupont"
+
+- id: campaign_postal_code_label
+  translation: "Code postal"
+
+- id: campaign_postal_code_hint
+  translation: "Utilisez votre code postal canadien complet, par exemple H2X 1Y4."
+
+- id: campaign_postal_code_placeholder
+  translation: "H2X 1Y4"
+
+- id: campaign_lookup_cta
+  translation: "Trouver mon député·e"
+
+- id: campaign_lookup_note
+  translation: "Le résultat est une meilleure correspondance possible. Veuillez le vérifier avant l'envoi."
+
+- id: campaign_mp_heading
+  translation: "Votre député·e"
+
+- id: campaign_language_legend
+  translation: "Langue du brouillon"
+
+- id: campaign_language_bilingual
+  translation: "EN + FR"
+
+- id: campaign_language_en
+  translation: "EN only"
+
+- id: campaign_language_fr
+  translation: "FR seulement"
+
+- id: campaign_to_label
+  translation: "À"
+
+- id: campaign_cc_label
+  translation: "Cc"
+
+- id: campaign_bcc_label
+  translation: "Cci"
+
+- id: campaign_subject_label
+  translation: "Objet"
+
+- id: campaign_body_label
+  translation: "Message"
+
+- id: campaign_body_hint
+  translation: "Conseil: une fois votre messagerie ouverte, mettez en gras les trois demandes numérotées pour les mettre en valeur."
+
+- id: campaign_open_mailto_cta
+  translation: "Ouvrir dans votre messagerie"
+
+- id: campaign_copy_body_cta
+  translation: "Copier le texte du courriel"

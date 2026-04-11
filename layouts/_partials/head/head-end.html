@@ -1,0 +1,2 @@
+{{ $campaignJs := resources.Get "js/current-campaign-email.js" | js.Build | fingerprint }}
+<script src="{{ $campaignJs.RelPermalink }}" defer></script>

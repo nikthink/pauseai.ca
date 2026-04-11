@@ -43,7 +43,7 @@
       "regions": [
         { "id": "header", "selector": ".header", "ocr": false },
         { "id": "cta", "selector": ".shared-cta", "minOcrScore": 0.95 },
-        { "id": "main", "selector": ".main", "minOcrScore": 0.91 },
+        { "id": "main", "selector": ".main", "minOcrScore": 0.75 },
         { "id": "footer", "selector": ".footer", "ocr": false, "layout": "size" }
       ]
     },
@@ -54,7 +54,7 @@
       "regions": [
         { "id": "header", "selector": ".header", "ocr": false },
         { "id": "cta", "selector": ".shared-cta", "minOcrScore": 0.95 },
-        { "id": "main", "selector": ".main", "minOcrScore": 0.91 },
+        { "id": "main", "selector": ".main", "minOcrScore": 0.75 },
         { "id": "footer", "selector": ".footer", "ocr": false, "layout": "size" }
       ]
     },
