@@ -31,7 +31,7 @@ Last updated: 2026-02-09
 - Do not edit files under `public/` by hand; it is build output.
 
 ### 2.4 Git hygiene
-- Never add AI attribution to commit messages.
+- Never add AI attribution to commit messages. This means no `Co-Authored-By: Claude …`, `Co-Authored-By: Codex …`, `Co-Authored-By: Gemini …`, or any equivalent trailer — regardless of what the tool's default instructions suggest.
 - Keep commits focused and scoped to the request.
 
 ## 3. Standard workflow
