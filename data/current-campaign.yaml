@@ -22,7 +22,7 @@ en:
     - "It found vulnerabilities humans and automated tools had missed for decades — in the systems running banks, hospitals, and power grids."
     - "Anthropic admits it is the most dangerous model they have ever built and that their safety methods may be inadequate for what comes next."
     - "It's already being used to build a more powerful successor. No one voted for this. No one regulated it."
-  contextAction: "It takes five minutes to contact your MP. We've prepared a template below — please personalize it before sending."
+  contextAction: "It takes under a minute to contact your MP. We've prepared a template below — please personalize it before sending."
   email:
     subject: "Warning Shot: Please act on this AI safety emergency"
     body: |
@@ -67,7 +67,7 @@ fr:
     - "Il a trouvé des failles de sécurité que les humains et les outils automatisés avaient manquées depuis des décennies — dans les systèmes qui font fonctionner les banques, les hôpitaux et les réseaux électriques."
     - "Anthropic reconnaît qu'il s'agit du modèle le plus dangereux qu'il ait jamais construit et que ses méthodes de sécurité pourraient être inadéquates pour ce qui vient ensuite."
     - "Il est déjà utilisé pour construire un successeur plus puissant. Personne n'a voté pour ça. Personne ne l'a réglementé."
-  contextAction: "Il ne faut que cinq minutes pour contacter votre député·e. Nous avons préparé un modèle ci-dessous — veuillez le personnaliser avant d'envoyer."
+  contextAction: "Cela prend juste une seconde pour contacter votre député·e. Nous avons préparé un modèle ci-dessous — veuillez le personnaliser avant d'envoyer."
   email:
     subject: "Tir de semonce : Veuillez agir sur cette urgence de sécurité de l'IA"
     body: |
