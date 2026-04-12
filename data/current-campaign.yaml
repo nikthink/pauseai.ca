@@ -8,7 +8,7 @@
 #   {postalCode}   — sender's postal code, from the form
 
 bcc: "mythos@pauseai.info"
-cc: ""
+cc: "jeremy.eliosoff@gmail.com"
 
 en:
   warningBadge: "Warning Shot Protocol"
