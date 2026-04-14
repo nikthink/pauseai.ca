@@ -40,9 +40,9 @@ en:
 
       I am asking you to:
 
-      1. **Raise this issue** with the relevant committee or minister and request a briefing from our national cybersecurity authorities on our country's exposure to AI-enabled cyber threats.
-      2. **Support efforts** to require independent safety assessments before AI systems with dangerous capabilities are developed or deployed.
-      3. **Advocate for international cooperation** on governing AI systems with weapons-grade capabilities, similar to existing frameworks for nuclear, biological, and chemical weapons.
+      1. Raise this issue with the relevant committee or minister and request a briefing from our national cybersecurity authorities on our country's exposure to AI-enabled cyber threats.
+      2. Support efforts to require independent safety assessments before AI systems with dangerous capabilities are developed or deployed.
+      3. Advocate for international cooperation on governing AI systems with weapons-grade capabilities, similar to existing frameworks for nuclear, biological, and chemical weapons.
 
       If you or your staff would like more information, the organisation PauseAI Global (pauseai.info) works on these issues and would welcome the opportunity to brief you.
 
@@ -85,9 +85,9 @@ fr:
 
       Je vous demande de :
 
-      1. **Soulever cette question** auprès du comité ou du ministre compétent et demander une séance d'information de nos autorités nationales de cybersécurité sur l'exposition de notre pays aux cybermenaces liées à l'IA.
-      2. **Soutenir les efforts** visant à exiger des évaluations de sécurité indépendantes avant que des systèmes d'IA aux capacités dangereuses soient développés ou déployés.
-      3. **Défendre la coopération internationale** pour encadrer les systèmes d'IA aux capacités comparables à des armes, à l'instar des cadres existants pour les armes nucléaires, biologiques et chimiques.
+      1. Soulever cette question auprès du comité ou du ministre compétent et demander une séance d'information de nos autorités nationales de cybersécurité sur l'exposition de notre pays aux cybermenaces liées à l'IA.
+      2. Soutenir les efforts visant à exiger des évaluations de sécurité indépendantes avant que des systèmes d'IA aux capacités dangereuses soient développés ou déployés.
+      3. Défendre la coopération internationale pour encadrer les systèmes d'IA aux capacités comparables à des armes, à l'instar des cadres existants pour les armes nucléaires, biologiques et chimiques.
 
       Si vous ou votre personnel souhaitez obtenir plus d'informations, l'organisation PauseAI Global (pauseai.info) travaille sur ces enjeux et se ferait un plaisir de vous informer.
 
@@ -104,6 +104,8 @@ bilingual:
   email:
     subject: "Warning Shot / Tir de semonce: Please act on this AI safety emergency"
     body: |
+      Français suit / French follows
+      ---
       Dear {mpName},
 
       My name is {name} and I am a constituent in {districtName}.
@@ -136,8 +138,6 @@ bilingual:
       {name}
       {postalCode}
 
-      ---
-      Français suit / French follows
       ---
 
       Bonjour {mpName},
