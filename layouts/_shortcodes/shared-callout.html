@@ -1,17 +1,14 @@
 {{ $lang := site.Language.Lang }}
 {{ $subscribeCountry := "Canada" }}
 {{ $subscribeCity := .Get "city" }}
-{{ $subscribeLanguages := .Get "languages" }}
+{{ $subscribeLanguage := default (cond (eq $lang "fr") "French" "English") (.Get "language") }}
 {{ $calendarUrl := default "https://luma.com/pauseaimtl" (.Get "calendar") }}
 {{ $discordUrl := default "/ca/discord.html" (.Get "discord") }}
-{{ $subscribeQuery := querify "Country of residence" $subscribeCountry "country_of_residence" $subscribeCountry }}
+{{ $subscribeQuery := querify "country" $subscribeCountry "language" $subscribeLanguage }}
 {{ if $subscribeCity }}
-  {{ $subscribeQuery = printf "%s&%s" $subscribeQuery (querify "City/ town of residence" $subscribeCity "City/town of residence" $subscribeCity "city_of_residence" $subscribeCity) }}
+  {{ $subscribeQuery = printf "%s&%s" $subscribeQuery (querify "city" $subscribeCity) }}
 {{ end }}
-{{ if $subscribeLanguages }}
-  {{ $subscribeQuery = printf "%s&%s" $subscribeQuery (querify "What languages do you speak" $subscribeLanguages "What languages do you speak?" $subscribeLanguages "what_languages_do_you_speak" $subscribeLanguages) }}
-{{ end }}
-{{ $subscribeUrl := printf "https://pauseai.info/join?%s" $subscribeQuery }}
+{{ $subscribeUrl := printf "https://pauseai.info/embed/onboarding-form?%s" $subscribeQuery }}
 
 <section class="shared-cta">
   {{ if eq $lang "fr" }}

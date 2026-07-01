@@ -13,7 +13,7 @@ params:
     toc: false
     showTranslations: false
 ---
-{{< shared-callout city="Montreal" languages="English, French" >}}
+{{< shared-callout city="Montreal" language="English" >}}
 
 We are a community of volunteers that aims to mitigate
 the risks of AI by convincing governments to
