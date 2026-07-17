@@ -1,10 +1,12 @@
 {{ $lang := site.Language.Lang }}
 {{ $subscribeCountry := "Canada" }}
 {{ $subscribeCity := .Get "city" }}
-{{ $subscribeLanguage := default (cond (eq $lang "fr") "French" "English") (.Get "language") }}
+{{ $defaultLanguage := cond (eq $lang "fr") "French" "English" }}
+{{ $subscribeLanguage := .Get "language" }}
+{{ $subscribeLanguages := default (default $defaultLanguage $subscribeLanguage) (.Get "languages") }}
 {{ $calendarUrl := default "https://luma.com/pauseaimtl" (.Get "calendar") }}
 {{ $discordUrl := default "/ca/discord.html" (.Get "discord") }}
-{{ $subscribeQuery := querify "country" $subscribeCountry "language" $subscribeLanguage }}
+{{ $subscribeQuery := querify "country" $subscribeCountry "languages" $subscribeLanguages }}
 {{ if $subscribeCity }}
   {{ $subscribeQuery = printf "%s&%s" $subscribeQuery (querify "city" $subscribeCity) }}
 {{ end }}
